@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="10421387142464827738">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Irq_Cfg.h&quot; not found." verbose="Include file: &quot;Irq_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="172" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="543" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="42" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafeWdgIf_Cfg.h&quot; not found." verbose="Include file: &quot;SafeWdgIf_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi.h&quot; not found." verbose="Include file: &quot;Spi.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="54" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="99" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="573" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Ifx_MemMap.h&quot; not found." verbose="Include file: &quot;Ifx_MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="580" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Ifx_MemMap.h&quot; not found." verbose="Include file: &quot;Ifx_MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Spi_Irq.c" line="751" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="ISR" lineNumber="137"/>
+    <functiondecl functionName="ISR" lineNumber="167"/>
+    <functiondecl functionName="ISR" lineNumber="198"/>
+    <functiondecl functionName="ISR" lineNumber="229"/>
+    <functiondecl functionName="ISR" lineNumber="260"/>
+    <functiondecl functionName="ISR" lineNumber="291"/>
+    <functiondecl functionName="ISR" lineNumber="608"/>
+    <functiondecl functionName="ISR" lineNumber="633"/>
+    <functiondecl functionName="ISR" lineNumber="657"/>
+    <functiondecl functionName="ISR" lineNumber="681"/>
+    <functiondecl functionName="ISR" lineNumber="705"/>
+    <functiondecl functionName="ISR" lineNumber="730"/>
+    <functiondecl functionName="ISR" lineNumber="137"/>
+    <functiondecl functionName="ISR" lineNumber="167"/>
+    <functiondecl functionName="ISR" lineNumber="198"/>
+    <functiondecl functionName="ISR" lineNumber="229"/>
+    <functiondecl functionName="ISR" lineNumber="260"/>
+    <functiondecl functionName="ISR" lineNumber="291"/>
+    <functiondecl functionName="ISR" lineNumber="608"/>
+    <functiondecl functionName="ISR" lineNumber="633"/>
+    <functiondecl functionName="ISR" lineNumber="657"/>
+    <functiondecl functionName="ISR" lineNumber="681"/>
+    <functiondecl functionName="ISR" lineNumber="705"/>
+    <functiondecl functionName="ISR" lineNumber="730"/>
+    <functioncall functionName="ISR"/>
+    <functioncall functionName="Mcal_EnableAllInterrupts"/>
+    <functioncall functionName="QSPI0ERR_ISR"/>
+    <functioncall functionName="QSPI0RX_ISR"/>
+    <functioncall functionName="QSPI1ERR_ISR"/>
+    <functioncall functionName="QSPI1RX_ISR"/>
+    <functioncall functionName="QSPI2ERR_ISR"/>
+    <functioncall functionName="QSPI2RX_ISR"/>
+    <functioncall functionName="QSPI3ERR_ISR"/>
+    <functioncall functionName="QSPI3RX_ISR"/>
+    <functioncall functionName="QSPI4ERR_ISR"/>
+    <functioncall functionName="QSPI4RX_ISR"/>
+    <functioncall functionName="QSPI5ERR_ISR"/>
+    <functioncall functionName="QSPI5RX_ISR"/>
+    <functioncall functionName="SPI_QSPI0_INDEX"/>
+    <functioncall functionName="SPI_QSPI1_INDEX"/>
+    <functioncall functionName="SPI_QSPI2_INDEX"/>
+    <functioncall functionName="SPI_QSPI3_INDEX"/>
+    <functioncall functionName="SPI_QSPI4_INDEX"/>
+    <functioncall functionName="SPI_QSPI5_INDEX"/>
+    <functioncall functionName="SafeWdgQspi_IsrTxRx"/>
+    <functioncall functionName="Spi_IsrQspiError"/>
+  </FileInfo>
+</analyzerinfo>

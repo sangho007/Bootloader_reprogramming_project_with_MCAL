@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="3746658502995153312">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi_Cfg.h&quot; not found." verbose="Include file: &quot;Spi_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi_Cfg.h&quot; not found." verbose="Include file: &quot;Spi_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1251" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1255" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1263" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1270" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1275" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1279" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1286" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1291" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1296" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1301" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1313" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="2237" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="95" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="101" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="108" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="113" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="91" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="100" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="105" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="117" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="122" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="134" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="151" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="168" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="174" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="405" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dem.h&quot; not found." verbose="Include file: &quot;Dem.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Ver.c" line="50" column="0"/>
+        </error>
+        <error id="preprocessorErrorDirective" severity="error" msg="#error &quot;SPI_SW_MAJOR_VERSION does not match. &quot;" verbose="#error &quot;SPI_SW_MAJOR_VERSION does not match. &quot;" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Ver.c" line="71" column="4"/>
+        </error>
+        <error id="noValidConfiguration" severity="information" msg="This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details." verbose="This file is not analyzed. Cppcheck failed to extract a valid configuration. The tested configurations have these preprocessor errors:\012&apos;&apos; : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c:57] #error &quot;SPI_SW_MAJOR_VERSION is not defined. &quot;\012SPI_SW_MAJOR_VERSION;SPI_SW_MINOR_VERSION;SPI_SW_PATCH_VERSION;SPI_AR_RELEASE_MAJOR_VERSION;SPI_AR_RELEASE_MINOR_VERSION;SPI_AR_RELEASE_REVISION_VERSION;DET_AR_RELEASE_MAJOR_VERSION;DET_AR_RELEASE_MINOR_VERSION;DEM_AR_RELEASE_MAJOR_VERSION;DEM_AR_RELEASE_MINOR_VERSION : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Ver.c:71] #error &quot;SPI_SW_MAJOR_VERSION does not match. &quot;" file0="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Ver.c" line="0" column="0"/>
+        </error>
+</analyzerinfo>

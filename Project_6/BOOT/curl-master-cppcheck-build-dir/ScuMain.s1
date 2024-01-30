@@ -1,0 +1,3 @@
+GptNotification_1ms call:[REtCcpCustom_ccpCustomTask1ms,UT_getTimeEcuAlive1ms,UT_updateTimeEcuAlive10ms,UT_updateTimeEcuAlive1ms] noreturn:[UT_updateTimeEcuAlive10ms]
+Task_10ms call:[REtBswCom_bswComMain,REtBswDcm_bswDcmMain,REtEcuAbs_ecuAbsMain] noreturn:[REtBswDcm_bswDcmMain]
+ScuMain call:[REcbBswCom_initialize,REcbBswDcm_initialize,REcbCcpCustom_initialize,REcbEcuAbs_initialize,Task_10ms,UT_getTimeEcuAlive10ms] noreturn:[Task_10ms]

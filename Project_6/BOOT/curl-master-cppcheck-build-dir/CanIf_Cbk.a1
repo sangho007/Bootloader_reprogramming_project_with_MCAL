@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="8584317319939065069">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Cbk.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Types.h" line="7" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\Can_GeneralTypes.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Can_17_MCanP_Cfg.h&quot; not found." verbose="Include file: &quot;Can_17_MCanP_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf.h" line="9" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCan_reg.h&quot; not found." verbose="Include file: &quot;IfxCan_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Cbk.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Can_17_MCanP.h&quot; not found." verbose="Include file: &quot;Can_17_MCanP.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Cbk.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Cbk.c" line="4" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="UT_canRxIndication"/>
+    <functioncall functionName="UT_canTxConfirmation"/>
+  </FileInfo>
+</analyzerinfo>

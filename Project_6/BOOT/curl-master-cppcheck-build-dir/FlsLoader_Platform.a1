@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="9308274553780888113">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxFlash_reg.h&quot; not found." verbose="Include file: &quot;IfxFlash_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;FlsLoader_Local.h&quot; not found." verbose="Include file: &quot;FlsLoader_Local.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="78" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="351" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="359" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="422" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="427" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="445" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="476" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="1031" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="1036" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="2042" column="0"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c:435:39" call-funcname="FlsLoader_lLockCmdCyclesWrite" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c" line="719" col="20" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c:430:40" my-argnr="3"/>
+  </FileInfo>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="451" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader_Platform.c" line="466" column="0"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c:435:39" call-funcname="FlsLoader_lLockCmdCyclesWrite" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c" line="719" col="20" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader_Platform.c:430:40" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="FlsLoader_lLock" lineNumber="497"/>
+    <functiondecl functionName="FlsLoader_lLockCmdCycles" lineNumber="570"/>
+    <functiondecl functionName="FlsLoader_lLockCmdCyclesWrite" lineNumber="763"/>
+    <functiondecl functionName="FlsLoader_lCheckOTPWOP" lineNumber="967"/>
+    <functiondecl functionName="FlsLoader_lSectorNumber" lineNumber="1009"/>
+    <functiondecl functionName="FlsLoader_lWriteDetCheck" lineNumber="1061"/>
+    <functiondecl functionName="FlsLoader_lEraseDetCheck" lineNumber="1164"/>
+    <functiondecl functionName="FlsLoader_lAddressPageCheck" lineNumber="1289"/>
+    <functiondecl functionName="FlsLoader_lDFlashCheck" lineNumber="1346"/>
+    <functiondecl functionName="FlsLoader_lDFlashAddressCheck" lineNumber="1397"/>
+    <functiondecl functionName="FlsLoader_lDFlashLengthCheck" lineNumber="1455"/>
+    <functiondecl functionName="FlsLoader_lPFlashCheck" lineNumber="1515"/>
+    <functiondecl functionName="FlsLoader_lPFlashAddressCheck" lineNumber="1554"/>
+    <functiondecl functionName="FlsLoader_lDFlashPageCheck" lineNumber="1600"/>
+    <functiondecl functionName="FlsLoader_lGetFlashType" lineNumber="1659"/>
+    <functiondecl functionName="FlsLoader_lFlashLockCheck" lineNumber="1703"/>
+    <functiondecl functionName="FlsLoader_lPFlashSectorCheck" lineNumber="1788"/>
+    <functiondecl functionName="FlsLoader_lEraseLockCheck" lineNumber="1868"/>
+    <functiondecl functionName="FlsLoader_lCheckSectorProt" lineNumber="1956"/>
+    <functiondecl functionName="FlsLoader_lSectorProtCheck" lineNumber="1995"/>
+    <functiondecl functionName="FlsLoader_lLock" lineNumber="497"/>
+    <functiondecl functionName="FlsLoader_lLockCmdCycles" lineNumber="570"/>
+    <functiondecl functionName="FlsLoader_lLockCmdCyclesWrite" lineNumber="763"/>
+    <functiondecl functionName="FlsLoader_lCheckOTPWOP" lineNumber="967"/>
+    <functiondecl functionName="FlsLoader_lSectorNumber" lineNumber="1009"/>
+    <functiondecl functionName="FlsLoader_lWriteDetCheck" lineNumber="1061"/>
+    <functiondecl functionName="FlsLoader_lEraseDetCheck" lineNumber="1164"/>
+    <functiondecl functionName="FlsLoader_lAddressPageCheck" lineNumber="1289"/>
+    <functiondecl functionName="FlsLoader_lDFlashCheck" lineNumber="1346"/>
+    <functiondecl functionName="FlsLoader_lDFlashAddressCheck" lineNumber="1397"/>
+    <functiondecl functionName="FlsLoader_lDFlashLengthCheck" lineNumber="1455"/>
+    <functiondecl functionName="FlsLoader_lPFlashCheck" lineNumber="1515"/>
+    <functiondecl functionName="FlsLoader_lPFlashAddressCheck" lineNumber="1554"/>
+    <functiondecl functionName="FlsLoader_lDFlashPageCheck" lineNumber="1600"/>
+    <functiondecl functionName="FlsLoader_lGetFlashType" lineNumber="1659"/>
+    <functiondecl functionName="FlsLoader_lFlashLockCheck" lineNumber="1703"/>
+    <functiondecl functionName="FlsLoader_lPFlashSectorCheck" lineNumber="1788"/>
+    <functiondecl functionName="FlsLoader_lEraseLockCheck" lineNumber="1868"/>
+    <functiondecl functionName="FlsLoader_lCheckSectorProt" lineNumber="1956"/>
+    <functiondecl functionName="FlsLoader_lSectorProtCheck" lineNumber="1995"/>
+    <functioncall functionName="DFPAGE"/>
+    <functioncall functionName="Det_ReportError"/>
+    <functioncall functionName="ERASE"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="FLSLOADER_CONFIRMATION_CODE_B0"/>
+    <functioncall functionName="FLSLOADER_CONFIRMATION_CODE_B1"/>
+    <functioncall functionName="FLSLOADER_CONFIRMATION_CODE_B2"/>
+    <functioncall functionName="FLSLOADER_CONFIRMATION_CODE_B3"/>
+    <functioncall functionName="FLSLOADER_DFLASH_BANK0"/>
+    <functioncall functionName="FLSLOADER_DFLASH_VAL"/>
+    <functioncall functionName="FLSLOADER_E_LOCKED"/>
+    <functioncall functionName="FLSLOADER_E_NOT_OK"/>
+    <functioncall functionName="FLSLOADER_E_OK"/>
+    <functioncall functionName="FLSLOADER_E_PARAM_ADDRESS"/>
+    <functioncall functionName="FLSLOADER_E_PARAM_LENGTH"/>
+    <functioncall functionName="FLSLOADER_E_ROMVERSION"/>
+    <functioncall functionName="FLSLOADER_E_UNINIT"/>
+    <functioncall functionName="FLSLOADER_GET_CYCLE_AA50"/>
+    <functioncall functionName="FLSLOADER_GET_CYCLE_AA58"/>
+    <functioncall functionName="FLSLOADER_GET_CYCLE_AAA8"/>
+    <functioncall functionName="FLSLOADER_INSTANCE_ID"/>
+    <functioncall functionName="FLSLOADER_INV"/>
+    <functioncall functionName="FLSLOADER_MODULE_ID"/>
+    <functioncall functionName="FLSLOADER_MOD_32"/>
+    <functioncall functionName="FLSLOADER_NUM_2"/>
+    <functioncall functionName="FLSLOADER_P0_PW00_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW00_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW00_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW00_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW01_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW01_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW01_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW01_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW10_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW10_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW10_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW10_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW11_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW11_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW11_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW11_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW20_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW20_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW20_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW20_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW21_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW21_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW21_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW21_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW30_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW30_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW30_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW30_B3"/>
+    <functioncall functionName="FLSLOADER_P0_PW31_B0"/>
+    <functioncall functionName="FLSLOADER_P0_PW31_B1"/>
+    <functioncall functionName="FLSLOADER_P0_PW31_B2"/>
+    <functioncall functionName="FLSLOADER_P0_PW31_B3"/>
+    <functioncall functionName="FLSLOADER_PFLASH0_END"/>
+    <functioncall functionName="FLSLOADER_PFLASH0_START_ADDRESS"/>
+    <functioncall functionName="FLSLOADER_PFLASH_BANK0"/>
+    <functioncall functionName="FLSLOADER_PF_S0"/>
+    <functioncall functionName="FLSLOADER_PF_S1"/>
+    <functioncall functionName="FLSLOADER_PF_S10"/>
+    <functioncall functionName="FLSLOADER_PF_S11"/>
+    <functioncall functionName="FLSLOADER_PF_S12"/>
+    <functioncall functionName="FLSLOADER_PF_S13"/>
+    <functioncall functionName="FLSLOADER_PF_S14"/>
+    <functioncall functionName="FLSLOADER_PF_S15"/>
+    <functioncall functionName="FLSLOADER_PF_S16"/>
+    <functioncall functionName="FLSLOADER_PF_S17"/>
+    <functioncall functionName="FLSLOADER_PF_S18"/>
+    <functioncall functionName="FLSLOADER_PF_S19"/>
+    <functioncall functionName="FLSLOADER_PF_S2"/>
+    <functioncall functionName="FLSLOADER_PF_S20"/>
+    <functioncall functionName="FLSLOADER_PF_S21"/>
+    <functioncall functionName="FLSLOADER_PF_S22"/>
+    <functioncall functionName="FLSLOADER_PF_S23"/>
+    <functioncall functionName="FLSLOADER_PF_S24"/>
+    <functioncall functionName="FLSLOADER_PF_S25"/>
+    <functioncall functionName="FLSLOADER_PF_S26"/>
+    <functioncall functionName="FLSLOADER_PF_S3"/>
+    <functioncall functionName="FLSLOADER_PF_S4"/>
+    <functioncall functionName="FLSLOADER_PF_S5"/>
+    <functioncall functionName="FLSLOADER_PF_S6"/>
+    <functioncall functionName="FLSLOADER_PF_S7"/>
+    <functioncall functionName="FLSLOADER_PF_S8"/>
+    <functioncall functionName="FLSLOADER_PF_S9"/>
+    <functioncall functionName="FLSLOADER_PROCONOTP0_BYTE0"/>
+    <functioncall functionName="FLSLOADER_PROCONOTP0_BYTE1"/>
+    <functioncall functionName="FLSLOADER_PROCONOTP0_BYTE2"/>
+    <functioncall functionName="FLSLOADER_PROCONOTP0_BYTE3"/>
+    <functioncall functionName="FLSLOADER_PROCONP0_BYTE0"/>
+    <functioncall functionName="FLSLOADER_PROCONP0_BYTE1"/>
+    <functioncall functionName="FLSLOADER_PROCONP0_BYTE2"/>
+    <functioncall functionName="FLSLOADER_PROCONP0_BYTE3"/>
+    <functioncall functionName="FLSLOADER_PROCONWOP0_BYTE0"/>
+    <functioncall functionName="FLSLOADER_PROCONWOP0_BYTE1"/>
+    <functioncall functionName="FLSLOADER_PROCONWOP0_BYTE2"/>
+    <functioncall functionName="FLSLOADER_PROCONWOP0_BYTE3"/>
+    <functioncall functionName="FLSLOADER_SID_ERASE"/>
+    <functioncall functionName="FLSLOADER_SID_WRITE"/>
+    <functioncall functionName="FLSLOADER_UCB_SIZE"/>
+    <functioncall functionName="FLSLOADER_VALUE_00"/>
+    <functioncall functionName="FLSLOADER_VALUE_50"/>
+    <functioncall functionName="FLSLOADER_VALUE_80"/>
+    <functioncall functionName="FLSLOADER_VALUE_A0"/>
+    <functioncall functionName="FLSLOADER_VALUE_AA"/>
+    <functioncall functionName="FLSLOADER_VALUE_FA"/>
+    <functioncall functionName="FlsLoader_AddressType"/>
+    <functioncall functionName="FlsLoader_LengthType"/>
+    <functioncall functionName="FlsLoader_lAddressPageCheck"/>
+    <functioncall functionName="FlsLoader_lCheckFlashType"/>
+    <functioncall functionName="FlsLoader_lCheckSectorProt"/>
+    <functioncall functionName="FlsLoader_lClearStatus"/>
+    <functioncall functionName="FlsLoader_lDFlashAddressCheck"/>
+    <functioncall functionName="FlsLoader_lDFlashCheck"/>
+    <functioncall functionName="FlsLoader_lDFlashLengthCheck"/>
+    <functioncall functionName="FlsLoader_lDFlashPageCheck"/>
+    <functioncall functionName="FlsLoader_lDisableInts"/>
+    <functioncall functionName="FlsLoader_lEnableInts"/>
+    <functioncall functionName="FlsLoader_lEnterPageMode"/>
+    <functioncall functionName="FlsLoader_lLoadPage"/>
+    <functioncall functionName="FlsLoader_lLockCmdCyclesWrite"/>
+    <functioncall functionName="FlsLoader_lPFlashAddressCheck"/>
+    <functioncall functionName="FlsLoader_lPFlashCheck"/>
+    <functioncall functionName="FlsLoader_lPFlashSectorCheck"/>
+    <functioncall functionName="FlsLoader_lProtSeqOperErrorCheck"/>
+    <functioncall functionName="FlsLoader_lSectorNumber"/>
+    <functioncall functionName="FlsLoader_lSectorProtCheck"/>
+    <functioncall functionName="L"/>
+    <functioncall functionName="PRODISD"/>
+    <functioncall functionName="PRODISP"/>
+    <functioncall functionName="PROG"/>
+    <functioncall functionName="RPRO"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

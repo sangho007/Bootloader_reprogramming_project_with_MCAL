@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="1630447285625878564">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc.h&quot; not found." verbose="Include file: &quot;Adc.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_EcuAbs.h&quot; not found." verbose="Include file: &quot;Rte_EcuAbs.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dio_Cfg.h&quot; not found." verbose="Include file: &quot;Dio_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.c" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dio.h&quot; not found." verbose="Include file: &quot;Dio.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.c" line="5" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc_Cfg.h&quot; not found." verbose="Include file: &quot;Adc_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Adc\EcuAbsAdc.c" line="6" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initAdc" lineNumber="18"/>
+    <functiondecl functionName="EA_mainAdc" lineNumber="26"/>
+    <functiondecl functionName="AdcNotification_AdcHwUnit0_AdcGroup0" lineNumber="32"/>
+    <functiondecl functionName="AdcNotification_AdcHwUnit1_AdcGroup0" lineNumber="37"/>
+    <functiondecl functionName="EA_getAdcValue" lineNumber="43"/>
+    <functioncall functionName="AdcConf_AdcChannel_BatteryVoltage"/>
+    <functioncall functionName="AdcConf_AdcChannel_HwVersionResistance"/>
+    <functioncall functionName="AdcConf_AdcChannel_IgnitionVoltage"/>
+    <functioncall functionName="AdcConf_AdcGroup_AdcHwUnit0_AdcGroup0"/>
+    <functioncall functionName="AdcConf_AdcGroup_AdcHwUnit1_AdcGroup0"/>
+    <functioncall functionName="Adc_EnableGroupNotification"/>
+    <functioncall functionName="Adc_SetupResultBuffer"/>
+    <functioncall functionName="Adc_StartGroupConversion"/>
+  </FileInfo>
+</analyzerinfo>

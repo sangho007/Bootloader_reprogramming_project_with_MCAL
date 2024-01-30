@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="2901361065350389656">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxGtm_reg.h&quot; not found." verbose="Include file: &quot;IfxGtm_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm_Cfg.h&quot; not found." verbose="Include file: &quot;Gtm_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm_Cfg.h&quot; not found." verbose="Include file: &quot;Gtm_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="973" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="977" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="980" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="986" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="992" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="2553" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Local.h" line="34" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxGtm_regdef.h&quot; not found." verbose="Include file: &quot;IfxGtm_regdef.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Local.h" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Local.h" line="79" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Local.h" line="95" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafetyReport.h&quot; not found." verbose="Include file: &quot;SafetyReport.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="181" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="267" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="282" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="289" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="340" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="365" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="374" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="398" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="408" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="432" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="443" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="2040" column="0"/>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;GeneralConfigPtr&apos; can be reduced." verbose="The scope of the variable &apos;GeneralConfigPtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="479" column="32"/>
+            <symbol>GeneralConfigPtr</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;TbuConfigPtr&apos; can be reduced." verbose="The scope of the variable &apos;TbuConfigPtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="1343" column="28"/>
+            <symbol>TbuConfigPtr</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;GtmTbu&apos; can be reduced." verbose="The scope of the variable &apos;GtmTbu&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="1344" column="25"/>
+            <symbol>GtmTbu</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;GeneralConfigPtr&apos; can be reduced." verbose="The scope of the variable &apos;GeneralConfigPtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="1848" column="32"/>
+            <symbol>GeneralConfigPtr</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;TempCompVar&apos; is assigned a value that is never used." verbose="Variable &apos;TempCompVar&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.c" line="1844" column="22"/>
+            <symbol>TempCompVar</symbol>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h:2474:29" my-argnr="3" my-argname="FltValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h" line="2478" col="3" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h:2474:29" my-argnr="3" my-argname="FltValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h" line="2478" col="3" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Gtm_SetTomHostTrigger" lineNumber="1261"/>
+    <functiondecl functionName="Gtm_SetTomCounterCn0" lineNumber="1298"/>
+    <functiondecl functionName="Gtm_GetTomCounterCn0" lineNumber="1336"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm0" lineNumber="1376"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm0" lineNumber="1413"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm1" lineNumber="1452"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm1" lineNumber="1492"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr0" lineNumber="1530"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr0" lineNumber="1568"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr1" lineNumber="1607"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr1" lineNumber="1647"/>
+    <functiondecl functionName="Gtm_GetTomOutputState" lineNumber="1682"/>
+    <functiondecl functionName="Gtm_SetTimCounterShadowValCnts" lineNumber="1723"/>
+    <functiondecl functionName="Gtm_GetTimCounterShadowValCnts" lineNumber="1760"/>
+    <functiondecl functionName="Gtm_GetTimCounterValCnt" lineNumber="1796"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr0" lineNumber="1830"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr1" lineNumber="1864"/>
+    <functiondecl functionName="Gtm_SetTimTimeoutVal" lineNumber="1900"/>
+    <functiondecl functionName="Gtm_EnableTimTimeoutDetection" lineNumber="1942"/>
+    <functiondecl functionName="Gtm_DisableTimTimeoutDetection" lineNumber="1978"/>
+    <functiondecl functionName="Gtm_SelectTimTimeoutClock" lineNumber="2018"/>
+    <functiondecl functionName="Gtm_GetTimCurrentTimeoutVal" lineNumber="2059"/>
+    <functiondecl functionName="Gtm_EnableTbuChannel" lineNumber="2089"/>
+    <functiondecl functionName="Gtm_DisableTbuChannel" lineNumber="2125"/>
+    <functiondecl functionName="Gtm_GetTbuChannelStatus" lineNumber="2165"/>
+    <functiondecl functionName="Gtm_GetTbuTimerValue" lineNumber="2220"/>
+    <functiondecl functionName="Gtm_EnableTomChannel" lineNumber="2271"/>
+    <functiondecl functionName="Gtm_DisableTomChannel" lineNumber="2314"/>
+    <functiondecl functionName="Gtm_EnableTomCoherantUpdate" lineNumber="2358"/>
+    <functiondecl functionName="Gtm_TrigActTimebase" lineNumber="2394"/>
+    <functiondecl functionName="Gtm_SetTimFilterThreshold" lineNumber="2433"/>
+    <functiondecl functionName="Gtm_GetTimFilterThreshold" lineNumber="2474"/>
+    <functiondecl functionName="Gtm_GetTomTimerRegisters" lineNumber="2512"/>
+    <functiondecl functionName="Gtm_lGetIntSource" lineNumber="188"/>
+    <functiondecl functionName="Gtm_lGetUnused8" lineNumber="196"/>
+    <functiondecl functionName="Gtm_lGetBit8" lineNumber="204"/>
+    <functiondecl functionName="Gtm_lGetModuleIndex" lineNumber="211"/>
+    <functiondecl functionName="Gtm_lGetTomIrqStatus" lineNumber="843"/>
+    <functiondecl functionName="Gtm_lCmuConfClkConfigure" lineNumber="896"/>
+    <functiondecl functionName="Gtm_lCmuExtClkConfigure" lineNumber="949"/>
+    <functiondecl functionName="Gtm_lCmuClockConfigure" lineNumber="1020"/>
+    <functiondecl functionName="Gtm_lSaveTgcStatus" lineNumber="1120"/>
+    <functiondecl functionName="Gtm_lTomHostTrigger" lineNumber="1162"/>
+    <functiondecl functionName="Gtm_lTomTgcConfigure" lineNumber="1208"/>
+    <functiondecl functionName="Gtm_lPortConfig" lineNumber="1301"/>
+    <functiondecl functionName="Gtm_lTbuConfig" lineNumber="1341"/>
+    <functiondecl functionName="Gtm_lTtcanConnectionsConfig" lineNumber="1399"/>
+    <functiondecl functionName="Gtm_lEnableGtm" lineNumber="1423"/>
+    <functiondecl functionName="Gtm_lResetKernelInit" lineNumber="1506"/>
+    <functiondecl functionName="Gtm_lResetKernelDeInit" lineNumber="1569"/>
+    <functiondecl functionName="Gtm_lTomConfigure" lineNumber="1631"/>
+    <functiondecl functionName="Gtm_InitCheck" lineNumber="1842"/>
+    <functiondecl functionName="Gtm_lGetTimIrqStatus" lineNumber="2002"/>
+    <functiondecl functionName="Gtm_SetTomHostTrigger" lineNumber="1261"/>
+    <functiondecl functionName="Gtm_SetTomCounterCn0" lineNumber="1298"/>
+    <functiondecl functionName="Gtm_GetTomCounterCn0" lineNumber="1336"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm0" lineNumber="1376"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm0" lineNumber="1413"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm1" lineNumber="1452"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm1" lineNumber="1492"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr0" lineNumber="1530"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr0" lineNumber="1568"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr1" lineNumber="1607"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr1" lineNumber="1647"/>
+    <functiondecl functionName="Gtm_GetTomOutputState" lineNumber="1682"/>
+    <functiondecl functionName="Gtm_SetTimCounterShadowValCnts" lineNumber="1723"/>
+    <functiondecl functionName="Gtm_GetTimCounterShadowValCnts" lineNumber="1760"/>
+    <functiondecl functionName="Gtm_GetTimCounterValCnt" lineNumber="1796"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr0" lineNumber="1830"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr1" lineNumber="1864"/>
+    <functiondecl functionName="Gtm_SetTimTimeoutVal" lineNumber="1900"/>
+    <functiondecl functionName="Gtm_EnableTimTimeoutDetection" lineNumber="1942"/>
+    <functiondecl functionName="Gtm_DisableTimTimeoutDetection" lineNumber="1978"/>
+    <functiondecl functionName="Gtm_SelectTimTimeoutClock" lineNumber="2018"/>
+    <functiondecl functionName="Gtm_GetTimCurrentTimeoutVal" lineNumber="2059"/>
+    <functiondecl functionName="Gtm_EnableTbuChannel" lineNumber="2089"/>
+    <functiondecl functionName="Gtm_DisableTbuChannel" lineNumber="2125"/>
+    <functiondecl functionName="Gtm_GetTbuChannelStatus" lineNumber="2165"/>
+    <functiondecl functionName="Gtm_GetTbuTimerValue" lineNumber="2220"/>
+    <functiondecl functionName="Gtm_EnableTomChannel" lineNumber="2271"/>
+    <functiondecl functionName="Gtm_DisableTomChannel" lineNumber="2314"/>
+    <functiondecl functionName="Gtm_EnableTomCoherantUpdate" lineNumber="2358"/>
+    <functiondecl functionName="Gtm_TrigActTimebase" lineNumber="2394"/>
+    <functiondecl functionName="Gtm_SetTimFilterThreshold" lineNumber="2433"/>
+    <functiondecl functionName="Gtm_GetTimFilterThreshold" lineNumber="2474"/>
+    <functiondecl functionName="Gtm_GetTomTimerRegisters" lineNumber="2512"/>
+    <functiondecl functionName="Gtm_lGetIntSource" lineNumber="188"/>
+    <functiondecl functionName="Gtm_lGetUnused8" lineNumber="196"/>
+    <functiondecl functionName="Gtm_lGetBit8" lineNumber="204"/>
+    <functiondecl functionName="Gtm_lGetModuleIndex" lineNumber="211"/>
+    <functiondecl functionName="Gtm_lGetTomIrqStatus" lineNumber="843"/>
+    <functiondecl functionName="Gtm_lCmuConfClkConfigure" lineNumber="896"/>
+    <functiondecl functionName="Gtm_lCmuExtClkConfigure" lineNumber="949"/>
+    <functiondecl functionName="Gtm_lCmuClockConfigure" lineNumber="1020"/>
+    <functiondecl functionName="Gtm_lSaveTgcStatus" lineNumber="1120"/>
+    <functiondecl functionName="Gtm_lTomHostTrigger" lineNumber="1162"/>
+    <functiondecl functionName="Gtm_lTomTgcConfigure" lineNumber="1208"/>
+    <functiondecl functionName="Gtm_lPortConfig" lineNumber="1301"/>
+    <functiondecl functionName="Gtm_lTbuConfig" lineNumber="1341"/>
+    <functiondecl functionName="Gtm_lTtcanConnectionsConfig" lineNumber="1399"/>
+    <functiondecl functionName="Gtm_lEnableGtm" lineNumber="1423"/>
+    <functiondecl functionName="Gtm_lResetKernelInit" lineNumber="1506"/>
+    <functiondecl functionName="Gtm_lResetKernelDeInit" lineNumber="1569"/>
+    <functiondecl functionName="Gtm_lTomConfigure" lineNumber="1631"/>
+    <functiondecl functionName="Gtm_InitCheck" lineNumber="1842"/>
+    <functiondecl functionName="Gtm_lGetTimIrqStatus" lineNumber="2002"/>
+    <functioncall functionName="CMU"/>
+    <functioncall functionName="E_NOT_OK"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="GTM_CHANNELS_PER_TIM_MODULE"/>
+    <functioncall functionName="GTM_CHANNELS_PER_TOM_MODULE"/>
+    <functioncall functionName="GTM_CONFIG_COUNT"/>
+    <functioncall functionName="GTM_ICM_IRQG_2"/>
+    <functioncall functionName="GTM_ICM_IRQG_6"/>
+    <functioncall functionName="GTM_MCU_MODULE_INSTANCE"/>
+    <functioncall functionName="GTM_NO_OF_TBU_CHANNELS"/>
+    <functioncall functionName="GTM_NO_OF_TGC_PER_MODULE"/>
+    <functioncall functionName="GTM_NO_OF_TIM_MODULES"/>
+    <functioncall functionName="GTM_NO_OF_TOM_MODULES"/>
+    <functioncall functionName="GTM_NO_OF_TOUTSEL_REGISTERS"/>
+    <functioncall functionName="GTM_TOM0_TGC0_GLB_CTRL"/>
+    <functioncall functionName="GTM_TOM_CHANNELS_PER_TGC"/>
+    <functioncall functionName="Gpt_Isr"/>
+    <functioncall functionName="GtmFxdClkControl"/>
+    <functioncall functionName="Gtm_lAdcConnectionsConfig"/>
+    <functioncall functionName="Gtm_lCmuClockConfigure"/>
+    <functioncall functionName="Gtm_lCmuConfClkConfigure"/>
+    <functioncall functionName="Gtm_lCmuExtClkConfigure"/>
+    <functioncall functionName="Gtm_lEnableGtm"/>
+    <functioncall functionName="Gtm_lGetBit8"/>
+    <functioncall functionName="Gtm_lGetIntSource"/>
+    <functioncall functionName="Gtm_lGetModuleIndex"/>
+    <functioncall functionName="Gtm_lGetTimIrqStatus"/>
+    <functioncall functionName="Gtm_lGetTomIrqStatus"/>
+    <functioncall functionName="Gtm_lGetUnused8"/>
+    <functioncall functionName="Gtm_lPortConfig"/>
+    <functioncall functionName="Gtm_lResetGtmSRCReg"/>
+    <functioncall functionName="Gtm_lResetKernelDeInit"/>
+    <functioncall functionName="Gtm_lResetKernelInit"/>
+    <functioncall functionName="Gtm_lSaveTgcStatus"/>
+    <functioncall functionName="Gtm_lTbuConfig"/>
+    <functioncall functionName="Gtm_lTimConfigure"/>
+    <functioncall functionName="Gtm_lTomClockSetting"/>
+    <functioncall functionName="Gtm_lTomComplexConfig"/>
+    <functioncall functionName="Gtm_lTomConfigure"/>
+    <functioncall functionName="Gtm_lTomHostTrigger"/>
+    <functioncall functionName="Gtm_lTomTgcConfigure"/>
+    <functioncall functionName="Gtm_lTtcanConnectionsConfig"/>
+    <functioncall functionName="Icu_17_GtmCcu6_Isr"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="OS_ModifyPeripheral32"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="OS_WritePeripheral32"/>
+    <functioncall functionName="Pwm_17_Gtm_Isr"/>
+    <functioncall functionName="SafeMcal_ReportError"/>
+    <functioncall functionName="TBU"/>
+    <functioncall functionName="TIM"/>
+    <functioncall functionName="TOM"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="TRUSTED_ApplResetEndInit"/>
+    <functioncall functionName="TRUSTED_ApplSafetyResetEndInit_Timed"/>
+    <functioncall functionName="TRUSTED_ApplSafetySetEndInit_Timed"/>
+    <functioncall functionName="TRUSTED_ApplSetEndInit"/>
+    <functioncall functionName="TestGtm_DebugMask01"/>
+    <functioncall functionName="TestGtm_DebugMask02"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="UNUSED_PARAMETER"/>
+    <functioncall functionName="boolean"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="unsigned_int"/>
+  </FileInfo>
+</analyzerinfo>

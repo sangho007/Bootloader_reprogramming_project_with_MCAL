@@ -1,0 +1,33 @@
+Irq_ClearAsclinIntFlags
+Irq_ClearCcu6IntFlags
+Irq_ClearGptIntFlags
+Irq_ClearGtmIntFlags
+Irq_ClearCanIntFlags
+Irq_ClearGpsrGroupIntFlags
+Irq_ClearSpiIntFlags
+Irq_ClearAdcIntFlags
+Irq_ClearFlexrayIntFlags
+Irq_ClearEthernetIntFlags
+Irq_ClearDmaIntFlags
+Irq_ClearStmIntFlags
+Irq_ClearScuIntFlags
+Irq_ClearPmuIntFlags
+Irq_ClearSentIntFlags
+Irq_ClearHsmIntFlags
+IrqAscLin_Init call:[uint32]
+IrqCcu6_Init call:[uint32]
+IrqGpt_Init call:[uint32]
+IrqGtm_Init call:[uint32]
+IrqCan_Init call:[uint32]
+IrqGpsrGroup_Init call:[uint32]
+IrqSpi_Init call:[uint32]
+IrqAdc_Init call:[uint32]
+IrqFlexray_Init call:[uint32]
+IrqEthernet_Init call:[uint32]
+IrqDma_Init call:[uint32]
+IrqStm_Init call:[uint32]
+IrqScu_Init call:[uint32]
+IrqPmu_Init call:[uint32]
+IrqSent_Init call:[uint32]
+IrqHsm_Init call:[uint32]
+Irq_ClearAllInterruptFlags call:[Irq_ClearAdcIntFlags,Irq_ClearAsclinIntFlags,Irq_ClearCanIntFlags,Irq_ClearCcu6IntFlags,Irq_ClearDmaIntFlags,Irq_ClearEthernetIntFlags,Irq_ClearFlexrayIntFlags,Irq_ClearGpsrGroupIntFlags,Irq_ClearGptIntFlags,Irq_ClearGtmIntFlags,Irq_ClearHsmIntFlags,Irq_ClearPmuIntFlags,Irq_ClearScuIntFlags,Irq_ClearSentIntFlags,Irq_ClearSpiIntFlags,Irq_ClearStmIntFlags,Mcal_DisableAllInterrupts] noreturn:[Irq_ClearHsmIntFlags]

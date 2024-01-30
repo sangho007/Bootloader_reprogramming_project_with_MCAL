@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="16543144654384938282">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi.h&quot; not found." verbose="Include file: &quot;Spi.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Spi_PBCfg.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Spi_PBCfg.c" line="42" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Spi_PBCfg.c" line="75" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Spi_PBCfg.c" line="254" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="SPI_1_NOT_CONFIGURED"/>
+    <functioncall functionName="SPI_2_NOT_CONFIGURED"/>
+    <functioncall functionName="SPI_3_NOT_CONFIGURED"/>
+    <functioncall functionName="SPI_CHANNEL_LINK_DELIMITER"/>
+    <functioncall functionName="SPI_CLK_IDLE_LOW"/>
+    <functioncall functionName="SPI_CLK_SLEEP_DISABLE"/>
+    <functioncall functionName="SPI_CS_HW"/>
+    <functioncall functionName="SPI_CS_POLARITY_LOW"/>
+    <functioncall functionName="SPI_DATA_MSB_FIRST"/>
+    <functioncall functionName="SPI_DATA_SHIFT_TRAIL"/>
+    <functioncall functionName="SPI_EB_BUFFER"/>
+    <functioncall functionName="SPI_JOB_LINK_DELIMITER"/>
+    <functioncall functionName="SPI_JOB_PRIORITY_3"/>
+    <functioncall functionName="SPI_QSPI0_INDEX"/>
+    <functioncall functionName="SPI_QSPI0_MRIS_SEL"/>
+    <functioncall functionName="SPI_QSPI_PARITY_DISABLE"/>
+    <functioncall functionName="SPI_QSPI_PARITY_UNUSED"/>
+    <functioncall functionName="SpiConf_SpiChannel_SpiChannel_0"/>
+    <functioncall functionName="SpiConf_SpiJob_SpiJob_0"/>
+    <functioncall functionName="Spi_BaudRateECON"/>
+    <functioncall functionName="Spi_BaudRateParams"/>
+    <functioncall functionName="Spi_BaudrateEconType"/>
+    <functioncall functionName="Spi_ChannelConfigType"/>
+    <functioncall functionName="Spi_ChannelType"/>
+    <functioncall functionName="Spi_DataConfig"/>
+    <functioncall functionName="Spi_DelayParams"/>
+    <functioncall functionName="Spi_JobConfigType"/>
+    <functioncall functionName="Spi_JobType"/>
+    <functioncall functionName="Spi_NumberOfDataType"/>
+    <functioncall functionName="Spi_SequenceConfigType"/>
+    <functioncall functionName="Spi_SequenceType"/>
+    <functioncall functionName="Spi_ShiftClkConfig"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,4 @@
+EA_initSpi global:[axis6RegValueCtrl1XL,axis6RegValueCtrl2G,axis6RegValueCtrl3C,stAxis6Data] call:[spiCommunication] noreturn:[spiCommunication]
+EA_mainSpi call:[readAxis6Data] noreturn:[readAxis6Data]
+readAxis6Data global:[stAxis6Data] call:[spiCommunication]
+spiCommunication call:[Spi_SetupEB,Spi_SyncTransmit]

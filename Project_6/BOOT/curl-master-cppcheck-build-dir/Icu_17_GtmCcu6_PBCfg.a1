@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="18199158130910296828">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Icu_17_GtmCcu6.h&quot; not found." verbose="Include file: &quot;Icu_17_GtmCcu6.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Icu_17_GtmCcu6_PBCfg.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Icu_17_GtmCcu6_PBCfg.c" line="112" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Icu_17_GtmCcu6_PBCfg.c" line="118" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Icu_17_GtmCcu6_PBCfg.c" line="126" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Icu_17_GtmCcu6_PBCfg.c" line="371" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="GTM_CONFIGURABLE_CLOCK_0"/>
+    <functioncall functionName="GTM_CONFIGURABLE_CLOCK_2"/>
+    <functioncall functionName="GTM_TIM0_CHANNEL0"/>
+    <functioncall functionName="GTM_TIM0_CHANNEL1"/>
+    <functioncall functionName="GTM_TIM0_CHANNEL3"/>
+    <functioncall functionName="GTM_TIM0_CHANNEL6"/>
+    <functioncall functionName="ICU_ACTIVE_TIME"/>
+    <functioncall functionName="ICU_CCU6X_UNUSED"/>
+    <functioncall functionName="ICU_GTM_OPTION"/>
+    <functioncall functionName="ICU_MAX_CHANNELS"/>
+    <functioncall functionName="ICU_MODE_SIGNAL_MEASUREMENT"/>
+    <functioncall functionName="ICU_NOT_WAKEUPCAPABLE"/>
+    <functioncall functionName="ICU_QM_SIGNAL"/>
+    <functioncall functionName="ICU_RISING_EDGE"/>
+    <functioncall functionName="IMMEDIATE_EDGE_PROPAGATION_MODE"/>
+    <functioncall functionName="INPUT_OF_CURRENT_TIM_CHANNEL"/>
+    <functioncall functionName="Icu_17_GtmCcu6_NotifiPtrType"/>
+    <functioncall functionName="Icu_kChannelWakeup0"/>
+    <functioncall functionName="TIMEBASE_TBU_TS0"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

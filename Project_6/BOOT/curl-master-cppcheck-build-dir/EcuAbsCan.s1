@@ -1,0 +1,4 @@
+EA_initCan call:[Can_17_MCanP_EnableControllerInterrupts,Can_17_MCanP_SetControllerMode] noreturn:[Can_17_MCanP_EnableControllerInterrupts]
+EA_mainCan
+EA_setPduInfo global:[PduInfo]
+EA_canSend global:[PduInfo] call:[Can_17_MCanP_Write,memcpy] noreturn:[Can_17_MCanP_Write]

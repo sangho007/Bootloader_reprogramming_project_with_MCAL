@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="17869848972694390140">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\0_Rte\Rte_Type.h" line="4" column="0"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &lt;string.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &lt;string.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\0_Rte\Rte_Type.h" line="5" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_EcuAbs.h&quot; not found." verbose="Include file: &quot;Rte_EcuAbs.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\0_Rte\Rte.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_BswDcm.h&quot; not found." verbose="Include file: &quot;Rte_BswDcm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\0_Rte\Rte.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_CcpCustom.h&quot; not found." verbose="Include file: &quot;Rte_CcpCustom.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\0_Rte\Rte.c" line="4" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Rte_Call_BswCom_rEcuAbsCan_setPduInfo" lineNumber="6"/>
+    <functiondecl functionName="Rte_Call_BswCom_rEcuAbsCan_canSend" lineNumber="11"/>
+    <functiondecl functionName="Rte_Call_BswCom_rDcmCmd_processDiagRequest" lineNumber="16"/>
+    <functiondecl functionName="Rte_Call_BswCom_rDcmCmd_getDiagStatus" lineNumber="21"/>
+    <functiondecl functionName="Rte_Call_BswCom_rCcpCustomCmd_processCcpRequest" lineNumber="26"/>
+    <functiondecl functionName="Rte_Call_BswDcm_rEcuAbsCan_canSend" lineNumber="31"/>
+    <functiondecl functionName="Rte_Call_BswDcm_rEcuAbsNvm_readNvmData" lineNumber="36"/>
+    <functiondecl functionName="Rte_Call_BswDcm_rEcuAbsNvm_writeNvmData" lineNumber="41"/>
+    <functiondecl functionName="Rte_Call_EcuAbs_rDcmCmd_getDiagStatus" lineNumber="46"/>
+    <functiondecl functionName="Rte_Call_BswDcm_rEcuAbsFls_erasePflashBlock" lineNumber="51"/>
+    <functiondecl functionName="Rte_Call_BswDcm_rEcuAbsFls_writePflash" lineNumber="56"/>
+    <functiondecl functionName="Rte_Call_CcpCustom_rEcuAbsCan_canSend" lineNumber="61"/>
+    <functioncall functionName="REoiBswDcm_pDcmCmd_getDiagStatus"/>
+    <functioncall functionName="REoiBswDcm_pDcmCmd_processDiagRequest"/>
+    <functioncall functionName="REoiCcpCustom_pCcpCustomCmd_processCcpRequest"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsCan_canSend"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsCan_setPduInfo"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsFls_erasePflashBlock"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsFls_writePflash"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsNvm_readNvmData"/>
+    <functioncall functionName="REoiEcuAbs_pEcuAbsNvm_writeNvmData"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="4942382976199706816">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\AscLin_Irq.c" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Irq_Cfg.h&quot; not found." verbose="Include file: &quot;Irq_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="172" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="543" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\AscLin_Irq.c" line="42" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafeWdgIf_Cfg.h&quot; not found." verbose="Include file: &quot;SafeWdgIf_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\AscLin_Irq.c" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\AscLin_Irq.c" line="148" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\AscLin_Irq.c" line="665" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="ISR" lineNumber="176"/>
+    <functiondecl functionName="ISR" lineNumber="209"/>
+    <functiondecl functionName="ISR" lineNumber="334"/>
+    <functiondecl functionName="ISR" lineNumber="376"/>
+    <functiondecl functionName="ISR" lineNumber="527"/>
+    <functiondecl functionName="ISR" lineNumber="561"/>
+    <functiondecl functionName="ISR" lineNumber="176"/>
+    <functiondecl functionName="ISR" lineNumber="209"/>
+    <functiondecl functionName="ISR" lineNumber="334"/>
+    <functiondecl functionName="ISR" lineNumber="376"/>
+    <functiondecl functionName="ISR" lineNumber="527"/>
+    <functiondecl functionName="ISR" lineNumber="561"/>
+    <functioncall functionName="ASCLIN0EX_ISR"/>
+    <functioncall functionName="ASCLIN0RX_ISR"/>
+    <functioncall functionName="ASCLIN0TX_ISR"/>
+    <functioncall functionName="ASCLIN1EX_ISR"/>
+    <functioncall functionName="ASCLIN1RX_ISR"/>
+    <functioncall functionName="ASCLIN1TX_ISR"/>
+    <functioncall functionName="ISR"/>
+    <functioncall functionName="Mcal_EnableAllInterrupts"/>
+    <functioncall functionName="SafeWdgAscLin_IsrRx"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,2 @@
+EA_initMcu call:[Mcal_ResetSafetyENDINIT_Timed,Mcal_SetSafetyENDINIT_Timed,entrypointApplicaton,memcmp] noreturn:[Mcal_SetSafetyENDINIT_Timed,entrypointApplicaton]
+EA_mainMcu call:[Mcu_PerformReset,Rte_Call_EcuAbs_rDcmCmd_getDiagStatus] noreturn:[Mcu_PerformReset]

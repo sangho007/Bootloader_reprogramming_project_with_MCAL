@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="6345454487927192953">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\EcuAbsCan.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\Can_GeneralTypes.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Can_17_MCanP.h&quot; not found." verbose="Include file: &quot;Can_17_MCanP.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\EcuAbsCan.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\EcuAbsCan.c" line="4" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initCan" lineNumber="8"/>
+    <functiondecl functionName="EA_mainCan" lineNumber="14"/>
+    <functiondecl functionName="EA_setPduInfo" lineNumber="19"/>
+    <functiondecl functionName="EA_canSend" lineNumber="27"/>
+    <functioncall functionName="CAN_HWCONTROLLER0"/>
+    <functioncall functionName="CAN_T_START"/>
+    <functioncall functionName="Can_17_MCanP_EnableControllerInterrupts"/>
+    <functioncall functionName="Can_17_MCanP_SetControllerMode"/>
+    <functioncall functionName="Can_17_MCanP_Write"/>
+    <functioncall functionName="TOTAL_CAN_MSG_COUNT"/>
+    <functioncall functionName="memcpy"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="15131761184626568526">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fee.h&quot; not found." verbose="Include file: &quot;Fee.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fee_infineon_tricore\src\Fee_Ver.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dem.h&quot; not found." verbose="Include file: &quot;Dem.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fee_infineon_tricore\src\Fee_Ver.c" line="44" column="0"/>
+        </error>
+        <error id="preprocessorErrorDirective" severity="error" msg="#error &quot;FEE_AR_RELEASE_MAJOR_VERSION does not match. &quot;" verbose="#error &quot;FEE_AR_RELEASE_MAJOR_VERSION does not match. &quot;" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fee_infineon_tricore\src\Fee_Ver.c" line="68" column="4"/>
+        </error>
+        <error id="noValidConfiguration" severity="information" msg="This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details." verbose="This file is not analyzed. Cppcheck failed to extract a valid configuration. The tested configurations have these preprocessor errors:\012&apos;&apos; : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c:56] #error &quot;FEE_AR_RELEASE_MAJOR_VERSION is not defined. &quot;\012FEE_AR_RELEASE_MAJOR_VERSION;FEE_AR_RELEASE_MINOR_VERSION;FEE_AR_RELEASE_REVISION_VERSION;FEE_SW_MAJOR_VERSION;FEE_SW_MINOR_VERSION;FEE_SW_PATCH_VERSION;DET_AR_RELEASE_MAJOR_VERSION;DET_AR_RELEASE_MINOR_VERSION;DEM_AR_RELEASE_MAJOR_VERSION;DEM_AR_RELEASE_MINOR_VERSION;FLS_17_PMU_AR_RELEASE_MAJOR_VERSION;FLS_17_PMU_AR_RELEASE_MINOR_VERSION : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fee_infineon_tricore/src/Fee_Ver.c:68] #error &quot;FEE_AR_RELEASE_MAJOR_VERSION does not match. &quot;" file0="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fee_infineon_tricore\src\Fee_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fee_infineon_tricore\src\Fee_Ver.c" line="0" column="0"/>
+        </error>
+</analyzerinfo>

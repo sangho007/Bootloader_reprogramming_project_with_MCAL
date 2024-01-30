@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="5594362939447511662">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm.h&quot; not found." verbose="Include file: &quot;Gtm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gtm_PBCfg.c" line="82" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gtm_PBCfg.c" line="148" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gtm_PBCfg.c" line="364" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="GTM_CONFIG_COUNT"/>
+    <functioncall functionName="GTM_DRIVER_COMPLEX"/>
+    <functioncall functionName="GTM_DRIVER_GPT"/>
+    <functioncall functionName="GTM_FIXED_CLOCK_1"/>
+    <functioncall functionName="GTM_NO_OF_ADC_MODULES"/>
+    <functioncall functionName="GTM_SLEEP_ENABLE"/>
+    <functioncall functionName="GTM_TIM_CH_NOT_USEDBY_ICU"/>
+    <functioncall functionName="GTM_TOM_CH_NOT_USEDBY_GPT_PWM"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

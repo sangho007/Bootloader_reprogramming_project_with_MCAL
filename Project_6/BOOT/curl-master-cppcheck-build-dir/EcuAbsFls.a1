@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="1046141838994444561">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Fls\EcuAbsFls.c" line="1" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_EcuAbs.h&quot; not found." verbose="Include file: &quot;Rte_EcuAbs.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Fls\EcuAbsFls.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;FlsLoader.h&quot; not found." verbose="Include file: &quot;FlsLoader.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Fls\EcuAbsFls.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsWdg.h&quot; not found." verbose="Include file: &quot;EcuAbsWdg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Fls\EcuAbsFls.c" line="5" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="EA_wdgTriggerUpdateSlow"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="FLSLOADER_PF_S23"/>
+    <functioncall functionName="FLSLOADER_PF_S25"/>
+    <functioncall functionName="FlsLoader_Erase"/>
+    <functioncall functionName="FlsLoader_Init"/>
+    <functioncall functionName="FlsLoader_Write"/>
+    <functioncall functionName="Mcal_DisableAllInterrupts"/>
+    <functioncall functionName="Mcal_EnableAllInterrupts"/>
+    <functioncall functionName="NULL"/>
+  </FileInfo>
+</analyzerinfo>

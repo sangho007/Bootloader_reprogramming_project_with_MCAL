@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="464037106604410600">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gpt.h&quot; not found." verbose="Include file: &quot;Gpt.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gpt_PBCfg.c" line="47" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gpt_PBCfg.c" line="75" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gpt_PBCfg.c" line="92" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gpt_PBCfg.c" line="102" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Gpt_PBCfg.c" line="156" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="GPT_MODE_CONTINUOUS"/>
+    <functioncall functionName="GPT_QM_SIGNAL"/>
+    <functioncall functionName="GTM_FIXED_CLOCK_1"/>
+    <functioncall functionName="GTM_TOM0_CHANNEL0"/>
+    <functioncall functionName="GptNotification_1ms"/>
+    <functioncall functionName="boolean"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

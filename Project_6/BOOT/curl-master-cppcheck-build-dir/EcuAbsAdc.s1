@@ -1,0 +1,5 @@
+EA_initAdc global:[adcBuffeAdcHwUnit0AdcGroup0,adcBuffeAdcHwUnit1AdcGroup0] call:[Adc_EnableGroupNotification,Adc_SetupResultBuffer] noreturn:[Adc_EnableGroupNotification]
+EA_mainAdc call:[Adc_StartGroupConversion] noreturn:[Adc_StartGroupConversion]
+AdcNotification_AdcHwUnit0_AdcGroup0 global:[adcBuffeAdcHwUnit0AdcGroup0,adcValueHwVersionResistance]
+AdcNotification_AdcHwUnit1_AdcGroup0 global:[adcBuffeAdcHwUnit1AdcGroup0,adcValueBatteryVoltage,adcValueIgnitionVoltage]
+EA_getAdcValue global:[adcValueBatteryVoltage,adcValueHwVersionResistance,adcValueIgnitionVoltage]

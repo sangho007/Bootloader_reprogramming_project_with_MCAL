@@ -1,0 +1,6 @@
+EA_initNvm global:[ignCycle] call:[EA_readNvmData,EA_writeNvmData,Fee_Init] noreturn:[EA_writeNvmData]
+EA_mainNvm
+NvM_JobEndNotification
+NvM_JobErrorNotification
+EA_readNvmData call:[Fee_GetStatus,Fee_MainFunction,Fee_Read,Fls_17_Pmu_MainFunction] noreturn:[Fls_17_Pmu_MainFunction]
+EA_writeNvmData call:[Fee_GetStatus,Fee_MainFunction,Fee_Write,Fls_17_Pmu_MainFunction] noreturn:[Fls_17_Pmu_MainFunction]

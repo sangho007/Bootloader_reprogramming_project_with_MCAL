@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="5574522216791885461">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi.h&quot; not found." verbose="Include file: &quot;Spi.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi_Cfg.h&quot; not found." verbose="Include file: &quot;Spi_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.c" line="3" column="0"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: readAxis6RegValueCtrl3C" verbose="Uninitialized variable: readAxis6RegValueCtrl3C" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.c" line="80" column="11"/>
+            <symbol>readAxis6RegValueCtrl3C</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: readAxis6RegValueCtrl2G" verbose="Uninitialized variable: readAxis6RegValueCtrl2G" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.c" line="86" column="11"/>
+            <symbol>readAxis6RegValueCtrl2G</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: readAxis6RegValueCtrl1XL" verbose="Uninitialized variable: readAxis6RegValueCtrl1XL" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Spi\EcuAbsSpi.c" line="92" column="11"/>
+            <symbol>readAxis6RegValueCtrl1XL</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c:58:17" call-funcname="spiCommunication" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c" line="82" col="32" call-argexpr="0u" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c:58:17" call-funcname="spiCommunication" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c" line="88" col="32" call-argexpr="0u" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c:58:17" call-funcname="spiCommunication" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Spi/EcuAbsSpi.c" line="94" col="32" call-argexpr="0u" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initSpi" lineNumber="68"/>
+    <functiondecl functionName="EA_mainSpi" lineNumber="99"/>
+    <functiondecl functionName="readAxis6Data" lineNumber="104"/>
+    <functiondecl functionName="spiCommunication" lineNumber="134"/>
+    <functioncall functionName="SpiConf_SpiChannel_SpiChannel_0"/>
+    <functioncall functionName="Spi_NumberOfDataType"/>
+    <functioncall functionName="Spi_SetupEB"/>
+    <functioncall functionName="Spi_SyncTransmit"/>
+    <functioncall functionName="readAxis6Data"/>
+    <functioncall functionName="sint16"/>
+    <functioncall functionName="spiCommunication"/>
+  </FileInfo>
+</analyzerinfo>

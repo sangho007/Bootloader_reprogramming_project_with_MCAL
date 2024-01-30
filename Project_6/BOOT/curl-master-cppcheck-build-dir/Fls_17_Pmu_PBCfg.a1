@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="12979284218822552241">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu_ac.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu_ac.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dem.h&quot; not found." verbose="Include file: &quot;Dem.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="76" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="86" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="89" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fls_17_Pmu_PBCfg.c" line="132" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="Fee_17_IllegalStateNotification"/>
+    <functioncall functionName="Fee_JobEndNotification"/>
+    <functioncall functionName="Fee_JobErrorNotification"/>
+    <functioncall functionName="Fls_EraseCmdCycles"/>
+    <functioncall functionName="Fls_EraseCmdPtrType"/>
+    <functioncall functionName="Fls_WriteCmdCycles"/>
+    <functioncall functionName="Fls_WriteCmdPtrType"/>
+    <functioncall functionName="MEMIF_MODE_FAST"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="15180766517395958673">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcu.h&quot; not found." verbose="Include file: &quot;Mcu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Mcu_PBCfg.c" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Mcu_PBCfg.c" line="58" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Mcu_PBCfg.c" line="165" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="Gtm_ConfigRoot"/>
+    <functioncall functionName="MCU_MODE_MAX0"/>
+    <functioncall functionName="Mcu_ClockType"/>
+    <functioncall functionName="Mcu_RamSectionType"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

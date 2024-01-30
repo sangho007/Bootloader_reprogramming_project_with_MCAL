@@ -1,0 +1,4 @@
+CanIf_RxIndication call:[UT_canRxIndication] noreturn:[UT_canRxIndication]
+CanIf_TxConfirmation call:[UT_canTxConfirmation] noreturn:[UT_canTxConfirmation]
+CanIf_ControllerBusOff
+CanIf_ControllerModeIndication

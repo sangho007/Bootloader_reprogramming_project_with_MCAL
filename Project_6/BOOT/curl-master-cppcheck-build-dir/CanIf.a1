@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="9548064407437443250">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf_Types.h" line="7" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;ComStack_Types.h&quot; not found." verbose="Include file: &quot;ComStack_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\Can_GeneralTypes.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Can_17_MCanP_Cfg.h&quot; not found." verbose="Include file: &quot;Can_17_MCanP_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf.h" line="9" column="0"/>
+        </error>
+        <error id="unknownMacro" severity="error" msg="There is an unknown macro here somewhere. Configuration is required. If UNUSED_PARAMETER is a macro then please configure it." verbose="There is an unknown macro here somewhere. Configuration is required. If UNUSED_PARAMETER is a macro then please configure it." file0="D:/OTA_Traning/Project_6/BOOT/Source/3_EcuAbs/Can/CanIf.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Can\CanIf.c" line="68" column="2"/>
+        </error>
+</analyzerinfo>

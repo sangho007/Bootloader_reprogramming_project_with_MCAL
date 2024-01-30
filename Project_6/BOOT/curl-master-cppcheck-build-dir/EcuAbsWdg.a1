@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="3906671104822597612">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Wdg\EcuAbsWdg.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Wdg\WdgIf_Types.h" line="34" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Wdg_17_Scu.h&quot; not found." verbose="Include file: &quot;Wdg_17_Scu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Wdg\EcuAbsWdg.c" line="3" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initWdg" lineNumber="10"/>
+    <functiondecl functionName="EA_mainWdg" lineNumber="15"/>
+    <functiondecl functionName="EA_wdgTriggerUpdateSlow" lineNumber="20"/>
+    <functiondecl functionName="setWdgTrigger" lineNumber="25"/>
+    <functioncall functionName="WDGIF_FAST_MODE"/>
+    <functioncall functionName="WDGIF_OFF_MODE"/>
+    <functioncall functionName="WDGIF_SLOW_MODE"/>
+    <functioncall functionName="Wdg_17_Scu_SetMode"/>
+    <functioncall functionName="Wdg_17_Scu_SetTriggerCondition"/>
+    <functioncall functionName="setWdgTrigger"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="15969058024243664197">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="48" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc_Cfg.h&quot; not found." verbose="Include file: &quot;Adc_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="50" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="1031" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="1036" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="1046" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.h" line="1992" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxVadc_reg.h&quot; not found." verbose="Include file: &quot;IfxVadc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxVadc_bf.h&quot; not found." verbose="Include file: &quot;IfxVadc_bf.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_bf.h&quot; not found." verbose="Include file: &quot;IfxSrc_bf.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafetyReport.h&quot; not found." verbose="Include file: &quot;SafetyReport.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc_Cfg.h&quot; not found." verbose="Include file: &quot;Adc_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="998" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="1013" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="1019" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_HwHandle.h" line="2599" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_ConvHandle.h" line="58" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_ConvHandle.h" line="810" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="173" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="191" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="195" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="203" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="208" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="214" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="233" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc_Utility.h" line="1780" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="66" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="125" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="134" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="142" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="149" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="157" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="167" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="183" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="199" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3905" column="0"/>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3703" column="14" info="RetErr is overwritten"/>
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3666" column="14" info="RetErr is assigned"/>
+            <symbol>RetErr</symbol>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3730" column="14" info="RetErr is overwritten"/>
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3703" column="14" info="RetErr is assigned"/>
+            <symbol>RetErr</symbol>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;RetErr&apos; is reassigned a value before the old one has been used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3730" column="14" info="RetErr is overwritten"/>
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3711" column="14" info="RetErr is assigned"/>
+            <symbol>RetErr</symbol>
+        </error>
+        <error id="constVariablePointer" severity="style" msg="Variable &apos;DataPtr&apos; can be declared as pointer to const" verbose="Variable &apos;DataPtr&apos; can be declared as pointer to const" cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="2026" column="23" info="Variable &apos;DataPtr&apos; can be declared as pointer to const"/>
+            <symbol>DataPtr</symbol>
+        </error>
+        <error id="constVariablePointer" severity="style" msg="Variable &apos;DataPtr&apos; can be declared as pointer to const" verbose="Variable &apos;DataPtr&apos; can be declared as pointer to const" cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3462" column="31" info="Variable &apos;DataPtr&apos; can be declared as pointer to const"/>
+            <symbol>DataPtr</symbol>
+        </error>
+        <error id="constVariablePointer" severity="style" msg="Variable &apos;DataPtr&apos; can be declared as pointer to const" verbose="Variable &apos;DataPtr&apos; can be declared as pointer to const" cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3870" column="23" info="Variable &apos;DataPtr&apos; can be declared as pointer to const"/>
+            <symbol>DataPtr</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1028:30" call-funcname="Adc_lGetEmuxKernel" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c" line="449" col="37" call-argexpr="(uint8)LoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="446" col="15" info="Assignment &apos;LoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.h:1065:13" call-funcname="Adc_lDeInitSetResetSre" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c" line="480" col="27" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.h:2201:29" call-funcname="Adc_lWriteEmuxCtrSfr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c" line="1707" col="29" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_HwHandle.h:2201:29" call-funcname="Adc_lWriteEmuxCtrSfr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c" line="2450" col="25" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:837:31" call-funcname="Adc_lKernelConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc.c" line="3879" col="29" call-argexpr="(uint8)LoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\adc\Adc.c" line="3876" col="13" info="Assignment &apos;LoopCtr=0U&apos;, assigned value is 0"/>
+</function-call>  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1235:39" my-argnr="1" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1245" col="39" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1397:39" my-argnr="1" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1407" col="39" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1439:39" my-argnr="1" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1450" col="30" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1485:29" my-argnr="1" my-argname="GrpPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1496" col="20" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1485:29" my-argnr="2" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1501" col="3" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1677:31" my-argnr="1" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1686" col="22" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1485:29" my-argnr="1" my-argname="GrpPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1496" col="20" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h:1677:31" my-argnr="1" my-argname="DataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/adc/Adc_Utility.h" line="1686" col="22" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Adc_lInitWriteClcSfr" lineNumber="1516"/>
+    <functiondecl functionName="Adc_lDeInitWriteClcSfr" lineNumber="1586"/>
+    <functiondecl functionName="Adc_lDisableResultInt" lineNumber="1659"/>
+    <functiondecl functionName="Adc_lReadResult" lineNumber="1702"/>
+    <functiondecl functionName="Adc_lReadValidFlag" lineNumber="1747"/>
+    <functiondecl functionName="Adc_lDeInitWriteKernelRstSfr" lineNumber="1792"/>
+    <functiondecl functionName="Adc_lInitWriteKernelRstSfr" lineNumber="1849"/>
+    <functiondecl functionName="Adc_lWriteGlobCfgSfr" lineNumber="1905"/>
+    <functiondecl functionName="Adc_lWriteGlobIpClassSfr" lineNumber="1935"/>
+    <functiondecl functionName="Adc_lWriteGlobEvntNpSfr" lineNumber="1967"/>
+    <functiondecl functionName="Adc_lWriteEmuxSelSfr" lineNumber="1996"/>
+    <functiondecl functionName="Adc_lWriteArbCfgSfr" lineNumber="2027"/>
+    <functiondecl functionName="Adc_lWriteArbPrSfr" lineNumber="2059"/>
+    <functiondecl functionName="Adc_lWriteGrpIpClassSfr" lineNumber="2093"/>
+    <functiondecl functionName="Adc_lWriteSynCtrSfr" lineNumber="2131"/>
+    <functiondecl functionName="Adc_lWriteSrcEvntNpSfr" lineNumber="2164"/>
+    <functiondecl functionName="Adc_lWriteEmuxCtrSfr" lineNumber="2201"/>
+    <functiondecl functionName="Adc_lWriteSrcEvntClrFlagSfr" lineNumber="2238"/>
+    <functiondecl functionName="Adc_lWriteChEvntClrFlagSfr" lineNumber="2275"/>
+    <functiondecl functionName="Adc_lWriteGlobEvntFlagSfr" lineNumber="2311"/>
+    <functiondecl functionName="Adc_lReadSrcEvntFlagSfr" lineNumber="2344"/>
+    <functiondecl functionName="Adc_lReadGlobEvntFlagSfr" lineNumber="2392"/>
+    <functiondecl functionName="Adc_lReadChEvntFlagSfr" lineNumber="2429"/>
+    <functiondecl functionName="Adc_lReadArbCfgSfr" lineNumber="2467"/>
+    <functiondecl functionName="Adc_lSetChEvntNodePtr" lineNumber="2507"/>
+    <functiondecl functionName="Adc_lSetResEventNode" lineNumber="2565"/>
+    <functiondecl functionName="Adc_lKernelConfigured" lineNumber="837"/>
+    <functiondecl functionName="Adc_lQueueRSConfigured" lineNumber="880"/>
+    <functiondecl functionName="Adc_lAutoScanConfigured" lineNumber="916"/>
+    <functiondecl functionName="Adc_lBackgndScanConfigured" lineNumber="952"/>
+    <functiondecl functionName="Adc_lLimitChkConfigured" lineNumber="989"/>
+    <functiondecl functionName="Adc_lGetEmuxKernel" lineNumber="1028"/>
+    <functiondecl functionName="Adc_lGetAdcKernel" lineNumber="1075"/>
+    <functiondecl functionName="Adc_lGetKernelGroupId" lineNumber="1114"/>
+    <functiondecl functionName="Adc_lSetGroupResultAtomic" lineNumber="1155"/>
+    <functiondecl functionName="Adc_lClrGroupResultAtomic" lineNumber="1195"/>
+    <functiondecl functionName="Adc_lGetGroupResult" lineNumber="1235"/>
+    <functiondecl functionName="Adc_lSetGroupStatusBusyAtomic" lineNumber="1278"/>
+    <functiondecl functionName="Adc_lClrResBuffEndStatusAtomic" lineNumber="1318"/>
+    <functiondecl functionName="Adc_lSetGroupStatusIdleAtomic" lineNumber="1358"/>
+    <functiondecl functionName="Adc_lGetGroupStatus" lineNumber="1397"/>
+    <functiondecl functionName="Adc_lGetResBuffEndStatus" lineNumber="1439"/>
+    <functiondecl functionName="Adc_lResetTrigSrcData" lineNumber="1485"/>
+    <functiondecl functionName="Adc_lGetEmuxSelect" lineNumber="1554"/>
+    <functiondecl functionName="Adc_lGetEmuxEnable" lineNumber="1592"/>
+    <functiondecl functionName="Adc_lGetEmuxScan" lineNumber="1634"/>
+    <functiondecl functionName="Adc_lGetGroupStatusAll" lineNumber="1677"/>
+    <functiondecl functionName="Adc_lGetTimEnData" lineNumber="1717"/>
+    <functiondecl functionName="Adc_lGetEruData" lineNumber="1759"/>
+    <functiondecl functionName="Adc_lValidateParamGroup" lineNumber="3078"/>
+    <functiondecl functionName="Adc_lCheckInit" lineNumber="3253"/>
+    <functiondecl functionName="Adc_lCheckDriverState" lineNumber="3303"/>
+    <functiondecl functionName="Adc_lCheckStateForEnableGroup" lineNumber="3456"/>
+    <functiondecl functionName="Adc_lCheckStateForStartGroup" lineNumber="3592"/>
+    <functiondecl functionName="Adc_lCheckGroupStatusAll" lineNumber="3868"/>
+    <functioncall functionName="ADC_CONFIG_COUNT"/>
+    <functioncall functionName="ADC_KERNEL_NUM_SHIFT_POS"/>
+    <functioncall functionName="ADC_KERNEL_REQSRC0_USED"/>
+    <functioncall functionName="ADC_KERNEL_REQSRC1_USED"/>
+    <functioncall functionName="ADC_KERNEL_REQSRC2_USED"/>
+    <functioncall functionName="ADC_KERNEL_RESET_WAIT_COUNTS"/>
+    <functioncall functionName="ADC_LIMIT_CHECK_USED"/>
+    <functioncall functionName="ADC_MAX_GROUPS"/>
+    <functioncall functionName="ADC_MAX_KERNELS"/>
+    <functioncall functionName="ADC_MAX_SHS_CLUSTERS"/>
+    <functioncall functionName="ADC_REQSRC_COUNT"/>
+    <functioncall functionName="ADC_USED_KERNELS"/>
+    <functioncall functionName="Adc_lAlignResultBuffer"/>
+    <functioncall functionName="Adc_lCcu6DeInit"/>
+    <functioncall functionName="Adc_lCheckDriverState"/>
+    <functioncall functionName="Adc_lCheckGroupStatusAll"/>
+    <functioncall functionName="Adc_lCheckInit"/>
+    <functioncall functionName="Adc_lCheckResourceConflict"/>
+    <functioncall functionName="Adc_lCheckStateForEnableGroup"/>
+    <functioncall functionName="Adc_lCheckStateForStartGroup"/>
+    <functioncall functionName="Adc_lClrGroupResultAtomic"/>
+    <functioncall functionName="Adc_lClrResBuffEndStatusAtomic"/>
+    <functioncall functionName="Adc_lDeInitSetResetSre"/>
+    <functioncall functionName="Adc_lDeInitWriteClcSfr"/>
+    <functioncall functionName="Adc_lDeInitWriteKernelRstSfr"/>
+    <functioncall functionName="Adc_lDmaTransResUpdate"/>
+    <functioncall functionName="Adc_lEruTrigCfg"/>
+    <functioncall functionName="Adc_lGetAdcKernel"/>
+    <functioncall functionName="Adc_lGetDataAddress"/>
+    <functioncall functionName="Adc_lGetEmuxKernel"/>
+    <functioncall functionName="Adc_lGetEmuxScan"/>
+    <functioncall functionName="Adc_lGetEmuxSelect"/>
+    <functioncall functionName="Adc_lGetEruData"/>
+    <functioncall functionName="Adc_lGetGroupResult"/>
+    <functioncall functionName="Adc_lGetGroupStatus"/>
+    <functioncall functionName="Adc_lGetGroupStatusAll"/>
+    <functioncall functionName="Adc_lGetKernelChNum"/>
+    <functioncall functionName="Adc_lGetKernelGroupId"/>
+    <functioncall functionName="Adc_lGetResBuffEndStatus"/>
+    <functioncall functionName="Adc_lGetTimEnData"/>
+    <functioncall functionName="Adc_lGtmTimerCfg"/>
+    <functioncall functionName="Adc_lKernelConfigured"/>
+    <functioncall functionName="Adc_lPrepareGrpForStart"/>
+    <functioncall functionName="Adc_lReadResult"/>
+    <functioncall functionName="Adc_lReadValidFlag"/>
+    <functioncall functionName="Adc_lRemoveFromQueue"/>
+    <functioncall functionName="Adc_lResetEruCfg"/>
+    <functioncall functionName="Adc_lResetTrigSrcData"/>
+    <functioncall functionName="Adc_lScheduleFromQueue"/>
+    <functioncall functionName="Adc_lScheduleNext"/>
+    <functioncall functionName="Adc_lSchedulerOnStart"/>
+    <functioncall functionName="Adc_lSchedulerOnStop"/>
+    <functioncall functionName="Adc_lSchmEnterDisableHwTrig"/>
+    <functioncall functionName="Adc_lSchmEnterEnableHwTrig"/>
+    <functioncall functionName="Adc_lSchmEnterGetGrpStatus"/>
+    <functioncall functionName="Adc_lSchmEnterGetStreamLastPtr"/>
+    <functioncall functionName="Adc_lSchmEnterReadGroup"/>
+    <functioncall functionName="Adc_lSchmEnterStartGroup"/>
+    <functioncall functionName="Adc_lSchmExitDisableHwTrig"/>
+    <functioncall functionName="Adc_lSchmExitEnableHwTrig"/>
+    <functioncall functionName="Adc_lSchmExitGetGrpStatus"/>
+    <functioncall functionName="Adc_lSchmExitGetStreamLastPtr"/>
+    <functioncall functionName="Adc_lSchmExitReadGroup"/>
+    <functioncall functionName="Adc_lSchmExitStartGroup"/>
+    <functioncall functionName="Adc_lSetGroupResultAtomic"/>
+    <functioncall functionName="Adc_lSetGroupStatusBusyAtomic"/>
+    <functioncall functionName="Adc_lSetGroupStatusIdleAtomic"/>
+    <functioncall functionName="Adc_lStartHwConversionRS"/>
+    <functioncall functionName="Adc_lStartSwConversionRS"/>
+    <functioncall functionName="Adc_lStopConvRequestSource"/>
+    <functioncall functionName="Adc_lStopGtmTimer"/>
+    <functioncall functionName="Adc_lSwConvDetCheck"/>
+    <functioncall functionName="Adc_lUpdateRsGroupData"/>
+    <functioncall functionName="Adc_lValParamGrpEnableHwTrigg"/>
+    <functioncall functionName="Adc_lValidateParamGroup"/>
+    <functioncall functionName="Adc_lWriteEmuxCtrSfr"/>
+    <functioncall functionName="Det_ReportError"/>
+    <functioncall functionName="Dma_ChannelType"/>
+    <functioncall functionName="EXTRACT"/>
+    <functioncall functionName="E_NOT_OK"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="Mcal_SetAtomic"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="NotifFctPtr"/>
+    <functioncall functionName="OS_ModifyPeripheral32"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="OS_WritePeripheral32"/>
+    <functioncall functionName="SafeMcal_ReportError"/>
+    <functioncall functionName="Std_ReturnType"/>
+    <functioncall functionName="TRUSTED_ApplResetEndInit"/>
+    <functioncall functionName="TRUSTED_ApplSetEndInit"/>
+    <functioncall functionName="TRUSTED_Mcal_DmaChClrIntrFlags"/>
+    <functioncall functionName="TRUSTED_Mcal_DmaDisableHwTransfer"/>
+    <functioncall functionName="TRUSTED_Mcal_DmaGetTransferIntStatus"/>
+    <functioncall functionName="TRUSTED_Mcal_DmaResetDmaChannel"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="sint32"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

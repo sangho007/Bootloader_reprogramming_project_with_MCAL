@@ -1,0 +1,2 @@
+OSEKMP_UserSuspendAllInterrupts global:[Os_IntSaveDisableCounter,Os_SavedIntLevelNested] call:[DISABLE,ISYNC,MFCR,Mcal_GetCoreId] noreturn:[DISABLE]
+OSEKMP_UserResumeAllInterrupts global:[Os_IntSaveDisableCounter,Os_SavedIntLevelNested] call:[Mcal_GetCoreId,__enable] noreturn:[__enable]

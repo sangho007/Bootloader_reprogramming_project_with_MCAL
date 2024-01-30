@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="6855216052401660770">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Mcu\EcuAbsMcu.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_EcuAbs.h&quot; not found." verbose="Include file: &quot;Rte_EcuAbs.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Mcu\EcuAbsMcu.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Mcu\EcuAbsMcu.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcu.h&quot; not found." verbose="Include file: &quot;Mcu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Mcu\EcuAbsMcu.c" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Mcu\EcuAbsMcu.c" line="5" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initMcu" lineNumber="7"/>
+    <functiondecl functionName="EA_mainMcu" lineNumber="25"/>
+    <functioncall functionName="MCU_SAFETY_ENDINT_TIMEOUT"/>
+    <functioncall functionName="MEMORY_ADDRESS_APPLICATION"/>
+    <functioncall functionName="MEMORY_DATA_VALID_PATTERN_LENGTH"/>
+    <functioncall functionName="MEMORY_DATA_VALID_PATTERN_VALUE"/>
+    <functioncall functionName="MEMORY_PATTERN_VALID_APP_ADDR"/>
+    <functioncall functionName="Mcal_ResetSafetyENDINIT_Timed"/>
+    <functioncall functionName="Mcal_SetSafetyENDINIT_Timed"/>
+    <functioncall functionName="Mcu_PerformReset"/>
+    <functioncall functionName="RESET_REASON_NORMAL"/>
+    <functioncall functionName="Rte_Call_EcuAbs_rDcmCmd_getDiagStatus"/>
+    <functioncall functionName="entrypointApplicaton"/>
+    <functioncall functionName="memcmp"/>
+  </FileInfo>
+</analyzerinfo>

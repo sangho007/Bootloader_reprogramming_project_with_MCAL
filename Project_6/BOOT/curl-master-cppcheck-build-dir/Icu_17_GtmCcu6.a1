@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="8798920580446049539">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="42" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCcu6_reg.h&quot; not found." verbose="Include file: &quot;IfxCcu6_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="47" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="51" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found." verbose="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="54" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm.h&quot; not found." verbose="Include file: &quot;Gtm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="59" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuM_Cbk.h&quot; not found." verbose="Include file: &quot;EcuM_Cbk.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="65" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="70" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found." verbose="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="998" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1915" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1918" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1943" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1946" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1958" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1963" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1967" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="272" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="284" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="288" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="298" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="611" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="638" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="643" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="670" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="673" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="1026" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SchM_17_McalCfg.h&quot; not found." verbose="Include file: &quot;SchM_17_McalCfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="51" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafetyReport.h&quot; not found." verbose="Include file: &quot;SafetyReport.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="55" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="84" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="822" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="834" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="864" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="872" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="879" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="885" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="892" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="899" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="906" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="926" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="944" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="950" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="963" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="968" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10277" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10282" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10560" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10565" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="11208" column="0"/>
+        </error>
+        <error id="constVariablePointer" severity="style" msg="Variable &apos;Ccu6RegPtr&apos; can be declared as pointer to const" verbose="Variable &apos;Ccu6RegPtr&apos; can be declared as pointer to const" cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9836" column="22" info="Variable &apos;Ccu6RegPtr&apos; can be declared as pointer to const"/>
+            <symbol>Ccu6RegPtr</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variables: ChannelIdentifier.ModuleNo, ChannelIdentifier.GroupNo" verbose="Uninitialized variables: ChannelIdentifier.ModuleNo, ChannelIdentifier.GroupNo" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="6574" column="11"/>
+            <symbol>ChannelIdentifier</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: DutyCycleValue.BufferMarker" verbose="Uninitialized variable: DutyCycleValue.BufferMarker" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="8674" column="10"/>
+            <symbol>DutyCycleValue</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: ChIndexValue" verbose="Uninitialized variable: ChIndexValue" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="11024" column="10"/>
+            <symbol>ChIndexValue</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;Measure&apos; is assigned a value that is never used." verbose="Variable &apos;Measure&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3624" column="56"/>
+            <symbol>Measure</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: EruEicrUsed" verbose="Unused variable: EruEicrUsed" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="4412" column="39"/>
+            <symbol>EruEicrUsed</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: EruEicrChannel" verbose="Unused variable: EruEicrChannel" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="4413" column="39"/>
+            <symbol>EruEicrChannel</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: EruInputLineUsed" verbose="Unused variable: EruInputLineUsed" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="4414" column="39"/>
+            <symbol>EruInputLineUsed</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;SigKind&apos; is assigned a value that is never used." verbose="Variable &apos;SigKind&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="5285" column="11"/>
+            <symbol>SigKind</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;NumofTimchl&apos; is assigned a value that is never used." verbose="Variable &apos;NumofTimchl&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="6211" column="18"/>
+            <symbol>NumofTimchl</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: Counter" verbose="Unused variable: Counter" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="7189" column="10"/>
+            <symbol>Counter</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: Size" verbose="Unused variable: Size" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="7190" column="10"/>
+            <symbol>Size</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;ChIndex&apos; is assigned a value that is never used." verbose="Variable &apos;ChIndex&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9855" column="11"/>
+            <symbol>ChIndex</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: CcuSrRegPtr" verbose="Unused variable: CcuSrRegPtr" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9837" column="29"/>
+            <symbol>CcuSrRegPtr</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: CcuRRegPtr" verbose="Unused variable: CcuRRegPtr" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9838" column="28"/>
+            <symbol>CcuRRegPtr</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: Measure" verbose="Unused variable: Measure" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9839" column="48"/>
+            <symbol>Measure</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: CfgEdge" verbose="Unused variable: CfgEdge" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="9841" column="10"/>
+            <symbol>CfgEdge</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: CellNum" verbose="Unused variable: CellNum" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10315" column="30"/>
+            <symbol>CellNum</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: Counter" verbose="Unused variable: Counter" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10316" column="10"/>
+            <symbol>Counter</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: NotifyCounter" verbose="Unused variable: NotifyCounter" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10317" column="10"/>
+            <symbol>NotifyCounter</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: Notify" verbose="Unused variable: Notify" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10318" column="10"/>
+            <symbol>Notify</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;PhyChannelIndex&apos; is assigned a value that is never used." verbose="Variable &apos;PhyChannelIndex&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10872" column="19"/>
+            <symbol>PhyChannelIndex</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;PhyChannelIndex&apos; is assigned a value that is never used." verbose="Variable &apos;PhyChannelIndex&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="10975" column="21"/>
+            <symbol>PhyChannelIndex</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1577" col="29" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1593" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1868" col="34" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1982" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2000" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2188" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2831" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3169" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3577" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3757" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3763" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:87:41" call-funcname="Icu_lGetEruIgcrAddress" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4679" col="42" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:165:15" call-funcname="Icu_lNotifiDetCheck" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5517" col="34" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" call-funcname="Icu_lGtmGetInputState" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8573" col="33" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="8570" col="14" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10751" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10758" col="32" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:218:25" call-funcname="Icu_lInitDetCheck" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1031" col="15" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.h:1031:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:100:23" call-funcname="Icu_lSetInputStateActive" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4998" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:440:14" call-funcname="Icu_lGtmGetTimeElapsedHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7754" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:687:14" call-funcname="Icu_lGtmGetInputStateHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8143" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:633:13" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7309" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1577" col="29" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1593" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1868" col="34" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1982" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2000" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2188" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2831" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3169" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3577" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3757" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3763" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:87:41" call-funcname="Icu_lGetEruIgcrAddress" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4679" col="42" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:165:15" call-funcname="Icu_lNotifiDetCheck" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5517" col="34" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" call-funcname="Icu_lGtmGetInputState" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8573" col="33" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="8570" col="14" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10751" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10758" col="32" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:218:25" call-funcname="Icu_lInitDetCheck" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1031" col="15" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.h:1031:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:100:23" call-funcname="Icu_lSetInputStateActive" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4998" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:440:14" call-funcname="Icu_lGtmGetTimeElapsedHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7754" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:687:14" call-funcname="Icu_lGtmGetInputStateHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8143" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:633:13" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7309" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1577" col="29" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1593" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1868" col="34" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1982" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:401:23" call-funcname="Icu_lGtmIrqModify" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2000" col="28" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2188" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="2831" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3169" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3577" col="30" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3757" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" call-funcname="Icu_lGtmGetTimeElapsed" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="3763" col="43" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="3752" col="18" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:87:41" call-funcname="Icu_lGetEruIgcrAddress" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4679" col="42" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:165:15" call-funcname="Icu_lNotifiDetCheck" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5517" col="34" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" call-funcname="Icu_lGtmGetInputState" call-argnr="4" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8573" col="33" call-argexpr="ChlType" call-argvaluetype="0" call-argvalue="0" warning="true">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.c" line="8570" col="14" info="Assuming that condition &apos;ChlType==0U&apos; is not redundant"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10751" col="31" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:104:13" call-funcname="Icu_17_lGlbIndexStatusSet" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10758" col="32" call-argexpr="0U" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:218:25" call-funcname="Icu_lInitDetCheck" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="1031" col="15" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.h:1031:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:100:23" call-funcname="Icu_lSetInputStateActive" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4998" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:440:14" call-funcname="Icu_lGtmGetTimeElapsedHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7754" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:434:33" my-argnr="3"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:687:14" call-funcname="Icu_lGtmGetInputStateHighTime" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="8143" col="21" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:670:38" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:633:13" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7309" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:237:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="4994" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:306:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5285" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:268:13" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="5892" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:415:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="6684" col="7" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:637:13" my-argnr="3" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7382" col="4" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:645:38" my-argnr="2" my-argname="EdgeCountValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="7484" col="12" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:742:23" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9074" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:745:23" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="9217" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:809:23" my-argnr="4" my-argname="CcuRRegPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10192" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c:108:13" my-argnr="1" my-argname="IcuChannelPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6.c" line="10632" col="19" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Icu_lGetEdge" lineNumber="1951"/>
+    <functiondecl functionName="Icu_lGtmGetIrqMode8" lineNumber="723"/>
+    <functiondecl functionName="Icu_lCcuGetBaseAddress" lineNumber="762"/>
+    <functiondecl functionName="Icu_lCcu6GetActiveEdge" lineNumber="814"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetectCheck" lineNumber="872"/>
+    <functiondecl functionName="Icu_lGetGtmModuleNo" lineNumber="947"/>
+    <functiondecl functionName="Icu_lGetChannelType" lineNumber="975"/>
+    <functiondecl functionName="Icu_lGetEruAddress" lineNumber="330"/>
+    <functiondecl functionName="Icu_lGetEruIgcrAddress" lineNumber="341"/>
+    <functiondecl functionName="Icu_lGetEruFenPos" lineNumber="354"/>
+    <functiondecl functionName="Icu_lDisableEruLine" lineNumber="369"/>
+    <functiondecl functionName="Icu_lClearEruServiceRequest" lineNumber="475"/>
+    <functiondecl functionName="Icu_lGetEruExisPos" lineNumber="484"/>
+    <functiondecl functionName="Icu_lSetEruExis" lineNumber="490"/>
+    <functiondecl functionName="Icu_lGetErulinePos" lineNumber="524"/>
+    <functiondecl functionName="Icu_lGetEruInputLineUsed" lineNumber="546"/>
+    <functiondecl functionName="Icu_lGetEruChannel" lineNumber="554"/>
+    <functiondecl functionName="Icu_lSetInputStateActive" lineNumber="573"/>
+    <functiondecl functionName="Icu_lSetInputStateIdle" lineNumber="595"/>
+    <functiondecl functionName="Icu_lChannelInit" lineNumber="4404"/>
+    <functiondecl functionName="Icu_lDeInitEru" lineNumber="4671"/>
+    <functiondecl functionName="Icu_lGetEruLine" lineNumber="4744"/>
+    <functiondecl functionName="Icu_lSetEruEdge" lineNumber="4796"/>
+    <functiondecl functionName="Icu_lWakeup_Isr" lineNumber="4900"/>
+    <functiondecl functionName="Icu_lSignalEdgeNotification_Isr" lineNumber="4969"/>
+    <functiondecl functionName="Icu_lInitCallVerify" lineNumber="5049"/>
+    <functiondecl functionName="Icu_lChannelVerify" lineNumber="5102"/>
+    <functiondecl functionName="Icu_lChannelCheckMode" lineNumber="5175"/>
+    <functiondecl functionName="Icu_lDeInitDetCheck" lineNumber="5237"/>
+    <functiondecl functionName="Icu_lSigMesInit" lineNumber="5273"/>
+    <functiondecl functionName="Icu_lInitDetCheck" lineNumber="5396"/>
+    <functiondecl functionName="Icu_lWakeupDetCheck" lineNumber="5507"/>
+    <functiondecl functionName="Icu_lNotifiDetCheck" lineNumber="5589"/>
+    <functiondecl functionName="Icu_lEnDisNotificationDetCheck" lineNumber="5648"/>
+    <functiondecl functionName="Icu_lEnDisEdgeDetectDetCheck" lineNumber="5727"/>
+    <functiondecl functionName="Icu_lGetInputStateDetCheck" lineNumber="5797"/>
+    <functiondecl functionName="Icu_lDeactivateEdge" lineNumber="5882"/>
+    <functiondecl functionName="Icu_lDisableForWakeup" lineNumber="5955"/>
+    <functiondecl functionName="Icu_lSetNormal" lineNumber="6045"/>
+    <functiondecl functionName="Icu_lResetGlobalVariables" lineNumber="6202"/>
+    <functiondecl functionName="Icu_lGtmChannelInit" lineNumber="6442"/>
+    <functiondecl functionName="Icu_lGtmChannelIdentifier" lineNumber="6542"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetect" lineNumber="6607"/>
+    <functiondecl functionName="Icu_lGtmEdgeDetectModeInit" lineNumber="6679"/>
+    <functiondecl functionName="Icu_lGtmResetChannels" lineNumber="6722"/>
+    <functiondecl functionName="Icu_lGtmDisableChannel" lineNumber="6796"/>
+    <functiondecl functionName="Icu_lGtmIrqModify" lineNumber="6845"/>
+    <functiondecl functionName="Icu_lGtmClearIrqNotify" lineNumber="6887"/>
+    <functiondecl functionName="Icu_lGtmGetIrqNotify" lineNumber="6929"/>
+    <functiondecl functionName="Icu_lGtmChangeActiveEdge" lineNumber="6975"/>
+    <functiondecl functionName="Icu_lGtmStartTimeStamp" lineNumber="7033"/>
+    <functiondecl functionName="Icu_lGtmStopTimeStamp" lineNumber="7091"/>
+    <functiondecl functionName="Icu_lGtmGetTimeStamp" lineNumber="7137"/>
+    <functiondecl functionName="Icu_lTimeStampBufferLimitCheck" lineNumber="7184"/>
+    <functiondecl functionName="Icu_lGtmResetEdgeCount" lineNumber="7290"/>
+    <functiondecl functionName="Icu_lGtmEnableEdgeCount" lineNumber="7361"/>
+    <functiondecl functionName="Icu_lGtmDisableEdgeCount" lineNumber="7419"/>
+    <functiondecl functionName="Icu_lGtmGetEdgeNumbers" lineNumber="7466"/>
+    <functiondecl functionName="Icu_lGtmStopEdgeDetect" lineNumber="7512"/>
+    <functiondecl functionName="Icu_lGtmStartSignalMeasurement" lineNumber="7566"/>
+    <functiondecl functionName="Icu_lGtmStopSignalMeasurement" lineNumber="7651"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsed" lineNumber="7722"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedHighTime" lineNumber="7870"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedLowTime" lineNumber="7962"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedResult" lineNumber="8049"/>
+    <functiondecl functionName="Icu_lGtmGetInputState" lineNumber="8113"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateResult" lineNumber="8233"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateLowTime" lineNumber="8286"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateHighTime" lineNumber="8402"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateSigMeas" lineNumber="8504"/>
+    <functiondecl functionName="Icu_lGtmGetDutyCycleValues" lineNumber="8627"/>
+    <functiondecl functionName="Icu_lGtmEdgeOvrflw" lineNumber="8709"/>
+    <functiondecl functionName="Icu_lCcu6T12Initialization" lineNumber="8823"/>
+    <functiondecl functionName="Icu_lCcu6T12DeInit" lineNumber="8944"/>
+    <functiondecl functionName="Icu_lCcu6ChannelInit" lineNumber="9057"/>
+    <functiondecl functionName="Icu_lCcu6SetActivationCondition" lineNumber="9150"/>
+    <functiondecl functionName="Icu_lCcu6PortInit" lineNumber="9209"/>
+    <functiondecl functionName="Icu_lCcuDisableChannel" lineNumber="9252"/>
+    <functiondecl functionName="Icu_lCcuEnableChannel" lineNumber="9289"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasHandler" lineNumber="9343"/>
+    <functiondecl functionName="Icu_lCcuStopSignalMeas" lineNumber="9473"/>
+    <functiondecl functionName="Icu_lCcuGetTimeElapsed" lineNumber="9524"/>
+    <functiondecl functionName="Icu_lCcuGetDutyCycle" lineNumber="9754"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasIntHandler" lineNumber="9829"/>
+    <functiondecl functionName="Icu_lCcuPeriodMeasInt" lineNumber="10181"/>
+    <functiondecl functionName="Icu_lCcuSubtractWithOverflow" lineNumber="10244"/>
+    <functiondecl functionName="Icu_lSafeCheckMode" lineNumber="10623"/>
+    <functiondecl functionName="Icu_lGtmStartMultiEdgeDetect" lineNumber="10798"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusSet" lineNumber="10860"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusExtract" lineNumber="10959"/>
+    <functiondecl functionName="Icu_lResetCcu6EruRegisters" lineNumber="11047"/>
+    <functiondecl functionName="Icu_lGetEdge" lineNumber="1951"/>
+    <functiondecl functionName="Icu_lGtmGetIrqMode8" lineNumber="723"/>
+    <functiondecl functionName="Icu_lCcuGetBaseAddress" lineNumber="762"/>
+    <functiondecl functionName="Icu_lCcu6GetActiveEdge" lineNumber="814"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetectCheck" lineNumber="872"/>
+    <functiondecl functionName="Icu_lGetGtmModuleNo" lineNumber="947"/>
+    <functiondecl functionName="Icu_lGetChannelType" lineNumber="975"/>
+    <functiondecl functionName="Icu_lGetEruAddress" lineNumber="330"/>
+    <functiondecl functionName="Icu_lGetEruIgcrAddress" lineNumber="341"/>
+    <functiondecl functionName="Icu_lGetEruFenPos" lineNumber="354"/>
+    <functiondecl functionName="Icu_lDisableEruLine" lineNumber="369"/>
+    <functiondecl functionName="Icu_lClearEruServiceRequest" lineNumber="475"/>
+    <functiondecl functionName="Icu_lGetEruExisPos" lineNumber="484"/>
+    <functiondecl functionName="Icu_lSetEruExis" lineNumber="490"/>
+    <functiondecl functionName="Icu_lGetErulinePos" lineNumber="524"/>
+    <functiondecl functionName="Icu_lGetEruInputLineUsed" lineNumber="546"/>
+    <functiondecl functionName="Icu_lGetEruChannel" lineNumber="554"/>
+    <functiondecl functionName="Icu_lSetInputStateActive" lineNumber="573"/>
+    <functiondecl functionName="Icu_lSetInputStateIdle" lineNumber="595"/>
+    <functiondecl functionName="Icu_lChannelInit" lineNumber="4404"/>
+    <functiondecl functionName="Icu_lDeInitEru" lineNumber="4671"/>
+    <functiondecl functionName="Icu_lGetEruLine" lineNumber="4744"/>
+    <functiondecl functionName="Icu_lSetEruEdge" lineNumber="4796"/>
+    <functiondecl functionName="Icu_lWakeup_Isr" lineNumber="4900"/>
+    <functiondecl functionName="Icu_lSignalEdgeNotification_Isr" lineNumber="4969"/>
+    <functiondecl functionName="Icu_lInitCallVerify" lineNumber="5049"/>
+    <functiondecl functionName="Icu_lChannelVerify" lineNumber="5102"/>
+    <functiondecl functionName="Icu_lChannelCheckMode" lineNumber="5175"/>
+    <functiondecl functionName="Icu_lDeInitDetCheck" lineNumber="5237"/>
+    <functiondecl functionName="Icu_lSigMesInit" lineNumber="5273"/>
+    <functiondecl functionName="Icu_lInitDetCheck" lineNumber="5396"/>
+    <functiondecl functionName="Icu_lWakeupDetCheck" lineNumber="5507"/>
+    <functiondecl functionName="Icu_lNotifiDetCheck" lineNumber="5589"/>
+    <functiondecl functionName="Icu_lEnDisNotificationDetCheck" lineNumber="5648"/>
+    <functiondecl functionName="Icu_lEnDisEdgeDetectDetCheck" lineNumber="5727"/>
+    <functiondecl functionName="Icu_lGetInputStateDetCheck" lineNumber="5797"/>
+    <functiondecl functionName="Icu_lDeactivateEdge" lineNumber="5882"/>
+    <functiondecl functionName="Icu_lDisableForWakeup" lineNumber="5955"/>
+    <functiondecl functionName="Icu_lSetNormal" lineNumber="6045"/>
+    <functiondecl functionName="Icu_lResetGlobalVariables" lineNumber="6202"/>
+    <functiondecl functionName="Icu_lGtmChannelInit" lineNumber="6442"/>
+    <functiondecl functionName="Icu_lGtmChannelIdentifier" lineNumber="6542"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetect" lineNumber="6607"/>
+    <functiondecl functionName="Icu_lGtmEdgeDetectModeInit" lineNumber="6679"/>
+    <functiondecl functionName="Icu_lGtmResetChannels" lineNumber="6722"/>
+    <functiondecl functionName="Icu_lGtmDisableChannel" lineNumber="6796"/>
+    <functiondecl functionName="Icu_lGtmIrqModify" lineNumber="6845"/>
+    <functiondecl functionName="Icu_lGtmClearIrqNotify" lineNumber="6887"/>
+    <functiondecl functionName="Icu_lGtmGetIrqNotify" lineNumber="6929"/>
+    <functiondecl functionName="Icu_lGtmChangeActiveEdge" lineNumber="6975"/>
+    <functiondecl functionName="Icu_lGtmStartTimeStamp" lineNumber="7033"/>
+    <functiondecl functionName="Icu_lGtmStopTimeStamp" lineNumber="7091"/>
+    <functiondecl functionName="Icu_lGtmGetTimeStamp" lineNumber="7137"/>
+    <functiondecl functionName="Icu_lTimeStampBufferLimitCheck" lineNumber="7184"/>
+    <functiondecl functionName="Icu_lGtmResetEdgeCount" lineNumber="7290"/>
+    <functiondecl functionName="Icu_lGtmEnableEdgeCount" lineNumber="7361"/>
+    <functiondecl functionName="Icu_lGtmDisableEdgeCount" lineNumber="7419"/>
+    <functiondecl functionName="Icu_lGtmGetEdgeNumbers" lineNumber="7466"/>
+    <functiondecl functionName="Icu_lGtmStopEdgeDetect" lineNumber="7512"/>
+    <functiondecl functionName="Icu_lGtmStartSignalMeasurement" lineNumber="7566"/>
+    <functiondecl functionName="Icu_lGtmStopSignalMeasurement" lineNumber="7651"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsed" lineNumber="7722"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedHighTime" lineNumber="7870"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedLowTime" lineNumber="7962"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedResult" lineNumber="8049"/>
+    <functiondecl functionName="Icu_lGtmGetInputState" lineNumber="8113"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateResult" lineNumber="8233"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateLowTime" lineNumber="8286"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateHighTime" lineNumber="8402"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateSigMeas" lineNumber="8504"/>
+    <functiondecl functionName="Icu_lGtmGetDutyCycleValues" lineNumber="8627"/>
+    <functiondecl functionName="Icu_lGtmEdgeOvrflw" lineNumber="8709"/>
+    <functiondecl functionName="Icu_lCcu6T12Initialization" lineNumber="8823"/>
+    <functiondecl functionName="Icu_lCcu6T12DeInit" lineNumber="8944"/>
+    <functiondecl functionName="Icu_lCcu6ChannelInit" lineNumber="9057"/>
+    <functiondecl functionName="Icu_lCcu6SetActivationCondition" lineNumber="9150"/>
+    <functiondecl functionName="Icu_lCcu6PortInit" lineNumber="9209"/>
+    <functiondecl functionName="Icu_lCcuDisableChannel" lineNumber="9252"/>
+    <functiondecl functionName="Icu_lCcuEnableChannel" lineNumber="9289"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasHandler" lineNumber="9343"/>
+    <functiondecl functionName="Icu_lCcuStopSignalMeas" lineNumber="9473"/>
+    <functiondecl functionName="Icu_lCcuGetTimeElapsed" lineNumber="9524"/>
+    <functiondecl functionName="Icu_lCcuGetDutyCycle" lineNumber="9754"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasIntHandler" lineNumber="9829"/>
+    <functiondecl functionName="Icu_lCcuPeriodMeasInt" lineNumber="10181"/>
+    <functiondecl functionName="Icu_lCcuSubtractWithOverflow" lineNumber="10244"/>
+    <functiondecl functionName="Icu_lSafeCheckMode" lineNumber="10623"/>
+    <functiondecl functionName="Icu_lGtmStartMultiEdgeDetect" lineNumber="10798"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusSet" lineNumber="10860"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusExtract" lineNumber="10959"/>
+    <functiondecl functionName="Icu_lResetCcu6EruRegisters" lineNumber="11047"/>
+    <functiondecl functionName="Icu_lGetEdge" lineNumber="1951"/>
+    <functiondecl functionName="Icu_lGtmGetIrqMode8" lineNumber="723"/>
+    <functiondecl functionName="Icu_lCcuGetBaseAddress" lineNumber="762"/>
+    <functiondecl functionName="Icu_lCcu6GetActiveEdge" lineNumber="814"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetectCheck" lineNumber="872"/>
+    <functiondecl functionName="Icu_lGetGtmModuleNo" lineNumber="947"/>
+    <functiondecl functionName="Icu_lGetChannelType" lineNumber="975"/>
+    <functiondecl functionName="Icu_lGetEruAddress" lineNumber="330"/>
+    <functiondecl functionName="Icu_lGetEruIgcrAddress" lineNumber="341"/>
+    <functiondecl functionName="Icu_lGetEruFenPos" lineNumber="354"/>
+    <functiondecl functionName="Icu_lDisableEruLine" lineNumber="369"/>
+    <functiondecl functionName="Icu_lClearEruServiceRequest" lineNumber="475"/>
+    <functiondecl functionName="Icu_lGetEruExisPos" lineNumber="484"/>
+    <functiondecl functionName="Icu_lSetEruExis" lineNumber="490"/>
+    <functiondecl functionName="Icu_lGetErulinePos" lineNumber="524"/>
+    <functiondecl functionName="Icu_lGetEruInputLineUsed" lineNumber="546"/>
+    <functiondecl functionName="Icu_lGetEruChannel" lineNumber="554"/>
+    <functiondecl functionName="Icu_lSetInputStateActive" lineNumber="573"/>
+    <functiondecl functionName="Icu_lSetInputStateIdle" lineNumber="595"/>
+    <functiondecl functionName="Icu_lChannelInit" lineNumber="4404"/>
+    <functiondecl functionName="Icu_lDeInitEru" lineNumber="4671"/>
+    <functiondecl functionName="Icu_lGetEruLine" lineNumber="4744"/>
+    <functiondecl functionName="Icu_lSetEruEdge" lineNumber="4796"/>
+    <functiondecl functionName="Icu_lWakeup_Isr" lineNumber="4900"/>
+    <functiondecl functionName="Icu_lSignalEdgeNotification_Isr" lineNumber="4969"/>
+    <functiondecl functionName="Icu_lInitCallVerify" lineNumber="5049"/>
+    <functiondecl functionName="Icu_lChannelVerify" lineNumber="5102"/>
+    <functiondecl functionName="Icu_lChannelCheckMode" lineNumber="5175"/>
+    <functiondecl functionName="Icu_lDeInitDetCheck" lineNumber="5237"/>
+    <functiondecl functionName="Icu_lSigMesInit" lineNumber="5273"/>
+    <functiondecl functionName="Icu_lInitDetCheck" lineNumber="5396"/>
+    <functiondecl functionName="Icu_lWakeupDetCheck" lineNumber="5507"/>
+    <functiondecl functionName="Icu_lNotifiDetCheck" lineNumber="5589"/>
+    <functiondecl functionName="Icu_lEnDisNotificationDetCheck" lineNumber="5648"/>
+    <functiondecl functionName="Icu_lEnDisEdgeDetectDetCheck" lineNumber="5727"/>
+    <functiondecl functionName="Icu_lGetInputStateDetCheck" lineNumber="5797"/>
+    <functiondecl functionName="Icu_lDeactivateEdge" lineNumber="5882"/>
+    <functiondecl functionName="Icu_lDisableForWakeup" lineNumber="5955"/>
+    <functiondecl functionName="Icu_lSetNormal" lineNumber="6045"/>
+    <functiondecl functionName="Icu_lResetGlobalVariables" lineNumber="6202"/>
+    <functiondecl functionName="Icu_lGtmChannelInit" lineNumber="6442"/>
+    <functiondecl functionName="Icu_lGtmChannelIdentifier" lineNumber="6542"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetect" lineNumber="6607"/>
+    <functiondecl functionName="Icu_lGtmEdgeDetectModeInit" lineNumber="6679"/>
+    <functiondecl functionName="Icu_lGtmResetChannels" lineNumber="6722"/>
+    <functiondecl functionName="Icu_lGtmDisableChannel" lineNumber="6796"/>
+    <functiondecl functionName="Icu_lGtmIrqModify" lineNumber="6845"/>
+    <functiondecl functionName="Icu_lGtmClearIrqNotify" lineNumber="6887"/>
+    <functiondecl functionName="Icu_lGtmGetIrqNotify" lineNumber="6929"/>
+    <functiondecl functionName="Icu_lGtmChangeActiveEdge" lineNumber="6975"/>
+    <functiondecl functionName="Icu_lGtmStartTimeStamp" lineNumber="7033"/>
+    <functiondecl functionName="Icu_lGtmStopTimeStamp" lineNumber="7091"/>
+    <functiondecl functionName="Icu_lGtmGetTimeStamp" lineNumber="7137"/>
+    <functiondecl functionName="Icu_lTimeStampBufferLimitCheck" lineNumber="7184"/>
+    <functiondecl functionName="Icu_lGtmResetEdgeCount" lineNumber="7290"/>
+    <functiondecl functionName="Icu_lGtmEnableEdgeCount" lineNumber="7361"/>
+    <functiondecl functionName="Icu_lGtmDisableEdgeCount" lineNumber="7419"/>
+    <functiondecl functionName="Icu_lGtmGetEdgeNumbers" lineNumber="7466"/>
+    <functiondecl functionName="Icu_lGtmStopEdgeDetect" lineNumber="7512"/>
+    <functiondecl functionName="Icu_lGtmStartSignalMeasurement" lineNumber="7566"/>
+    <functiondecl functionName="Icu_lGtmStopSignalMeasurement" lineNumber="7651"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsed" lineNumber="7722"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedHighTime" lineNumber="7870"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedLowTime" lineNumber="7962"/>
+    <functiondecl functionName="Icu_lGtmGetTimeElapsedResult" lineNumber="8049"/>
+    <functiondecl functionName="Icu_lGtmGetInputState" lineNumber="8113"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateResult" lineNumber="8233"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateLowTime" lineNumber="8286"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateHighTime" lineNumber="8402"/>
+    <functiondecl functionName="Icu_lGtmGetInputStateSigMeas" lineNumber="8504"/>
+    <functiondecl functionName="Icu_lGtmGetDutyCycleValues" lineNumber="8627"/>
+    <functiondecl functionName="Icu_lGtmEdgeOvrflw" lineNumber="8709"/>
+    <functiondecl functionName="Icu_lCcu6T12Initialization" lineNumber="8823"/>
+    <functiondecl functionName="Icu_lCcu6T12DeInit" lineNumber="8944"/>
+    <functiondecl functionName="Icu_lCcu6ChannelInit" lineNumber="9057"/>
+    <functiondecl functionName="Icu_lCcu6SetActivationCondition" lineNumber="9150"/>
+    <functiondecl functionName="Icu_lCcu6PortInit" lineNumber="9209"/>
+    <functiondecl functionName="Icu_lCcuDisableChannel" lineNumber="9252"/>
+    <functiondecl functionName="Icu_lCcuEnableChannel" lineNumber="9289"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasHandler" lineNumber="9343"/>
+    <functiondecl functionName="Icu_lCcuStopSignalMeas" lineNumber="9473"/>
+    <functiondecl functionName="Icu_lCcuGetTimeElapsed" lineNumber="9524"/>
+    <functiondecl functionName="Icu_lCcuGetDutyCycle" lineNumber="9754"/>
+    <functiondecl functionName="Icu_lCcuSignalMeasIntHandler" lineNumber="9829"/>
+    <functiondecl functionName="Icu_lCcuPeriodMeasInt" lineNumber="10181"/>
+    <functiondecl functionName="Icu_lCcuSubtractWithOverflow" lineNumber="10244"/>
+    <functiondecl functionName="Icu_lSafeCheckMode" lineNumber="10623"/>
+    <functiondecl functionName="Icu_lGtmStartMultiEdgeDetect" lineNumber="10798"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusSet" lineNumber="10860"/>
+    <functiondecl functionName="Icu_17_lGlbIndexStatusExtract" lineNumber="10959"/>
+    <functiondecl functionName="Icu_lResetCcu6EruRegisters" lineNumber="11047"/>
+    <functioncall functionName="CfgEdge"/>
+    <functioncall functionName="Counter"/>
+    <functioncall functionName="Det_ReportError"/>
+    <functioncall functionName="E_NOT_OK"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="EcuM_CheckWakeup"/>
+    <functioncall functionName="EcuM_SetWakeupEvent"/>
+    <functioncall functionName="GTM_CHANNELS_PER_TIM_MODULE"/>
+    <functioncall functionName="GTM_NO_OF_TIM_MODULES"/>
+    <functioncall functionName="GTM_TIMER_MASK"/>
+    <functioncall functionName="ICU_17_GTMCCU6_INSTANCE_ID"/>
+    <functioncall functionName="ICU_CONFIG_COUNT"/>
+    <functioncall functionName="ICU_NO_OF_CCU6_CHANNELS"/>
+    <functioncall functionName="ICU_NO_OF_CCU6_MODULES"/>
+    <functioncall functionName="IN_SRC_RESET"/>
+    <functioncall functionName="Icu_17_lGlbIndexStatusExtract"/>
+    <functioncall functionName="Icu_17_lGlbIndexStatusSet"/>
+    <functioncall functionName="Icu_lCcu6GetActiveEdge"/>
+    <functioncall functionName="Icu_lCcu6SetActivationCondition"/>
+    <functioncall functionName="Icu_lCcu6T12DeInit"/>
+    <functioncall functionName="Icu_lCcu6T12Initialization"/>
+    <functioncall functionName="Icu_lCcuDisableChannel"/>
+    <functioncall functionName="Icu_lCcuEnableChannel"/>
+    <functioncall functionName="Icu_lCcuGetBaseAddress"/>
+    <functioncall functionName="Icu_lCcuGetDutyCycle"/>
+    <functioncall functionName="Icu_lCcuGetTimeElapsed"/>
+    <functioncall functionName="Icu_lCcuSignalMeasHandler"/>
+    <functioncall functionName="Icu_lCcuSignalMeasIntHandler"/>
+    <functioncall functionName="Icu_lCcuStopSignalMeas"/>
+    <functioncall functionName="Icu_lCcuSubtractWithOverflow"/>
+    <functioncall functionName="Icu_lChannelCheckMode"/>
+    <functioncall functionName="Icu_lChannelInit"/>
+    <functioncall functionName="Icu_lChannelVerify"/>
+    <functioncall functionName="Icu_lClearEruServiceRequest"/>
+    <functioncall functionName="Icu_lDeInitDetCheck"/>
+    <functioncall functionName="Icu_lDeInitEru"/>
+    <functioncall functionName="Icu_lDeactivateEdge"/>
+    <functioncall functionName="Icu_lDisableEruLine"/>
+    <functioncall functionName="Icu_lDisableForWakeup"/>
+    <functioncall functionName="Icu_lEnDisEdgeDetectDetCheck"/>
+    <functioncall functionName="Icu_lEnDisNotificationDetCheck"/>
+    <functioncall functionName="Icu_lGetChannelType"/>
+    <functioncall functionName="Icu_lGetEruAddress"/>
+    <functioncall functionName="Icu_lGetEruChannel"/>
+    <functioncall functionName="Icu_lGetEruEicr"/>
+    <functioncall functionName="Icu_lGetEruEicrChannel"/>
+    <functioncall functionName="Icu_lGetEruExisPos"/>
+    <functioncall functionName="Icu_lGetEruFenPos"/>
+    <functioncall functionName="Icu_lGetEruIgcrAddress"/>
+    <functioncall functionName="Icu_lGetEruLine"/>
+    <functioncall functionName="Icu_lGetErulinePos"/>
+    <functioncall functionName="Icu_lGetGtmModuleNo"/>
+    <functioncall functionName="Icu_lGetInputStateDetCheck"/>
+    <functioncall functionName="Icu_lGtmChangeActiveEdge"/>
+    <functioncall functionName="Icu_lGtmChannelIdentifier"/>
+    <functioncall functionName="Icu_lGtmChannelInit"/>
+    <functioncall functionName="Icu_lGtmClearIrqNotify"/>
+    <functioncall functionName="Icu_lGtmDisableChannel"/>
+    <functioncall functionName="Icu_lGtmDisableEdgeCount"/>
+    <functioncall functionName="Icu_lGtmEdgeOvrflw"/>
+    <functioncall functionName="Icu_lGtmEnableEdgeCount"/>
+    <functioncall functionName="Icu_lGtmGetDutyCycleValues"/>
+    <functioncall functionName="Icu_lGtmGetEdgeNumbers"/>
+    <functioncall functionName="Icu_lGtmGetInputState"/>
+    <functioncall functionName="Icu_lGtmGetInputStateEdgeDetect"/>
+    <functioncall functionName="Icu_lGtmGetInputStateHighTime"/>
+    <functioncall functionName="Icu_lGtmGetInputStateLowTime"/>
+    <functioncall functionName="Icu_lGtmGetInputStateResult"/>
+    <functioncall functionName="Icu_lGtmGetInputStateSigMeas"/>
+    <functioncall functionName="Icu_lGtmGetIrqNotify"/>
+    <functioncall functionName="Icu_lGtmGetTimeElapsed"/>
+    <functioncall functionName="Icu_lGtmGetTimeElapsedHighTime"/>
+    <functioncall functionName="Icu_lGtmGetTimeElapsedLowTime"/>
+    <functioncall functionName="Icu_lGtmGetTimeElapsedResult"/>
+    <functioncall functionName="Icu_lGtmIrqModify"/>
+    <functioncall functionName="Icu_lGtmResetChannels"/>
+    <functioncall functionName="Icu_lGtmResetEdgeCount"/>
+    <functioncall functionName="Icu_lGtmStartEdgeDetect"/>
+    <functioncall functionName="Icu_lGtmStartMultiEdgeDetect"/>
+    <functioncall functionName="Icu_lGtmStartSignalMeasurement"/>
+    <functioncall functionName="Icu_lGtmStartTimeStamp"/>
+    <functioncall functionName="Icu_lGtmStopEdgeDetect"/>
+    <functioncall functionName="Icu_lGtmStopSignalMeasurement"/>
+    <functioncall functionName="Icu_lGtmStopTimeStamp"/>
+    <functioncall functionName="Icu_lInitCallVerify"/>
+    <functioncall functionName="Icu_lInitDetCheck"/>
+    <functioncall functionName="Icu_lNotifiDetCheck"/>
+    <functioncall functionName="Icu_lResetCcu6EruRegisters"/>
+    <functioncall functionName="Icu_lResetGlobalVariables"/>
+    <functioncall functionName="Icu_lSafeCheckMode"/>
+    <functioncall functionName="Icu_lSetEruEdge"/>
+    <functioncall functionName="Icu_lSetInputStateActive"/>
+    <functioncall functionName="Icu_lSetInputStateIdle"/>
+    <functioncall functionName="Icu_lSetNormal"/>
+    <functioncall functionName="Icu_lSignalEdgeNotification_Isr"/>
+    <functioncall functionName="Icu_lWakeupDetCheck"/>
+    <functioncall functionName="Icu_lWakeup_Isr"/>
+    <functioncall functionName="MODULE_CCU60"/>
+    <functioncall functionName="Mcal_Extract"/>
+    <functioncall functionName="Mcal_SetAtomic"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="NotificationPointer"/>
+    <functioncall functionName="OS_ModifyPeripheral32"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="OS_WritePeripheral32"/>
+    <functioncall functionName="SafeMcal_ReportError"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_Ccu6IenUpdate"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_CcuInterruptHandle"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_CcuVariableupdate"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_EnableNotification"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_EnableWakeup"/>
+    <functioncall functionName="SchM_Enter_Icu_17_GtmCcu6_ResetEdgeCount"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_Ccu6IenUpdate"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_CcuInterruptHandle"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_CcuVariableupdate"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_EnableNotification"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_EnableWakeup"/>
+    <functioncall functionName="SchM_Exit_Icu_17_GtmCcu6_ResetEdgeCount"/>
+    <functioncall functionName="SigProp"/>
+    <functioncall functionName="TIM"/>
+    <functioncall functionName="TRUSTED_ApplResetEndInit"/>
+    <functioncall functionName="TRUSTED_ApplSetEndInit"/>
+    <functioncall functionName="TRUSTED_Mcal_SetAtomic"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="UNUSED_PARAMETER"/>
+    <functioncall functionName="sint32"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="unsigned_int"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,2 @@
+EA_initGpt call:[Gpt_EnableNotification,Gpt_StartTimer] noreturn:[Gpt_StartTimer]
+EA_mainGpt

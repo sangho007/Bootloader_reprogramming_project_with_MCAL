@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="12410747929039840075">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxFlash_reg.h&quot; not found." verbose="Include file: &quot;IfxFlash_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="47" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="52" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;FlsLoader.h&quot; not found." verbose="Include file: &quot;FlsLoader.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="55" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;FlsLoader_Local.h&quot; not found." verbose="Include file: &quot;FlsLoader_Local.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="58" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCpu_reg.h&quot; not found." verbose="Include file: &quot;IfxCpu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="60" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="62" column="0"/>
+        </error>
+        <error id="preprocessorErrorDirective" severity="error" msg="#error &quot;FLSLOADER_SW_MAJOR_VERSION is not defined. &quot;" verbose="#error &quot;FLSLOADER_SW_MAJOR_VERSION is not defined. &quot;" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="68" column="4"/>
+        </error>
+        <error id="noValidConfiguration" severity="information" msg="This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details." verbose="This file is not analyzed. Cppcheck failed to extract a valid configuration. The tested configurations have these preprocessor errors:\012&apos;&apos; : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c:68] #error &quot;FLSLOADER_SW_MAJOR_VERSION is not defined. &quot;\012FLSLOADER_SW_MAJOR_VERSION;FLSLOADER_SW_MINOR_VERSION;FLSLOADER_SW_PATCH_VERSION : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c:80] #error &quot;FLSLOADER_SW_MAJOR_VERSION does not match. &quot;\012IFX_FLSLOADER_DEBUG : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/flsloader_infineon_tricore/src/FlsLoader.c:68] #error &quot;FLSLOADER_SW_MAJOR_VERSION is not defined. &quot;" file0="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\flsloader_infineon_tricore\src\FlsLoader.c" line="0" column="0"/>
+        </error>
+</analyzerinfo>

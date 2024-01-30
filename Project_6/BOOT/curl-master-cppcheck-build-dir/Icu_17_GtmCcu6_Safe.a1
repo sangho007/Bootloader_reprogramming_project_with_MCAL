@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="15394200539596606327">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.h" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCcu6_reg.h&quot; not found." verbose="Include file: &quot;IfxCcu6_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.h" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="47" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="51" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found." verbose="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="54" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm.h&quot; not found." verbose="Include file: &quot;Gtm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="59" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuM_Cbk.h&quot; not found." verbose="Include file: &quot;EcuM_Cbk.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="65" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="70" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found." verbose="Include file: &quot;Icu_17_GtmCcu6_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="998" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1915" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1918" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1943" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1946" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1958" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1963" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6.h" line="1967" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="272" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="284" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="288" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="298" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="611" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="638" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="643" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="670" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="673" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Local.h" line="1026" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="36" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="55" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="66" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="72" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="947" column="0"/>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;Ccu6RegPtr&apos; can be reduced." verbose="The scope of the variable &apos;Ccu6RegPtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="884" column="22"/>
+            <symbol>Ccu6RegPtr</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: EruEicrUsed" verbose="Unused variable: EruEicrUsed" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="237" column="39"/>
+            <symbol>EruEicrUsed</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: EruEicrChannel" verbose="Unused variable: EruEicrChannel" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="238" column="39"/>
+            <symbol>EruEicrChannel</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;TempStoreReturnVal&apos; is assigned a value that is never used." verbose="Variable &apos;TempStoreReturnVal&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="255" column="10"/>
+            <symbol>TempStoreReturnVal</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;SigKind&apos; is assigned a value that is never used." verbose="Variable &apos;SigKind&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="534" column="11"/>
+            <symbol>SigKind</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: TempStorage" verbose="Unused variable: TempStorage" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="527" column="10"/>
+            <symbol>TempStorage</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: TempStorageRetVal" verbose="Unused variable: TempStorageRetVal" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\icu\Icu_17_GtmCcu6_Safe.c" line="528" column="10"/>
+            <symbol>TempStorageRetVal</symbol>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:80:25" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="534" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:94:25" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="785" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:102:25" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="838" col="29" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:80:25" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="534" col="14" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:94:25" my-argnr="2" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="785" col="29" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c:102:25" my-argnr="1" my-argname="LocalIcuChanPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/icu/Icu_17_GtmCcu6_Safe.c" line="838" col="29" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Icu_lGetEdge" lineNumber="1951"/>
+    <functiondecl functionName="Icu_lGtmGetIrqMode8" lineNumber="723"/>
+    <functiondecl functionName="Icu_lCcuGetBaseAddress" lineNumber="762"/>
+    <functiondecl functionName="Icu_lCcu6GetActiveEdge" lineNumber="814"/>
+    <functiondecl functionName="Icu_lGtmStartEdgeDetectCheck" lineNumber="872"/>
+    <functiondecl functionName="Icu_lGetGtmModuleNo" lineNumber="947"/>
+    <functiondecl functionName="Icu_lGetChannelType" lineNumber="975"/>
+    <functiondecl functionName="Icu_lChannelInitCheck" lineNumber="229"/>
+    <functiondecl functionName="Icu_lSigMesInitCheck" lineNumber="520"/>
+    <functiondecl functionName="Icu_lGtmChannelInitCheck" lineNumber="655"/>
+    <functiondecl functionName="Icu_lCcu6ChannelInitCheck" lineNumber="775"/>
+    <functiondecl functionName="Icu_lCcu6PortInitCheck" lineNumber="827"/>
+    <functiondecl functionName="Icu_lCcu6T12InitializationCheck" lineNumber="881"/>
+    <functioncall functionName="E_NOT_OK"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="ICU_CONFIG_COUNT"/>
+    <functioncall functionName="ICU_NO_OF_CCU6_CHANNELS"/>
+    <functioncall functionName="ICU_NO_OF_CCU6_MODULES"/>
+    <functioncall functionName="Icu_lCcu6T12InitializationCheck"/>
+    <functioncall functionName="Icu_lCcuGetBaseAddress"/>
+    <functioncall functionName="Icu_lChannelInitCheck"/>
+    <functioncall functionName="Icu_lGetChannelType"/>
+    <functioncall functionName="Icu_lGetGtmModuleNo"/>
+    <functioncall functionName="Icu_lGtmChannelIdentifier"/>
+    <functioncall functionName="Icu_lGtmChannelInitCheck"/>
+    <functioncall functionName="MODULE_CCU60"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="Std_ReturnType"/>
+    <functioncall functionName="TIM"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="UNUSED_PARAMETER"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="unsigned_int"/>
+  </FileInfo>
+</analyzerinfo>

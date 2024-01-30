@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="5956977810561452956">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="1" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_EcuAbs.h&quot; not found." verbose="Include file: &quot;Rte_EcuAbs.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_BswCom.h&quot; not found." verbose="Include file: &quot;Rte_BswCom.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_BswDcm.h&quot; not found." verbose="Include file: &quot;Rte_BswDcm.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_CcpCustom.h&quot; not found." verbose="Include file: &quot;Rte_CcpCustom.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="5" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="Source\ScuMain.c" line="6" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="GptNotification_1ms" lineNumber="10"/>
+    <functiondecl functionName="Task_10ms" lineNumber="21"/>
+    <functiondecl functionName="ScuMain" lineNumber="28"/>
+    <functioncall functionName="REcbBswCom_initialize"/>
+    <functioncall functionName="REcbBswDcm_initialize"/>
+    <functioncall functionName="REcbCcpCustom_initialize"/>
+    <functioncall functionName="REcbEcuAbs_initialize"/>
+    <functioncall functionName="REtBswCom_bswComMain"/>
+    <functioncall functionName="REtBswDcm_bswDcmMain"/>
+    <functioncall functionName="REtCcpCustom_ccpCustomTask1ms"/>
+    <functioncall functionName="REtEcuAbs_ecuAbsMain"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="Task_10ms"/>
+    <functioncall functionName="UT_getTimeEcuAlive10ms"/>
+    <functioncall functionName="UT_getTimeEcuAlive1ms"/>
+    <functioncall functionName="UT_updateTimeEcuAlive10ms"/>
+    <functioncall functionName="UT_updateTimeEcuAlive1ms"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,3 @@
+EA_initDio call:[setMcuInhibit] noreturn:[setMcuInhibit]
+EA_mainDio call:[EA_getAdcValue,setMcuInhibit] noreturn:[setMcuInhibit]
+setMcuInhibit call:[Dio_WriteChannel] noreturn:[Dio_WriteChannel]

@@ -1,0 +1,5 @@
+SHA256_Transform global:[SHA256_K] call:[_lrotl,_lrotr]
+SHA256_Init
+SHA256_Process call:[SHA256_Transform,memcpy]
+SHA256_Close call:[SHA256_Transform,_lrotl,memset] noreturn:[memset]
+SHA256_Encrpyt call:[SHA256_Close,SHA256_Init,SHA256_Process] noreturn:[SHA256_Close]

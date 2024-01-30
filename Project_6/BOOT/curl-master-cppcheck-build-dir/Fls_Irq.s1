@@ -1,0 +1,2 @@
+ISR call:[Fls_17_Pmu_Isr,Mcal_EnableAllInterrupts] noreturn:[Fls_17_Pmu_Isr]
+ISR call:[Mcal_EnableAllInterrupts] noreturn:[Mcal_EnableAllInterrupts]

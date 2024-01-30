@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="8644698050882155097">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;UdsNrcList.h&quot; not found." verbose="Include file: &quot;UdsNrcList.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.c" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;KISA_SHA256.h&quot; not found." verbose="Include file: &quot;KISA_SHA256.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.c" line="5" column="0"/>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;errorResult&apos; is assigned a value that is never used." verbose="Variable &apos;errorResult&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/2_App/BswDcm/Rte_BswDcm.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswDcm\Rte_BswDcm.c" line="104" column="23"/>
+            <symbol>errorResult</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/BswDcm/Rte_BswDcm.h:10:13" call-funcname="Rte_Call_BswDcm_rEcuAbsFls_writePflash" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/BswDcm/Rte_BswDcm.c" line="713" col="47" call-argexpr="DecrypetedBuffer" call-argvaluetype="7" call-argvalue="-1"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="REcbBswDcm_initialize" lineNumber="96"/>
+    <functiondecl functionName="REtBswDcm_bswDcmMain" lineNumber="101"/>
+    <functiondecl functionName="REoiBswDcm_pDcmCmd_processDiagRequest" lineNumber="175"/>
+    <functiondecl functionName="REoiBswDcm_pDcmCmd_getDiagStatus" lineNumber="221"/>
+    <functiondecl functionName="diagnosticSessionControl" lineNumber="226"/>
+    <functiondecl functionName="ecuReset" lineNumber="264"/>
+    <functiondecl functionName="securityAccess" lineNumber="291"/>
+    <functiondecl functionName="communicationControl" lineNumber="348"/>
+    <functiondecl functionName="routineControl" lineNumber="389"/>
+    <functiondecl functionName="writeDataByIdentifier" lineNumber="485"/>
+    <functiondecl functionName="readDataByIdentifier" lineNumber="528"/>
+    <functiondecl functionName="requestDownload" lineNumber="560"/>
+    <functiondecl functionName="transferData" lineNumber="659"/>
+    <functiondecl functionName="requestTransferExit" lineNumber="732"/>
+    <functioncall functionName="DATA_ID_AttemptCounter"/>
+    <functioncall functionName="DATA_ID_SuccessCounter"/>
+    <functioncall functionName="DATA_ID_VariantCode"/>
+    <functioncall functionName="DATA_LEN_AttemptCounter"/>
+    <functioncall functionName="DATA_LEN_VariantCode"/>
+    <functioncall functionName="DIAG_SESSION_DEFAULT"/>
+    <functioncall functionName="DIAG_SESSION_EXTENDED"/>
+    <functioncall functionName="DIAG_SESSION_PROGRAMMING"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="MAX_CAN_MSG_DLC"/>
+    <functioncall functionName="MEMORY_ADDRESS_APPLICATION"/>
+    <functioncall functionName="MEMORY_ADDRESS_APPLICATION_BACKUP"/>
+    <functioncall functionName="MEMORY_DATA_VALID_PATTERN_LENGTH"/>
+    <functioncall functionName="MEMORY_DATA_VALID_PATTERN_VALUE"/>
+    <functioncall functionName="MEMORY_PATTERN_VALID_APP_ADDR_BACKUP"/>
+    <functioncall functionName="MEMORY_SIZE_APPLICATION_VALID"/>
+    <functioncall functionName="MEMORY_SIZE_BINARY"/>
+    <functioncall functionName="NRC_GeneralProgrammingFailure"/>
+    <functioncall functionName="NRC_IncorrectMessageLengthOrInvalidFormat"/>
+    <functioncall functionName="NRC_InvalidKey"/>
+    <functioncall functionName="NRC_RequestOutRange"/>
+    <functioncall functionName="NRC_SecurityAccessDenied"/>
+    <functioncall functionName="NRC_ServiceNotSupported"/>
+    <functioncall functionName="NRC_ServiceNotSupportedInActiveSession"/>
+    <functioncall functionName="NRC_SubFunctionNotSupported"/>
+    <functioncall functionName="NRC_SubFunctionNotSupportedInActiveSession"/>
+    <functioncall functionName="NRC_TransferDataSuspended"/>
+    <functioncall functionName="NRC_WrongBlockSequeceNumber"/>
+    <functioncall functionName="PFLASH_AREA_APPICATION_PRIMARY"/>
+    <functioncall functionName="PFLASH_AREA_APPICATION_SECONDARY"/>
+    <functioncall functionName="P_uint8"/>
+    <functioncall functionName="Rte_Call_BswDcm_rEcuAbsCan_canSend"/>
+    <functioncall functionName="Rte_Call_BswDcm_rEcuAbsFls_erasePflashBlock"/>
+    <functioncall functionName="Rte_Call_BswDcm_rEcuAbsFls_writePflash"/>
+    <functioncall functionName="Rte_Call_BswDcm_rEcuAbsNvm_readNvmData"/>
+    <functioncall functionName="Rte_Call_BswDcm_rEcuAbsNvm_writeNvmData"/>
+    <functioncall functionName="SHA256_Close"/>
+    <functioncall functionName="SHA256_Init"/>
+    <functioncall functionName="SHA256_Process"/>
+    <functioncall functionName="ST_DiagStatus"/>
+    <functioncall functionName="TIME_5S"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="TX_MSG_IDX_PHY_RES"/>
+    <functioncall functionName="TX_MSG_LEN_PHY_RES"/>
+    <functioncall functionName="UT_getTimeEcuAlive1ms"/>
+    <functioncall functionName="communicationControl"/>
+    <functioncall functionName="diagnosticSessionControl"/>
+    <functioncall functionName="ecuReset"/>
+    <functioncall functionName="memcmp"/>
+    <functioncall functionName="memcpy"/>
+    <functioncall functionName="memset"/>
+    <functioncall functionName="readDataByIdentifier"/>
+    <functioncall functionName="requestDownload"/>
+    <functioncall functionName="requestTransferExit"/>
+    <functioncall functionName="routineControl"/>
+    <functioncall functionName="securityAccess"/>
+    <functioncall functionName="transferData"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="writeDataByIdentifier"/>
+  </FileInfo>
+</analyzerinfo>

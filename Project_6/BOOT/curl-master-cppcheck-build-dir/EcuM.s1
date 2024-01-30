@@ -1,0 +1,4 @@
+EcuM_Init call:[EcuM_AL_DriverInitOne,EcuM_AL_DriverInitThree,EcuM_AL_DriverInitTwo,EcuM_AL_DriverInitZero,Mcu_Init] noreturn:[EcuM_AL_DriverInitThree]
+EcuM_SetWakeupEvent call:[UNUSED_PARAMETER]
+EcuM_ValidateWakeupEvent call:[UNUSED_PARAMETER]
+EcuM_CheckWakeup call:[UNUSED_PARAMETER]

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="9405774145263638983">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dio.h&quot; not found." verbose="Include file: &quot;Dio.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Dio_PBCfg.c" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Dio_PBCfg.c" line="57" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Dio_PBCfg.c" line="148" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="DIO_CHANNELGROUPCOUNT_0"/>
+    <functioncall functionName="DIO_PORT_CONFIGURED"/>
+    <functioncall functionName="DIO_PORT_NOT_CONFIGURED"/>
+    <functioncall functionName="NULL_PTR"/>
+  </FileInfo>
+</analyzerinfo>

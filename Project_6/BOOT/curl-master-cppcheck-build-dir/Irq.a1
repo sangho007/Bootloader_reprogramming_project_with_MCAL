@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="12098852349569097281">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Irq_Cfg.h&quot; not found." verbose="Include file: &quot;Irq_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="172" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="543" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_Options.h&quot; not found." verbose="Include file: &quot;Mcal_Options.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="57" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="133" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="155" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.c" line="1618" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Irq_ClearAsclinIntFlags" lineNumber="167"/>
+    <functiondecl functionName="Irq_ClearCcu6IntFlags" lineNumber="186"/>
+    <functiondecl functionName="Irq_ClearGptIntFlags" lineNumber="206"/>
+    <functiondecl functionName="Irq_ClearGtmIntFlags" lineNumber="221"/>
+    <functiondecl functionName="Irq_ClearCanIntFlags" lineNumber="269"/>
+    <functiondecl functionName="Irq_ClearGpsrGroupIntFlags" lineNumber="372"/>
+    <functiondecl functionName="Irq_ClearSpiIntFlags" lineNumber="382"/>
+    <functiondecl functionName="Irq_ClearAdcIntFlags" lineNumber="441"/>
+    <functiondecl functionName="Irq_ClearFlexrayIntFlags" lineNumber="483"/>
+    <functiondecl functionName="Irq_ClearEthernetIntFlags" lineNumber="502"/>
+    <functiondecl functionName="Irq_ClearDmaIntFlags" lineNumber="510"/>
+    <functiondecl functionName="Irq_ClearStmIntFlags" lineNumber="538"/>
+    <functiondecl functionName="Irq_ClearScuIntFlags" lineNumber="550"/>
+    <functiondecl functionName="Irq_ClearPmuIntFlags" lineNumber="562"/>
+    <functiondecl functionName="Irq_ClearSentIntFlags" lineNumber="576"/>
+    <functiondecl functionName="Irq_ClearHsmIntFlags" lineNumber="595"/>
+    <functioncall functionName="IRQ_ADC0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_ADC0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_ADC0_SR2_PRIO"/>
+    <functioncall functionName="IRQ_ADC0_SR3_PRIO"/>
+    <functioncall functionName="IRQ_ADC1_SR0_PRIO"/>
+    <functioncall functionName="IRQ_ADC1_SR1_PRIO"/>
+    <functioncall functionName="IRQ_ADC1_SR2_PRIO"/>
+    <functioncall functionName="IRQ_ADC1_SR3_PRIO"/>
+    <functioncall functionName="IRQ_ADC2_SR0_PRIO"/>
+    <functioncall functionName="IRQ_ADC2_SR1_PRIO"/>
+    <functioncall functionName="IRQ_ADC2_SR2_PRIO"/>
+    <functioncall functionName="IRQ_ADC2_SR3_PRIO"/>
+    <functioncall functionName="IRQ_ADC3_SR0_PRIO"/>
+    <functioncall functionName="IRQ_ADC3_SR1_PRIO"/>
+    <functioncall functionName="IRQ_ADC3_SR2_PRIO"/>
+    <functioncall functionName="IRQ_ADC3_SR3_PRIO"/>
+    <functioncall functionName="IRQ_ADCCG0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_ADCCG0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_ADCCG0_SR2_PRIO"/>
+    <functioncall functionName="IRQ_ADCCG0_SR3_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN0_ERR_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN0_RX_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN0_TX_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN1_ERR_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN1_RX_PRIO"/>
+    <functioncall functionName="IRQ_ASCLIN1_TX_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR0_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR10_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR11_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR12_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR13_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR14_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR15_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR16_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR17_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR18_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR19_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR1_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR20_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR21_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR22_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR23_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR2_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR3_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR4_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR5_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR6_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR7_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR8_PRIO"/>
+    <functioncall functionName="IRQ_CAN_SR9_PRIO"/>
+    <functioncall functionName="IRQ_CCU60_SR0_PRIO"/>
+    <functioncall functionName="IRQ_CCU60_SR1_PRIO"/>
+    <functioncall functionName="IRQ_CCU60_SR2_PRIO"/>
+    <functioncall functionName="IRQ_CCU60_SR3_PRIO"/>
+    <functioncall functionName="IRQ_CCU61_SR0_PRIO"/>
+    <functioncall functionName="IRQ_CCU61_SR1_PRIO"/>
+    <functioncall functionName="IRQ_CCU61_SR2_PRIO"/>
+    <functioncall functionName="IRQ_CCU61_SR3_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL0_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL10_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL11_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL12_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL13_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL14_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL15_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL1_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL2_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL3_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL4_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL5_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL6_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL7_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL8_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_CHANNEL9_SR_PRIO"/>
+    <functioncall functionName="IRQ_DMA_ERR_SR_PRIO"/>
+    <functioncall functionName="IRQ_ETH_SR_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_IB_BUSY_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_MBSC0_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_MBSC1_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_NEW_DATA0_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_NEW_DATA1_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_OB_BUSY_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_TIMER_INT0_PRIO"/>
+    <functioncall functionName="IRQ_FLEXRAY0_TIMER_INT1_PRIO"/>
+    <functioncall functionName="IRQ_GPSRGROUP0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_CARPEL_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_T2_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_T3_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_T4_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_T5_PRIO"/>
+    <functioncall functionName="IRQ_GPT120_T6_PRIO"/>
+    <functioncall functionName="IRQ_GTM_AEI_PRIO"/>
+    <functioncall functionName="IRQ_GTM_ERR_SR_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR2_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR3_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR4_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR5_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR6_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TIM0_SR7_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR2_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR3_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR4_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR5_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR6_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM0_SR7_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR0_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR1_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR2_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR3_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR4_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR5_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR6_PRIO"/>
+    <functioncall functionName="IRQ_GTM_TOM1_SR7_PRIO"/>
+    <functioncall functionName="IRQ_HSM_SR0_PRIO"/>
+    <functioncall functionName="IRQ_HSM_SR1_PRIO"/>
+    <functioncall functionName="IRQ_PMU0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_PMU0_SR1_PRIO"/>
+    <functioncall functionName="IRQ_QSPI0_ERR_PRIO"/>
+    <functioncall functionName="IRQ_QSPI0_PT_PRIO"/>
+    <functioncall functionName="IRQ_QSPI0_RX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI0_TX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI0_UD_PRIO"/>
+    <functioncall functionName="IRQ_QSPI1_ERR_PRIO"/>
+    <functioncall functionName="IRQ_QSPI1_PT_PRIO"/>
+    <functioncall functionName="IRQ_QSPI1_RX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI1_TX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI1_UD_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_ERR_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_HC_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_PT_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_RX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_TX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI2_UD_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_ERR_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_HC_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_PT_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_RX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_TX_PRIO"/>
+    <functioncall functionName="IRQ_QSPI3_UD_PRIO"/>
+    <functioncall functionName="IRQ_SCU_DTS_BUSY_SR_PRIO"/>
+    <functioncall functionName="IRQ_SCU_ERU_SR0_PRIO"/>
+    <functioncall functionName="IRQ_SCU_ERU_SR1_PRIO"/>
+    <functioncall functionName="IRQ_SCU_ERU_SR2_PRIO"/>
+    <functioncall functionName="IRQ_SCU_ERU_SR3_PRIO"/>
+    <functioncall functionName="IRQ_SENT_SR0_PRIO"/>
+    <functioncall functionName="IRQ_SENT_SR1_PRIO"/>
+    <functioncall functionName="IRQ_SENT_SR2_PRIO"/>
+    <functioncall functionName="IRQ_SENT_SR3_PRIO"/>
+    <functioncall functionName="IRQ_STM0_SR0_PRIO"/>
+    <functioncall functionName="IRQ_STM0_SR1_PRIO"/>
+    <functioncall functionName="Irq_ClearAdcIntFlags"/>
+    <functioncall functionName="Irq_ClearAsclinIntFlags"/>
+    <functioncall functionName="Irq_ClearCanIntFlags"/>
+    <functioncall functionName="Irq_ClearCcu6IntFlags"/>
+    <functioncall functionName="Irq_ClearDmaIntFlags"/>
+    <functioncall functionName="Irq_ClearEthernetIntFlags"/>
+    <functioncall functionName="Irq_ClearFlexrayIntFlags"/>
+    <functioncall functionName="Irq_ClearGpsrGroupIntFlags"/>
+    <functioncall functionName="Irq_ClearGptIntFlags"/>
+    <functioncall functionName="Irq_ClearGtmIntFlags"/>
+    <functioncall functionName="Irq_ClearHsmIntFlags"/>
+    <functioncall functionName="Irq_ClearPmuIntFlags"/>
+    <functioncall functionName="Irq_ClearScuIntFlags"/>
+    <functioncall functionName="Irq_ClearSentIntFlags"/>
+    <functioncall functionName="Irq_ClearSpiIntFlags"/>
+    <functioncall functionName="Irq_ClearStmIntFlags"/>
+    <functioncall functionName="Mcal_DisableAllInterrupts"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="val"/>
+  </FileInfo>
+</analyzerinfo>

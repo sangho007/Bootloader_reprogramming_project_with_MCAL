@@ -1,0 +1,3 @@
+EA_initFls call:[FlsLoader_Init] noreturn:[FlsLoader_Init]
+EA_erasePflashBlock call:[EA_wdgTriggerUpdateSlow,FlsLoader_Erase,Mcal_DisableAllInterrupts,Mcal_EnableAllInterrupts] noreturn:[FlsLoader_Erase,Mcal_EnableAllInterrupts]
+EA_writePflash call:[EA_wdgTriggerUpdateSlow,FlsLoader_Write] noreturn:[FlsLoader_Write]

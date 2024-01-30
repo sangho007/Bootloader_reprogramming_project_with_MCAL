@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="18253318778630108101">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc.h&quot; not found." verbose="Include file: &quot;Adc.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Adc_PBCfg.c" line="36" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Adc_PBCfg.c" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Adc_PBCfg.c" line="683" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Adc_PBCfg.c" line="1179" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="ADC_CH_RES_12BIT"/>
+    <functioncall functionName="ADC_CONV_MODE_ONESHOT"/>
+    <functioncall functionName="ADC_GROUP_REPL_ABORT_RESTART"/>
+    <functioncall functionName="ADC_REF_VOLTAGE_VAREF"/>
+    <functioncall functionName="ADC_REQSRC1_NCH_SCAN"/>
+    <functioncall functionName="ADC_RES_ACCUMULATION_NONE"/>
+    <functioncall functionName="ADC_STREAM_BUFFER_LINEAR"/>
+    <functioncall functionName="ADC_TRIGG_SRC_SW"/>
+    <functioncall functionName="AdcNotification_AdcHwUnit0_AdcGroup0"/>
+    <functioncall functionName="AdcNotification_AdcHwUnit1_AdcGroup0"/>
+    <functioncall functionName="Adc_GroupPriorityType"/>
+    <functioncall functionName="Adc_PrescaleType"/>
+    <functioncall functionName="Adc_StreamNumSampleType"/>
+    <functioncall functionName="DMA_CHANNEL_INVALID"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

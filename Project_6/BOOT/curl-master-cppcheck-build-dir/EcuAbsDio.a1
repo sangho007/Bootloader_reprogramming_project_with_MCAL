@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="16106112795998187131">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Dio\EcuAbsDio.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Dio\EcuAbsDio.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dio.h&quot; not found." verbose="Include file: &quot;Dio.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Dio\EcuAbsDio.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsAdc.h&quot; not found." verbose="Include file: &quot;EcuAbsAdc.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Dio\EcuAbsDio.c" line="4" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initDio" lineNumber="8"/>
+    <functiondecl functionName="EA_mainDio" lineNumber="13"/>
+    <functiondecl functionName="setMcuInhibit" lineNumber="35"/>
+    <functioncall functionName="DioConf_DioChannel_Inhibit"/>
+    <functioncall functionName="Dio_WriteChannel"/>
+    <functioncall functionName="EA_getAdcValue"/>
+    <functioncall functionName="STD_HIGH"/>
+    <functioncall functionName="STD_LOW"/>
+    <functioncall functionName="setMcuInhibit"/>
+  </FileInfo>
+</analyzerinfo>

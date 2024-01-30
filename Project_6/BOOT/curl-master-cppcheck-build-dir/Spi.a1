@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="14275718275578562631">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxQspi_reg.h&quot; not found." verbose="Include file: &quot;IfxQspi_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="50" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxQspi_bf.h&quot; not found." verbose="Include file: &quot;IfxQspi_bf.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="51" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxDma_reg.h&quot; not found." verbose="Include file: &quot;IfxDma_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="52" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxPort_reg.h&quot; not found." verbose="Include file: &quot;IfxPort_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="54" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi_Cfg.h&quot; not found." verbose="Include file: &quot;Spi_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Spi_Cfg.h&quot; not found." verbose="Include file: &quot;Spi_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1251" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1255" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1263" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1270" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1275" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1279" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1286" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1291" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1296" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1301" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="1313" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.h" line="2237" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="95" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="101" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="108" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\SpiSlave.h" line="113" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="91" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="100" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="105" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="117" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="122" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="134" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="151" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="168" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="174" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi_Local.h" line="405" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dem.h&quot; not found." verbose="Include file: &quot;Dem.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="66" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SchM_Spi.h&quot; not found." verbose="Include file: &quot;SchM_Spi.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="72" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SafetyReport.h&quot; not found." verbose="Include file: &quot;SafetyReport.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="76" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="585" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1058" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1084" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1120" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1133" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1187" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1213" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1222" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1231" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1260" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1281" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1316" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1330" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1354" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1363" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1373" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1386" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1397" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="1411" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="15595" column="0"/>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;RetVal&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;RetVal&apos; is reassigned a value before the old one has been used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2399" column="10" info="RetVal is overwritten"/>
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2393" column="10" info="RetVal is assigned"/>
+            <symbol>RetVal</symbol>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;RetVal&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;RetVal&apos; is reassigned a value before the old one has been used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2972" column="10" info="RetVal is overwritten"/>
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2964" column="10" info="RetVal is assigned"/>
+            <symbol>RetVal</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;ModulePtr&apos; can be reduced." verbose="The scope of the variable &apos;ModulePtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="10377" column="15"/>
+            <symbol>ModulePtr</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;ModulePtr&apos; can be reduced." verbose="The scope of the variable &apos;ModulePtr&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="10436" column="15"/>
+            <symbol>ModulePtr</symbol>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: TempHwUse" verbose="Unused variable: TempHwUse" cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="3764" column="10"/>
+            <symbol>TempHwUse</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;CurHwUsed&apos; is assigned a value that is never used." verbose="Variable &apos;CurHwUsed&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="3765" column="16"/>
+            <symbol>CurHwUsed</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;SeqStatusAsil&apos; is assigned a value that is never used." verbose="Variable &apos;SeqStatusAsil&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="7510" column="24"/>
+            <symbol>SeqStatusAsil</symbol>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;SequenceStatus&apos; is assigned a value that is never used." verbose="Variable &apos;SequenceStatus&apos; is assigned a value that is never used." cwe="563" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="7522" column="33"/>
+            <symbol>SequenceStatus</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="2115" col="31" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2107" col="18" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:903:15" call-funcname="Spi_lHwCheckRxStatus" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4800" col="30" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4835" col="34" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1025:23" call-funcname="Spi_lHwDisableQspiRxIntr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4838" col="36" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1034:17" call-funcname="Spi_lHwDisableModule" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4841" col="32" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:191:13" call-funcname="Spi_lSlaveBusHandler" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5093" col="29" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5097" col="31" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1025:23" call-funcname="Spi_lHwDisableQspiRxIntr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5141" col="29" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5142" col="27" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:976:28" call-funcname="Spi_lDmaGetBothMoveEngErrFlags" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5186" col="55" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:604:25" call-funcname="Spi_lAnyModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7635" col="36" call-argexpr="(uint8)Index" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="7525" col="11" info="Assignment &apos;Index=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1046:13" call-funcname="Spi_lHwGpioSetPortPin" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9249" col="28" call-argexpr="Polarity" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9248" col="42" info="Assignment &apos;Polarity=(Polarity==(uint8)0U)?(uint8)1U:(uint8)0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:833:17" call-funcname="Spi_lSetJobStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9351" col="34" call-argexpr="SPI_JOB_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:833:17" call-funcname="Spi_lSetJobStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9366" col="36" call-argexpr="SPI_JOB_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:831:17" call-funcname="Spi_lSetSeqStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9382" col="32" call-argexpr="SPI_SEQ_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9694" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9691" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9744" col="31" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9741" col="18" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9811" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9808" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9852" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9849" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" call-funcname="Spi_lHwSetChannelConfig" call-argnr="6" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7301" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:592:13" my-argnr="6"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1041:19" call-funcname="Spi_lHwGetTxStatus" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8730" col="11" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:800:33" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8833" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:783:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8986" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:790:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9139" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1042:19" call-funcname="Spi_lHwGetRxStatus" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9276" col="7" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" my-argnr="1"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:339:23" my-argnr="2" my-argname="JobSeqDataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7823" col="16" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="2" my-argname="SourceDataPtr32" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9170" col="42" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:909:25" my-argnr="1" my-argname="ModulePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10182" col="10" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:913:13" my-argnr="2" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10262" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:918:23" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10387" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:922:33" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10453" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="2" my-argname="ChannelConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10673" col="28" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="6" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10681" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:339:23" my-argnr="2" my-argname="JobSeqDataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7823" col="16" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:783:13" my-argnr="2" my-argname="SourceDataPtr16" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8863" col="59" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:790:13" my-argnr="2" my-argname="SourceDataPtr8" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9017" col="58" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="2" my-argname="SourceDataPtr32" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9170" col="42" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:909:25" my-argnr="1" my-argname="ModulePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10182" col="10" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:913:13" my-argnr="2" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10262" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:918:23" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10387" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:922:33" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10453" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="2" my-argname="ChannelConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10673" col="28" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="6" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10681" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="2115" col="31" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="2107" col="18" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:903:15" call-funcname="Spi_lHwCheckRxStatus" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4800" col="30" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4835" col="34" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1025:23" call-funcname="Spi_lHwDisableQspiRxIntr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4838" col="36" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1034:17" call-funcname="Spi_lHwDisableModule" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="4841" col="32" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:191:13" call-funcname="Spi_lSlaveBusHandler" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5093" col="29" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5097" col="31" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1025:23" call-funcname="Spi_lHwDisableQspiRxIntr" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5141" col="29" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:196:13" call-funcname="Spi_lSlaveErrorHandler" call-argnr="3" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5142" col="27" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:976:28" call-funcname="Spi_lDmaGetBothMoveEngErrFlags" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="5186" col="55" call-argexpr="(uint8)0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:604:25" call-funcname="Spi_lAnyModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7635" col="36" call-argexpr="(uint8)Index" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="7525" col="11" info="Assignment &apos;Index=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1046:13" call-funcname="Spi_lHwGpioSetPortPin" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9249" col="28" call-argexpr="Polarity" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9248" col="42" info="Assignment &apos;Polarity=(Polarity==(uint8)0U)?(uint8)1U:(uint8)0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:833:17" call-funcname="Spi_lSetJobStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9351" col="34" call-argexpr="SPI_JOB_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:833:17" call-funcname="Spi_lSetJobStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9366" col="36" call-argexpr="SPI_JOB_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:831:17" call-funcname="Spi_lSetSeqStatusAtomic" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9382" col="32" call-argexpr="SPI_SEQ_OK" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9694" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9691" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9744" col="31" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9741" col="18" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9811" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9808" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:601:25" call-funcname="Spi_lModuleConfigured" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9852" col="29" call-argexpr="(uint8)ModLoopCtr" call-argvaluetype="0" call-argvalue="0">
+  <path file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\spi\Spi.c" line="9849" col="16" info="Assignment &apos;ModLoopCtr=0U&apos;, assigned value is 0"/>
+</function-call><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" call-funcname="Spi_lHwSetChannelConfig" call-argnr="6" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7301" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:592:13" my-argnr="6"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1041:19" call-funcname="Spi_lHwGetTxStatus" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8730" col="11" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:800:33" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8833" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:783:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8986" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:790:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" call-funcname="Spi_lClrPendingEvents" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9139" col="5" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:1042:19" call-funcname="Spi_lHwGetRxStatus" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9276" col="7" my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:797:13" my-argnr="1"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:339:23" my-argnr="2" my-argname="JobSeqDataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7823" col="16" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="2" my-argname="SourceDataPtr32" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9170" col="42" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:909:25" my-argnr="1" my-argname="ModulePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10182" col="10" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:913:13" my-argnr="2" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10262" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:918:23" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10387" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:922:33" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10453" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="2" my-argname="ChannelConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10673" col="28" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="6" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10681" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi_Local.h:339:23" my-argnr="2" my-argname="JobSeqDataPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="7823" col="16" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:783:13" my-argnr="2" my-argname="SourceDataPtr16" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="8863" col="59" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:790:13" my-argnr="2" my-argname="SourceDataPtr8" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9017" col="58" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:776:13" my-argnr="2" my-argname="SourceDataPtr32" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="9170" col="42" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:909:25" my-argnr="1" my-argname="ModulePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10182" col="10" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:913:13" my-argnr="2" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10262" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:918:23" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10387" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:922:33" my-argnr="1" my-argname="ConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10453" col="18" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="2" my-argname="ChannelConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10673" col="28" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c:937:13" my-argnr="6" my-argname="JobConfigPtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/spi/Spi.c" line="10681" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Spi_lIncrementAndRoundIndex" lineNumber="368"/>
+    <functiondecl functionName="Spi_lEnableChipSelect" lineNumber="5465"/>
+    <functiondecl functionName="Spi_lDisableChipSelect" lineNumber="5590"/>
+    <functiondecl functionName="Spi_lDisableChipSelect_SV" lineNumber="5685"/>
+    <functiondecl functionName="Spi_lSyncTransmitDetCheck" lineNumber="5974"/>
+    <functiondecl functionName="Spi_lSyncStartJob" lineNumber="6960"/>
+    <functiondecl functionName="Spi_lSyncStartChannel" lineNumber="7130"/>
+    <functiondecl functionName="Spi_lModuleConfigured" lineNumber="7348"/>
+    <functiondecl functionName="Spi_lAnyModuleConfigured" lineNumber="7386"/>
+    <functiondecl functionName="Spi_lGetHwStatus" lineNumber="7504"/>
+    <functiondecl functionName="Spi_lClearChannelWriteLock" lineNumber="8089"/>
+    <functiondecl functionName="Spi_lClearJobResultStatus" lineNumber="8125"/>
+    <functiondecl functionName="Spi_lClearSequenceStatus" lineNumber="8175"/>
+    <functiondecl functionName="Spi_lIBCopy16BitData" lineNumber="8305"/>
+    <functiondecl functionName="Spi_lIBCopy8BitData" lineNumber="8372"/>
+    <functiondecl functionName="Spi_lIBCopy32BitData" lineNumber="8439"/>
+    <functiondecl functionName="Spi_lSynTransErrCheck" lineNumber="8721"/>
+    <functiondecl functionName="Spi_lSyncTransmit16BitData" lineNumber="8787"/>
+    <functiondecl functionName="Spi_lSyncTransmit8BitData" lineNumber="8943"/>
+    <functiondecl functionName="Spi_lSyncTransmit32BitData" lineNumber="9093"/>
+    <functiondecl functionName="Spi_lGpioCsHandle" lineNumber="9244"/>
+    <functiondecl functionName="Spi_lClrPendingEvents" lineNumber="9273"/>
+    <functiondecl functionName="Spi_lSyncTransmit" lineNumber="9310"/>
+    <functiondecl functionName="Spi_lGetDetInitStatus" lineNumber="9409"/>
+    <functiondecl functionName="Spi_lGetSeqStatusInArray" lineNumber="9460"/>
+    <functiondecl functionName="Spi_lHwInit" lineNumber="9677"/>
+    <functiondecl functionName="Spi_lHwDeInit" lineNumber="9794"/>
+    <functiondecl functionName="Spi_lHwCheckRxStatus" lineNumber="10116"/>
+    <functiondecl functionName="Spi_lHwCheckSlaveRxStatus" lineNumber="10175"/>
+    <functiondecl functionName="Spi_lHwSetJobConfig" lineNumber="10221"/>
+    <functiondecl functionName="Spi_lHwSetConfigExtn" lineNumber="10375"/>
+    <functiondecl functionName="Spi_lHwCheckConfigExtn" lineNumber="10431"/>
+    <functiondecl functionName="Spi_lQSPIHwKernelReset" lineNumber="10512"/>
+    <functiondecl functionName="Spi_lHwSetChannelConfig" lineNumber="10602"/>
+    <functiondecl functionName="Spi_lHwDisableQspiRxIntr" lineNumber="10747"/>
+    <functiondecl functionName="Spi_lHwClearErrIntr" lineNumber="10809"/>
+    <functiondecl functionName="Spi_lDmaGetBothMoveEngErrFlags" lineNumber="13138"/>
+    <functiondecl functionName="Spi_lSetSeqStatus" lineNumber="13202"/>
+    <functiondecl functionName="Spi_lGetSeqStatus" lineNumber="13275"/>
+    <functiondecl functionName="Spi_lSetJobStatusAtomic" lineNumber="13342"/>
+    <functiondecl functionName="Spi_lSetSeqStatusAtomic" lineNumber="13417"/>
+    <functiondecl functionName="Spi_lSetJobStatus" lineNumber="13493"/>
+    <functiondecl functionName="Spi_lGetChannelWriteLock" lineNumber="13567"/>
+    <functiondecl functionName="Spi_lSetChannelWriteLock" lineNumber="13600"/>
+    <functiondecl functionName="Spi_lClrChannelWriteLock" lineNumber="13631"/>
+    <functiondecl functionName="Spi_lGetCSPinOffset" lineNumber="13800"/>
+    <functiondecl functionName="Spi_lGetGpioAddr" lineNumber="13827"/>
+    <functiondecl functionName="Spi_lGetCSPortOffset" lineNumber="13862"/>
+    <functiondecl functionName="Spi_lHwDisableModule" lineNumber="14003"/>
+    <functiondecl functionName="Spi_lHwGetModuleStatus" lineNumber="14049"/>
+    <functiondecl functionName="SPI_lHwUpdateSrcRegister" lineNumber="14081"/>
+    <functiondecl functionName="SPI_lHwUpdateSrcRegViaModule" lineNumber="14109"/>
+    <functiondecl functionName="SPI_lHwReadDestRegister" lineNumber="14148"/>
+    <functiondecl functionName="Spi_lHwClrQspiPendEvent" lineNumber="14176"/>
+    <functiondecl functionName="Spi_lHwGetTxStatus" lineNumber="14219"/>
+    <functiondecl functionName="Spi_lHwGetErrStatus" lineNumber="14262"/>
+    <functiondecl functionName="Spi_lHwGetRxStatus" lineNumber="14294"/>
+    <functiondecl functionName="Spi_lHwGpioSetPortPin" lineNumber="14334"/>
+    <functiondecl functionName="Spi_lGetQmModuleVarIndex" lineNumber="14529"/>
+    <functiondecl functionName="Spi_lGetQmModuleVarIndexSeq" lineNumber="14592"/>
+    <functiondecl functionName="Spi_lInitGlobalVarCheck" lineNumber="15123"/>
+    <functiondecl functionName="Spi_lIncrementAndRoundIndex" lineNumber="368"/>
+    <functiondecl functionName="Spi_lEnableChipSelect" lineNumber="5465"/>
+    <functiondecl functionName="Spi_lDisableChipSelect" lineNumber="5590"/>
+    <functiondecl functionName="Spi_lDisableChipSelect_SV" lineNumber="5685"/>
+    <functiondecl functionName="Spi_lSyncTransmitDetCheck" lineNumber="5974"/>
+    <functiondecl functionName="Spi_lSyncStartJob" lineNumber="6960"/>
+    <functiondecl functionName="Spi_lSyncStartChannel" lineNumber="7130"/>
+    <functiondecl functionName="Spi_lModuleConfigured" lineNumber="7348"/>
+    <functiondecl functionName="Spi_lAnyModuleConfigured" lineNumber="7386"/>
+    <functiondecl functionName="Spi_lGetHwStatus" lineNumber="7504"/>
+    <functiondecl functionName="Spi_lClearChannelWriteLock" lineNumber="8089"/>
+    <functiondecl functionName="Spi_lClearJobResultStatus" lineNumber="8125"/>
+    <functiondecl functionName="Spi_lClearSequenceStatus" lineNumber="8175"/>
+    <functiondecl functionName="Spi_lIBCopy16BitData" lineNumber="8305"/>
+    <functiondecl functionName="Spi_lIBCopy8BitData" lineNumber="8372"/>
+    <functiondecl functionName="Spi_lIBCopy32BitData" lineNumber="8439"/>
+    <functiondecl functionName="Spi_lSynTransErrCheck" lineNumber="8721"/>
+    <functiondecl functionName="Spi_lSyncTransmit16BitData" lineNumber="8787"/>
+    <functiondecl functionName="Spi_lSyncTransmit8BitData" lineNumber="8943"/>
+    <functiondecl functionName="Spi_lSyncTransmit32BitData" lineNumber="9093"/>
+    <functiondecl functionName="Spi_lGpioCsHandle" lineNumber="9244"/>
+    <functiondecl functionName="Spi_lClrPendingEvents" lineNumber="9273"/>
+    <functiondecl functionName="Spi_lSyncTransmit" lineNumber="9310"/>
+    <functiondecl functionName="Spi_lGetDetInitStatus" lineNumber="9409"/>
+    <functiondecl functionName="Spi_lGetSeqStatusInArray" lineNumber="9460"/>
+    <functiondecl functionName="Spi_lHwInit" lineNumber="9677"/>
+    <functiondecl functionName="Spi_lHwDeInit" lineNumber="9794"/>
+    <functiondecl functionName="Spi_lHwCheckRxStatus" lineNumber="10116"/>
+    <functiondecl functionName="Spi_lHwCheckSlaveRxStatus" lineNumber="10175"/>
+    <functiondecl functionName="Spi_lHwSetJobConfig" lineNumber="10221"/>
+    <functiondecl functionName="Spi_lHwSetConfigExtn" lineNumber="10375"/>
+    <functiondecl functionName="Spi_lHwCheckConfigExtn" lineNumber="10431"/>
+    <functiondecl functionName="Spi_lQSPIHwKernelReset" lineNumber="10512"/>
+    <functiondecl functionName="Spi_lHwSetChannelConfig" lineNumber="10602"/>
+    <functiondecl functionName="Spi_lHwDisableQspiRxIntr" lineNumber="10747"/>
+    <functiondecl functionName="Spi_lHwClearErrIntr" lineNumber="10809"/>
+    <functiondecl functionName="Spi_lDmaGetBothMoveEngErrFlags" lineNumber="13138"/>
+    <functiondecl functionName="Spi_lSetSeqStatus" lineNumber="13202"/>
+    <functiondecl functionName="Spi_lGetSeqStatus" lineNumber="13275"/>
+    <functiondecl functionName="Spi_lSetJobStatusAtomic" lineNumber="13342"/>
+    <functiondecl functionName="Spi_lSetSeqStatusAtomic" lineNumber="13417"/>
+    <functiondecl functionName="Spi_lSetJobStatus" lineNumber="13493"/>
+    <functiondecl functionName="Spi_lGetChannelWriteLock" lineNumber="13567"/>
+    <functiondecl functionName="Spi_lSetChannelWriteLock" lineNumber="13600"/>
+    <functiondecl functionName="Spi_lClrChannelWriteLock" lineNumber="13631"/>
+    <functiondecl functionName="Spi_lGetCSPinOffset" lineNumber="13800"/>
+    <functiondecl functionName="Spi_lGetGpioAddr" lineNumber="13827"/>
+    <functiondecl functionName="Spi_lGetCSPortOffset" lineNumber="13862"/>
+    <functiondecl functionName="Spi_lHwDisableModule" lineNumber="14003"/>
+    <functiondecl functionName="Spi_lHwGetModuleStatus" lineNumber="14049"/>
+    <functiondecl functionName="SPI_lHwUpdateSrcRegister" lineNumber="14081"/>
+    <functiondecl functionName="SPI_lHwUpdateSrcRegViaModule" lineNumber="14109"/>
+    <functiondecl functionName="SPI_lHwReadDestRegister" lineNumber="14148"/>
+    <functiondecl functionName="Spi_lHwClrQspiPendEvent" lineNumber="14176"/>
+    <functiondecl functionName="Spi_lHwGetTxStatus" lineNumber="14219"/>
+    <functiondecl functionName="Spi_lHwGetErrStatus" lineNumber="14262"/>
+    <functiondecl functionName="Spi_lHwGetRxStatus" lineNumber="14294"/>
+    <functiondecl functionName="Spi_lHwGpioSetPortPin" lineNumber="14334"/>
+    <functiondecl functionName="Spi_lGetQmModuleVarIndex" lineNumber="14529"/>
+    <functiondecl functionName="Spi_lGetQmModuleVarIndexSeq" lineNumber="14592"/>
+    <functiondecl functionName="Spi_lInitGlobalVarCheck" lineNumber="15123"/>
+    <functioncall functionName="ChnlBufferMarker"/>
+    <functioncall functionName="DEM_EVENT_STATUS_FAILED"/>
+    <functioncall functionName="Dem_ReportErrorStatus"/>
+    <functioncall functionName="Det_ReportError"/>
+    <functioncall functionName="E_NOT_OK"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="MODULE_QSPI0"/>
+    <functioncall functionName="Mcal_DmaChClrIntrFlags"/>
+    <functioncall functionName="Mcal_DmaClrErrFlags"/>
+    <functioncall functionName="Mcal_DmaGetTransReqLostFlag"/>
+    <functioncall functionName="Mcal_DmaGetTransferIntStatus"/>
+    <functioncall functionName="Mcal_LockResource"/>
+    <functioncall functionName="Mcal_SetAtomic"/>
+    <functioncall functionName="Mcal_UnlockResource"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="NoOfBuffers"/>
+    <functioncall functionName="OS_ModifyPeripheral32"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="OS_WritePeripheral32"/>
+    <functioncall functionName="SPI_ASIL_JOB"/>
+    <functioncall functionName="SPI_ASIL_SEQUENCE"/>
+    <functioncall functionName="SPI_BUSY"/>
+    <functioncall functionName="SPI_CHANNEL_LINK_DELIMITER"/>
+    <functioncall functionName="SPI_CONFIG_COUNT"/>
+    <functioncall functionName="SPI_E_HARDWARE_ERROR"/>
+    <functioncall functionName="SPI_IDLE"/>
+    <functioncall functionName="SPI_JOB_ASIL_ARRAY_INDEX"/>
+    <functioncall functionName="SPI_JOB_FAILED"/>
+    <functioncall functionName="SPI_JOB_LINK_DELIMITER"/>
+    <functioncall functionName="SPI_JOB_OK"/>
+    <functioncall functionName="SPI_JOB_PENDING"/>
+    <functioncall functionName="SPI_KERNEL_RESET_WAIT_COUNT"/>
+    <functioncall functionName="SPI_LOOPCNTR_MAX"/>
+    <functioncall functionName="SPI_MAXIMUM_IB_BUFFER_SIZE"/>
+    <functioncall functionName="SPI_MAXIMUM_IB_CHANNELS"/>
+    <functioncall functionName="SPI_MAXIMUM_JOB"/>
+    <functioncall functionName="SPI_MAXIMUM_SEQUENCE"/>
+    <functioncall functionName="SPI_MAX_HW_UNIT"/>
+    <functioncall functionName="SPI_MAX_JOB_TRIG_Q_LENGTH"/>
+    <functioncall functionName="SPI_NUM_ASIL_SLAVE_MODULES"/>
+    <functioncall functionName="SPI_QM_JOB"/>
+    <functioncall functionName="SPI_QM_SEQUENCE"/>
+    <functioncall functionName="SPI_SEQUENCE_ASIL_ARRAY_INDEX"/>
+    <functioncall functionName="SPI_SEQ_CANCELED"/>
+    <functioncall functionName="SPI_SEQ_FAILED"/>
+    <functioncall functionName="SPI_SEQ_OK"/>
+    <functioncall functionName="SPI_SEQ_PENDING"/>
+    <functioncall functionName="SPI_SYNCTRANSMIT_TIMEOUT_COUNTER"/>
+    <functioncall functionName="SPI_UNINIT"/>
+    <functioncall functionName="SPI_WRITELOCK_INDEX"/>
+    <functioncall functionName="SPI_lHwReadDestRegister"/>
+    <functioncall functionName="SPI_lHwUpdateSrcRegister"/>
+    <functioncall functionName="SafeMcal_ReportError"/>
+    <functioncall functionName="SchM_Enter_Spi_AsyncTransmit"/>
+    <functioncall functionName="SchM_Enter_Spi_Cancel"/>
+    <functioncall functionName="SchM_Enter_Spi_DeInit"/>
+    <functioncall functionName="SchM_Enter_Spi_GetSequenceResult"/>
+    <functioncall functionName="SchM_Enter_Spi_Init"/>
+    <functioncall functionName="SchM_Enter_Spi_SyncTransmit"/>
+    <functioncall functionName="SchM_Enter_Spi_WriteIB"/>
+    <functioncall functionName="SchM_Exit_Spi_AsyncTransmit"/>
+    <functioncall functionName="SchM_Exit_Spi_Cancel"/>
+    <functioncall functionName="SchM_Exit_Spi_DeInit"/>
+    <functioncall functionName="SchM_Exit_Spi_GetSequenceResult"/>
+    <functioncall functionName="SchM_Exit_Spi_Init"/>
+    <functioncall functionName="SchM_Exit_Spi_SyncTransmit"/>
+    <functioncall functionName="SchM_Exit_Spi_WriteIB"/>
+    <functioncall functionName="SeqEndNotification"/>
+    <functioncall functionName="Spi_lAnyModuleConfigured"/>
+    <functioncall functionName="Spi_lClearChannelWriteLock"/>
+    <functioncall functionName="Spi_lClearJobResultStatus"/>
+    <functioncall functionName="Spi_lClearSequenceStatus"/>
+    <functioncall functionName="Spi_lClrChannelWriteLock"/>
+    <functioncall functionName="Spi_lClrPendingEvents"/>
+    <functioncall functionName="Spi_lDisableChipSelect"/>
+    <functioncall functionName="Spi_lDisableChipSelect_SV"/>
+    <functioncall functionName="Spi_lDmaGetBothMoveEngErrFlags"/>
+    <functioncall functionName="Spi_lEnableChipSelect"/>
+    <functioncall functionName="Spi_lGetCSPinOffset"/>
+    <functioncall functionName="Spi_lGetCSPortOffset"/>
+    <functioncall functionName="Spi_lGetChannelWriteLock"/>
+    <functioncall functionName="Spi_lGetDetInitStatus"/>
+    <functioncall functionName="Spi_lGetGpioAddr"/>
+    <functioncall functionName="Spi_lGetHwStatus"/>
+    <functioncall functionName="Spi_lGetJobKind"/>
+    <functioncall functionName="Spi_lGetJobStatus"/>
+    <functioncall functionName="Spi_lGetModuleKind"/>
+    <functioncall functionName="Spi_lGetQmModuleVarIndex"/>
+    <functioncall functionName="Spi_lGetSeqStatus"/>
+    <functioncall functionName="Spi_lGetSeqStatusInArray"/>
+    <functioncall functionName="Spi_lGetSequenceKind"/>
+    <functioncall functionName="Spi_lGpioCsHandle"/>
+    <functioncall functionName="Spi_lHwCheckConfigExtn"/>
+    <functioncall functionName="Spi_lHwCheckRxStatus"/>
+    <functioncall functionName="Spi_lHwCheckSlaveRxStatus"/>
+    <functioncall functionName="Spi_lHwClearErrIntr"/>
+    <functioncall functionName="Spi_lHwDeInit"/>
+    <functioncall functionName="Spi_lHwDisableModule"/>
+    <functioncall functionName="Spi_lHwDisableQspiErrIntr"/>
+    <functioncall functionName="Spi_lHwDisableQspiRxIntr"/>
+    <functioncall functionName="Spi_lHwGetErrStatus"/>
+    <functioncall functionName="Spi_lHwGetModuleStatus"/>
+    <functioncall functionName="Spi_lHwGetRxStatus"/>
+    <functioncall functionName="Spi_lHwGetTxStatus"/>
+    <functioncall functionName="Spi_lHwGpioSetPortPin"/>
+    <functioncall functionName="Spi_lHwInit"/>
+    <functioncall functionName="Spi_lHwSetChannelConfig"/>
+    <functioncall functionName="Spi_lHwSetConfigExtn"/>
+    <functioncall functionName="Spi_lHwSetJobConfig"/>
+    <functioncall functionName="Spi_lIBCopy16BitData"/>
+    <functioncall functionName="Spi_lIBCopy32BitData"/>
+    <functioncall functionName="Spi_lIBCopy8BitData"/>
+    <functioncall functionName="Spi_lInitGlobalVarCheck"/>
+    <functioncall functionName="Spi_lModuleConfigured"/>
+    <functioncall functionName="Spi_lQSPIHwKernelReset"/>
+    <functioncall functionName="Spi_lSetChannelWriteLock"/>
+    <functioncall functionName="Spi_lSetJobStatus"/>
+    <functioncall functionName="Spi_lSetJobStatusAtomic"/>
+    <functioncall functionName="Spi_lSetSeqStatus"/>
+    <functioncall functionName="Spi_lSetSeqStatusAtomic"/>
+    <functioncall functionName="Spi_lSlaveBusHandler"/>
+    <functioncall functionName="Spi_lSlaveCancel"/>
+    <functioncall functionName="Spi_lSlaveDeInit"/>
+    <functioncall functionName="Spi_lSlaveDmaClrIntrFlag"/>
+    <functioncall functionName="Spi_lSlaveDmaGetTxIntStatus"/>
+    <functioncall functionName="Spi_lSlaveErrorHandler"/>
+    <functioncall functionName="Spi_lSlaveInit"/>
+    <functioncall functionName="Spi_lSlaveInitCheck"/>
+    <functioncall functionName="Spi_lSynTransErrCheck"/>
+    <functioncall functionName="Spi_lSyncStartChannel"/>
+    <functioncall functionName="Spi_lSyncStartJob"/>
+    <functioncall functionName="Spi_lSyncTransmit"/>
+    <functioncall functionName="Spi_lSyncTransmit16BitData"/>
+    <functioncall functionName="Spi_lSyncTransmit32BitData"/>
+    <functioncall functionName="Spi_lSyncTransmit8BitData"/>
+    <functioncall functionName="Spi_lSyncTransmitDetCheck"/>
+    <functioncall functionName="Std_ReturnType"/>
+    <functioncall functionName="TRUSTED_ApplResetEndInit"/>
+    <functioncall functionName="TRUSTED_ApplSetEndInit"/>
+    <functioncall functionName="TRUSTED_Mcal_SetAtomic"/>
+    <functioncall functionName="TransferCount"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="UNUSED_PARAMETER"/>
+    <functioncall functionName="sint32"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="unsigned_int"/>
+  </FileInfo>
+</analyzerinfo>

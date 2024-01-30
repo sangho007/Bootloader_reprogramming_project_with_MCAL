@@ -1,0 +1,10 @@
+UT_updateTimeEcuAlive1ms global:[timeEcuAlive1ms]
+UT_getTimeEcuAlive1ms global:[timeEcuAlive1ms]
+UT_updateTimeEcuAlive10ms global:[timeEcuAlive10ms]
+UT_getTimeEcuAlive10ms global:[timeEcuAlive10ms]
+UT_registerCanTxConfirmation global:[functionCallbackTxConfirmation]
+UT_canTxConfirmation global:[functionCallbackTxConfirmation]
+UT_getCanRxIndicationData global:[stCanRxIndecation] call:[memcpy] noreturn:[memcpy]
+UT_canRxIndication global:[stCanRxIndecation] call:[REcbBswCom_canRxIndication,memcpy] noreturn:[REcbBswCom_canRxIndication]
+UT_readSignalData
+UT_writeSignalData

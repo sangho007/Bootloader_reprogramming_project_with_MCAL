@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="14979065560313865568">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCpu_reg.h&quot; not found." verbose="Include file: &quot;IfxCpu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_Options.h&quot; not found." verbose="Include file: &quot;Mcal_Options.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="103" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="112" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="124" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="132" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="140" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="148" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="174" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1871" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1879" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="2026" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="2034" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="2181" column="0"/>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal_DmaLib.h&quot; not found." verbose="Include file: &quot;Mcal_DmaLib.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Os.h&quot; not found." verbose="Include file: &quot;Os.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="46" column="0"/>
+        </error>
+        <error id="constVariablePointer" severity="style" msg="Variable &apos;SFR&apos; can be declared as pointer to const" verbose="Variable &apos;SFR&apos; can be declared as pointer to const" cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="824" column="13" info="Variable &apos;SFR&apos; can be declared as pointer to const"/>
+            <symbol>SFR</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: SFR" verbose="Uninitialized variable: SFR" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="780" column="6"/>
+            <symbol>SFR</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: Value" verbose="Uninitialized variable: Value" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="780" column="12"/>
+            <symbol>Value</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: SFR" verbose="Uninitialized variable: SFR" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="814" column="16"/>
+            <symbol>SFR</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: SetMask" verbose="Uninitialized variable: SetMask" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="815" column="22"/>
+            <symbol>SetMask</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: SFR" verbose="Uninitialized variable: SFR" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="840" column="25"/>
+            <symbol>SFR</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: Bits" verbose="Uninitialized variable: Bits" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="900" column="10"/>
+            <symbol>Bits</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: Width" verbose="Uninitialized variable: Width" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="962" column="8"/>
+            <symbol>Width</symbol>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: Value" verbose="Uninitialized variable: Value" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="964" column="37"/>
+            <symbol>Value</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Value" verbose="Uninitialized variable: Value" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="968" column="37"/>
+            <symbol>Value</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="990" column="46"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1009" column="45"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1029" column="69"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1051" column="48"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1076" column="44"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Address" verbose="Uninitialized variable: Address" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1076" column="60"/>
+            <symbol>Address</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1101" column="43"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Address" verbose="Uninitialized variable: Address" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1101" column="59"/>
+            <symbol>Address</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1120" column="43"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1144" column="44"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1167" column="43"/>
+            <symbol>Channel</symbol>
+        </error>
+        <error id="legacyUninitvar" severity="error" msg="Uninitialized variable: Channel" verbose="Uninitialized variable: Channel" cwe="457" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Mcal_Trap.c" line="1192" column="41"/>
+            <symbol>Channel</symbol>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c:213:6" my-argnr="1" my-argname="ErrData" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/irq/Mcal_Trap.c" line="632" col="8" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="cpu0_trap_0" lineNumber="1983"/>
+    <functiondecl functionName="cpu1_trap_0" lineNumber="2138"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="cpu0_trap_0" lineNumber="1983"/>
+    <functiondecl functionName="cpu1_trap_0" lineNumber="2138"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="cpu0_trap_0" lineNumber="1942"/>
+    <functiondecl functionName="cpu1_trap_0" lineNumber="2097"/>
+    <functiondecl functionName="_trap_0" lineNumber="239"/>
+    <functiondecl functionName="_trap_1" lineNumber="290"/>
+    <functiondecl functionName="_trap_2" lineNumber="370"/>
+    <functiondecl functionName="_trap_3" lineNumber="439"/>
+    <functiondecl functionName="_trap_4" lineNumber="515"/>
+    <functiondecl functionName="EcuHwCtrlM_Sec_CommonCheck" lineNumber="630"/>
+    <functiondecl functionName="_trap_5" lineNumber="674"/>
+    <functiondecl functionName="_trap_6" lineNumber="729"/>
+    <functiondecl functionName="_trap_7" lineNumber="1844"/>
+    <functiondecl functionName="cpu0_trap_0" lineNumber="1905"/>
+    <functiondecl functionName="cpu1_trap_0" lineNumber="2060"/>
+    <functioncall functionName="CPU_DATR"/>
+    <functioncall functionName="CPU_DEADD"/>
+    <functioncall functionName="CPU_DIEAR"/>
+    <functioncall functionName="CPU_DIETR"/>
+    <functioncall functionName="CPU_DSTR"/>
+    <functioncall functionName="CPU_PIEAR"/>
+    <functioncall functionName="CPU_PIETR"/>
+    <functioncall functionName="CPU_PSTR"/>
+    <functioncall functionName="DEBUG"/>
+    <functioncall functionName="DFLASH_ECCERROR_DET_COUNT"/>
+    <functioncall functionName="Dma_ChannelType"/>
+    <functioncall functionName="ERR_FAILED"/>
+    <functioncall functionName="ERR_INHIBIT"/>
+    <functioncall functionName="ERR_NONE"/>
+    <functioncall functionName="ERR_PASSED"/>
+    <functioncall functionName="EcuHwCtrlM_Sec_CommonCheck"/>
+    <functioncall functionName="GET_ADDRESS_REG"/>
+    <functioncall functionName="GET_DATA_REG"/>
+    <functioncall functionName="Mcal_CpuWdtCheckAccess"/>
+    <functioncall functionName="Mcal_CpuWdtModifyAccess"/>
+    <functioncall functionName="Mcal_CpuWdtPwSequence"/>
+    <functioncall functionName="Mcal_DmaCfgIntControl"/>
+    <functioncall functionName="Mcal_DmaCfgMeErrIntr"/>
+    <functioncall functionName="Mcal_DmaCfgNoOfMovesPerTransfer"/>
+    <functioncall functionName="Mcal_DmaChClrCtlCfg"/>
+    <functioncall functionName="Mcal_DmaChClrIntctEtrlFlags"/>
+    <functioncall functionName="Mcal_DmaChClrIntrFlags"/>
+    <functioncall functionName="Mcal_DmaClrAdcr"/>
+    <functioncall functionName="Mcal_DmaClrErrFlags"/>
+    <functioncall functionName="Mcal_DmaClrIntrTriggerFlag"/>
+    <functioncall functionName="Mcal_DmaDisableChIntrTrigger"/>
+    <functioncall functionName="Mcal_DmaDisableHwTransfer"/>
+    <functioncall functionName="Mcal_DmaDisableIntr"/>
+    <functioncall functionName="Mcal_DmaEnTransReqLostIntr"/>
+    <functioncall functionName="Mcal_DmaEnableChIntrTrigger"/>
+    <functioncall functionName="Mcal_DmaEnableHwTransfer"/>
+    <functioncall functionName="Mcal_DmaEnableIntr"/>
+    <functioncall functionName="Mcal_DmaGetIntStatus"/>
+    <functioncall functionName="Mcal_DmaGetMoveEngErrFlags"/>
+    <functioncall functionName="Mcal_DmaGetTransReqLostFlag"/>
+    <functioncall functionName="Mcal_DmaGetTransferCount"/>
+    <functioncall functionName="Mcal_DmaGetTransferIntStatus"/>
+    <functioncall functionName="Mcal_DmaResetDmaChannel"/>
+    <functioncall functionName="Mcal_DmaSetAdicr"/>
+    <functioncall functionName="Mcal_DmaSetDataWidth"/>
+    <functioncall functionName="Mcal_DmaSetDestAddr"/>
+    <functioncall functionName="Mcal_DmaSetSourceAddr"/>
+    <functioncall functionName="Mcal_DmaSetTxCount"/>
+    <functioncall functionName="Mcal_DmaStartTransaction"/>
+    <functioncall functionName="Mcal_Extract"/>
+    <functioncall functionName="Mcal_GetCoreId"/>
+    <functioncall functionName="Mcal_GetDsprReMapAddress"/>
+    <functioncall functionName="Mcal_GetSpinLock"/>
+    <functioncall functionName="Mcal_ReleaseSpinLock"/>
+    <functioncall functionName="Mcal_ResetENDINIT"/>
+    <functioncall functionName="Mcal_ResetSafetyENDINIT_Timed"/>
+    <functioncall functionName="Mcal_SafetyCheckAccess"/>
+    <functioncall functionName="Mcal_SafetyPwSequence"/>
+    <functioncall functionName="Mcal_SetAtomic"/>
+    <functioncall functionName="Mcal_SetENDINIT"/>
+    <functioncall functionName="Mcal_SetSafetyENDINIT_Timed"/>
+    <functioncall functionName="Mcal_UnlockResource"/>
+    <functioncall functionName="Mcal_WdtCalcSeqPassword"/>
+    <functioncall functionName="PFLASH_ECCERROR_DET_COUNT"/>
+    <functioncall functionName="RAM_ECCERROR_DET_COUNT"/>
+    <functioncall functionName="ResumeAllInterrupts"/>
+    <functioncall functionName="SuspendAllInterrupts"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="__GETTIN"/>
+    <functioncall functionName="__debug"/>
+    <functioncall functionName="__mfcr"/>
+    <functioncall functionName="_debug"/>
+    <functioncall functionName="a4"/>
+    <functioncall functionName="a5"/>
+    <functioncall functionName="d4"/>
+    <functioncall functionName="d5"/>
+    <functioncall functionName="d6"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

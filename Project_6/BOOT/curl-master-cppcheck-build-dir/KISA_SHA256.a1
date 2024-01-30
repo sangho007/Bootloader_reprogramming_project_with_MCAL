@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="10340822166116766318">
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &lt;stdio.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &lt;stdio.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\SHA-256\KISA_SHA256.c" line="2" column="0"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &lt;stdlib.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &lt;stdlib.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\SHA-256\KISA_SHA256.c" line="3" column="0"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Include file: &lt;string.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results." verbose="Include file: &lt;string.h&gt; not found. Please note: Cppcheck does not need standard library headers to get proper results.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\SHA-256\KISA_SHA256.c" line="4" column="0"/>
+        </error>
+        <error id="unsignedLessThanZero" severity="style" msg="Checking if unsigned expression &apos;Info-&gt;uLowLength+=(uDataLen&lt;&lt;3)&apos; is less than zero." verbose="The unsigned expression &apos;Info-&gt;uLowLength+=(uDataLen&lt;&lt;3)&apos; will never be negative so it is either pointless or an error to check if it is." cwe="570" file0="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\SHA-256\KISA_SHA256.c" line="150" column="44" info="Unsigned less than zero"/>
+            <symbol>Info-&gt;uLowLength+=(uDataLen&lt;&lt;3)</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" call-funcname="SHA256_Init" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="208" col="13" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="16" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="14" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="126" col="2" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" call-funcname="SHA256_Init" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="208" col="13" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="16" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="14" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="126" col="2" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" call-funcname="SHA256_Init" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="208" col="13" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="16" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="14" call-argexpr="&amp;info" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" call-funcname="SHA256_Process" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="210" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="1"/>
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" call-funcname="SHA256_Close" call-argnr="2" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="212" col="2" my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:97:6" my-argnr="3"/>
+  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:74:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="126" col="2" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c:65:6" my-argnr="2" my-argname="ChainVar" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="88" col="6" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="148" col="23" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:82:6" my-argnr="2" my-argname="pszMessage" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="164" col="54" value="0"/>
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.h:89:6" my-argnr="1" my-argname="Info" file="D:/OTA_Traning/Project_6/BOOT/Source/2_App/SHA-256/KISA_SHA256.c" line="178" col="11" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="SHA256_Transform" lineNumber="65"/>
+    <functiondecl functionName="SHA256_Init" lineNumber="124"/>
+    <functiondecl functionName="SHA256_Process" lineNumber="145"/>
+    <functiondecl functionName="SHA256_Close" lineNumber="174"/>
+    <functiondecl functionName="SHA256_Encrpyt" lineNumber="204"/>
+    <functiondecl functionName="SHA256_Transform" lineNumber="65"/>
+    <functiondecl functionName="SHA256_Init" lineNumber="124"/>
+    <functiondecl functionName="SHA256_Process" lineNumber="145"/>
+    <functiondecl functionName="SHA256_Close" lineNumber="174"/>
+    <functiondecl functionName="SHA256_Encrpyt" lineNumber="204"/>
+    <functiondecl functionName="SHA256_Transform" lineNumber="65"/>
+    <functiondecl functionName="SHA256_Init" lineNumber="124"/>
+    <functiondecl functionName="SHA256_Process" lineNumber="145"/>
+    <functiondecl functionName="SHA256_Close" lineNumber="174"/>
+    <functiondecl functionName="SHA256_Encrpyt" lineNumber="204"/>
+    <functioncall functionName="SHA256_Close"/>
+    <functioncall functionName="SHA256_Init"/>
+    <functioncall functionName="SHA256_Process"/>
+    <functioncall functionName="SHA256_Transform"/>
+    <functioncall functionName="_lrotl"/>
+    <functioncall functionName="_lrotr"/>
+    <functioncall functionName="memcpy"/>
+    <functioncall functionName="memset"/>
+  </FileInfo>
+</analyzerinfo>

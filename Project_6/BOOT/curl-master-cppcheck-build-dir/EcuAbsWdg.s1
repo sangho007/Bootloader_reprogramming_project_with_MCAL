@@ -1,0 +1,4 @@
+EA_initWdg call:[setWdgTrigger] noreturn:[setWdgTrigger]
+EA_mainWdg call:[setWdgTrigger] noreturn:[setWdgTrigger]
+EA_wdgTriggerUpdateSlow call:[setWdgTrigger] noreturn:[setWdgTrigger]
+setWdgTrigger call:[Wdg_17_Scu_SetMode,Wdg_17_Scu_SetTriggerCondition] noreturn:[Wdg_17_Scu_SetTriggerCondition]

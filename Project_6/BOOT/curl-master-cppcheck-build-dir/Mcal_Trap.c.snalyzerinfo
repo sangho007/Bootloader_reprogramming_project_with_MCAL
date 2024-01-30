@@ -1,0 +1,11 @@
+_trap_0 global:[TrapIdentification] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+_trap_1 global:[TrapIdentification] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+_trap_2 global:[TrapIdentification] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+_trap_3 global:[TrapIdentification,UVALCON0] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+_trap_4 global:[Ecu_Hw_Dflash_EccError,Ecu_Hw_Pflash_EccError,Ecu_Hw_Ram_DSPR_EccError,Ecu_Hw_Ram_PSPR_EccError,TrapIdentification] call:[EcuHwCtrlM_Sec_CommonCheck,__GETTIN,__mfcr,asm] noreturn:[EcuHwCtrlM_Sec_CommonCheck,__mfcr,asm]
+EcuHwCtrlM_Sec_CommonCheck
+_trap_5 global:[TrapIdentification] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+_trap_6 global:[TrapIdentification] call:[__GETTIN,asm] noreturn:[asm]
+_trap_7 global:[TrapIdentification] call:[DEBUG,__GETTIN,asm] noreturn:[asm]
+cpu0_trap_0 call:[asm] noreturn:[asm]
+cpu1_trap_0 call:[asm] noreturn:[asm]

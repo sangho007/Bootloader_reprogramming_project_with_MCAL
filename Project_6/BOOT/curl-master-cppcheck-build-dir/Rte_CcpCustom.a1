@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="7759100535336827420">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="3" column="0"/>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;txMsgCount&apos; can be reduced." verbose="The scope of the variable &apos;txMsgCount&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="174" column="10"/>
+            <symbol>txMsgCount</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;loopCount&apos; can be reduced." verbose="The scope of the variable &apos;loopCount&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="175" column="10"/>
+            <symbol>loopCount</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;i&apos; can be reduced." verbose="The scope of the variable &apos;i&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="176" column="10"/>
+            <symbol>i</symbol>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;address&apos; can be reduced." verbose="The scope of the variable &apos;address&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\4_Cdd\CcpCustom\Rte_CcpCustom.c" line="278" column="11"/>
+            <symbol>address</symbol>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c:37:13" call-funcname="sendCcpMon" call-argnr="1" file="D:/OTA_Traning/Project_6/BOOT/Source/4_Cdd/CcpCustom/Rte_CcpCustom.c" line="203" col="14" call-argexpr="0u" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="REcbCcpCustom_initialize" lineNumber="50"/>
+    <functiondecl functionName="REtCcpCustom_ccpCustomTask1ms" lineNumber="63"/>
+    <functiondecl functionName="REoiCcpCustom_pCcpCustomCmd_processCcpRequest" lineNumber="77"/>
+    <functiondecl functionName="processCcpMonitoring" lineNumber="172"/>
+    <functiondecl functionName="setCppMonitoringData" lineNumber="275"/>
+    <functiondecl functionName="sendCcpRes" lineNumber="296"/>
+    <functiondecl functionName="sendCcpMon" lineNumber="306"/>
+    <functiondecl functionName="responseCcpReadWrite" lineNumber="311"/>
+    <functiondecl functionName="writeCCPData" lineNumber="326"/>
+    <functiondecl functionName="cbCanTxConfirmationRes" lineNumber="357"/>
+    <functiondecl functionName="cbCanTxConfirmationMon0" lineNumber="362"/>
+    <functiondecl functionName="cbCanTxConfirmationMon1" lineNumber="367"/>
+    <functiondecl functionName="cbCanTxConfirmationMon2" lineNumber="372"/>
+    <functiondecl functionName="cbCanTxConfirmationMon3" lineNumber="377"/>
+    <functiondecl functionName="cbCanTxConfirmationMon4" lineNumber="382"/>
+    <functiondecl functionName="cbCanTxConfirmationMon5" lineNumber="387"/>
+    <functiondecl functionName="cbCanTxConfirmationMon6" lineNumber="392"/>
+    <functiondecl functionName="cbCanTxConfirmationMon7" lineNumber="397"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="Rte_Call_CcpCustom_rEcuAbsCan_canSend"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON0"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON1"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON2"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON3"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON4"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON5"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON6"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON7"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_RES"/>
+    <functioncall functionName="TX_MSG_LEN_CCP_MON_MAX"/>
+    <functioncall functionName="TX_MSG_LEN_CCP_RES"/>
+    <functioncall functionName="UT_getTimeEcuAlive1ms"/>
+    <functioncall functionName="UT_registerCanTxConfirmation"/>
+    <functioncall functionName="cbCanTxConfirmationMon0"/>
+    <functioncall functionName="cbCanTxConfirmationMon1"/>
+    <functioncall functionName="cbCanTxConfirmationMon2"/>
+    <functioncall functionName="cbCanTxConfirmationMon3"/>
+    <functioncall functionName="cbCanTxConfirmationMon4"/>
+    <functioncall functionName="cbCanTxConfirmationMon5"/>
+    <functioncall functionName="cbCanTxConfirmationMon6"/>
+    <functioncall functionName="cbCanTxConfirmationMon7"/>
+    <functioncall functionName="cbCanTxConfirmationRes"/>
+    <functioncall functionName="memcpy"/>
+    <functioncall functionName="memset"/>
+    <functioncall functionName="processCcpMonitoring"/>
+    <functioncall functionName="responseCcpReadWrite"/>
+    <functioncall functionName="sendCcpMon"/>
+    <functioncall functionName="sendCcpRes"/>
+    <functioncall functionName="setCppMonitoringData"/>
+    <functioncall functionName="writeCCPData"/>
+  </FileInfo>
+</analyzerinfo>

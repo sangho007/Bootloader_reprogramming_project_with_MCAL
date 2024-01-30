@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="12459783771283746400">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="48" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcu_Cfg.h&quot; not found." verbose="Include file: &quot;Mcu_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="52" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="43" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxGtm_reg.h&quot; not found." verbose="Include file: &quot;IfxGtm_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm_Cfg.h&quot; not found." verbose="Include file: &quot;Gtm_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="49" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="53" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gtm_Cfg.h&quot; not found." verbose="Include file: &quot;Gtm_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="973" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="977" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="980" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="986" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="992" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Gtm.h" line="2553" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Dem.h&quot; not found." verbose="Include file: &quot;Dem.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="61" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Det.h&quot; not found." verbose="Include file: &quot;Det.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="67" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;McalOsConfig.h&quot; not found." verbose="Include file: &quot;McalOsConfig.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Protect.h" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcu_Cfg.h&quot; not found." verbose="Include file: &quot;Mcu_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Protect.h" line="46" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="613" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="617" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="627" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu.h" line="1307" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="81" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="91" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="94" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="109" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="113" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="119" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="125" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="134" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="141" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="373" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Crc.c" line="59" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Crc.c" line="141" column="0"/>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h:2474:29" my-argnr="3" my-argname="FltValuePtr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Gtm.h" line="2478" col="3" value="0"/>
+  </FileInfo>
+        <error id="unknownMacro" severity="error" msg="There is an unknown macro here somewhere. Configuration is required. If UNUSED_PARAMETER is a macro then please configure it." verbose="There is an unknown macro here somewhere. Configuration is required. If UNUSED_PARAMETER is a macro then please configure it." file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/mcu/Mcu_Crc.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\mcu\Mcu_Local.h" line="308" column="2"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Gtm_SetTomHostTrigger" lineNumber="1261"/>
+    <functiondecl functionName="Gtm_SetTomCounterCn0" lineNumber="1298"/>
+    <functiondecl functionName="Gtm_GetTomCounterCn0" lineNumber="1336"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm0" lineNumber="1376"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm0" lineNumber="1413"/>
+    <functiondecl functionName="Gtm_SetTomCompareValCm1" lineNumber="1452"/>
+    <functiondecl functionName="Gtm_GetTomCompareValCm1" lineNumber="1492"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr0" lineNumber="1530"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr0" lineNumber="1568"/>
+    <functiondecl functionName="Gtm_SetTomShadowValSr1" lineNumber="1607"/>
+    <functiondecl functionName="Gtm_GetTomShadowValSr1" lineNumber="1647"/>
+    <functiondecl functionName="Gtm_GetTomOutputState" lineNumber="1682"/>
+    <functiondecl functionName="Gtm_SetTimCounterShadowValCnts" lineNumber="1723"/>
+    <functiondecl functionName="Gtm_GetTimCounterShadowValCnts" lineNumber="1760"/>
+    <functiondecl functionName="Gtm_GetTimCounterValCnt" lineNumber="1796"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr0" lineNumber="1830"/>
+    <functiondecl functionName="Gtm_GetTimGeneralPurposeRegGpr1" lineNumber="1864"/>
+    <functiondecl functionName="Gtm_SetTimTimeoutVal" lineNumber="1900"/>
+    <functiondecl functionName="Gtm_EnableTimTimeoutDetection" lineNumber="1942"/>
+    <functiondecl functionName="Gtm_DisableTimTimeoutDetection" lineNumber="1978"/>
+    <functiondecl functionName="Gtm_SelectTimTimeoutClock" lineNumber="2018"/>
+    <functiondecl functionName="Gtm_GetTimCurrentTimeoutVal" lineNumber="2059"/>
+    <functiondecl functionName="Gtm_EnableTbuChannel" lineNumber="2089"/>
+    <functiondecl functionName="Gtm_DisableTbuChannel" lineNumber="2125"/>
+    <functiondecl functionName="Gtm_GetTbuChannelStatus" lineNumber="2165"/>
+    <functiondecl functionName="Gtm_GetTbuTimerValue" lineNumber="2220"/>
+    <functiondecl functionName="Gtm_EnableTomChannel" lineNumber="2271"/>
+    <functiondecl functionName="Gtm_DisableTomChannel" lineNumber="2314"/>
+    <functiondecl functionName="Gtm_EnableTomCoherantUpdate" lineNumber="2358"/>
+    <functiondecl functionName="Gtm_TrigActTimebase" lineNumber="2394"/>
+    <functiondecl functionName="Gtm_SetTimFilterThreshold" lineNumber="2433"/>
+    <functiondecl functionName="Gtm_GetTimFilterThreshold" lineNumber="2474"/>
+    <functiondecl functionName="Gtm_GetTomTimerRegisters" lineNumber="2512"/>
+    <functiondecl functionName="Mcu_ChkWkpStdby" lineNumber="1188"/>
+    <functiondecl functionName="Mcu_ClrWkpStdby" lineNumber="1212"/>
+    <functiondecl functionName="Mcu_SetStandbyCtrlReg" lineNumber="1252"/>
+    <functiondecl functionName="Mcu_lInitCallVerify" lineNumber="230"/>
+    <functiondecl functionName="Mcu_lInitCcuconLckBitCheck" lineNumber="275"/>
+    <functiondecl functionName="Mcu_lRuntimeCcuconLckBitCheck" lineNumber="333"/>
+    <functioncall functionName="Det_ReportError"/>
+    <functioncall functionName="E_OK"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="GTM_CHANNELS_PER_TIM_MODULE"/>
+    <functioncall functionName="GTM_CHANNELS_PER_TOM_MODULE"/>
+    <functioncall functionName="GTM_CONFIG_COUNT"/>
+    <functioncall functionName="GTM_NO_OF_TBU_CHANNELS"/>
+    <functioncall functionName="GTM_NO_OF_TIM_MODULES"/>
+    <functioncall functionName="GTM_NO_OF_TOM_MODULES"/>
+    <functioncall functionName="GTM_NO_OF_TOUTSEL_REGISTERS"/>
+    <functioncall functionName="GTM_TOM0_TGC0_GLB_CTRL"/>
+    <functioncall functionName="GTM_TOM_CHANNELS_PER_TGC"/>
+    <functioncall functionName="MCU_CCUCON_LOCKBIT_TIMEOUT"/>
+    <functioncall functionName="MCU_CONFIG_COUNT"/>
+    <functioncall functionName="MCU_MODULE_INSTANCE"/>
+    <functioncall functionName="OS_ModifyPeripheral32"/>
+    <functioncall functionName="OS_ReadPeripheral32"/>
+    <functioncall functionName="OS_WritePeripheral32"/>
+    <functioncall functionName="TBU"/>
+    <functioncall functionName="TIM"/>
+    <functioncall functionName="TOM"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="TRUSTED_ApplSafetyResetEndInit_Timed"/>
+    <functioncall functionName="TRUSTED_ApplSafetySetEndInit_Timed"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+    <functioncall functionName="unsigned_int"/>
+  </FileInfo>
+</analyzerinfo>

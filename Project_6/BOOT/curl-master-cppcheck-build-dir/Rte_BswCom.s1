@@ -1,0 +1,6 @@
+REcbBswCom_initialize global:[stBswComData] call:[Rte_Call_BswCom_rEcuAbsCan_setPduInfo] noreturn:[Rte_Call_BswCom_rEcuAbsCan_setPduInfo]
+REtBswCom_bswComMain global:[stSas01] call:[processingDataRx,processingDataTx,sendCanTx]
+REcbBswCom_canRxIndication global:[stSas01] call:[Rte_Call_BswCom_rCcpCustomCmd_processCcpRequest,Rte_Call_BswCom_rDcmCmd_processDiagRequest,UT_getCanRxIndicationData,memcpy] noreturn:[Rte_Call_BswCom_rCcpCustomCmd_processCcpRequest,Rte_Call_BswCom_rDcmCmd_processDiagRequest,memcpy]
+processingDataRx global:[stSas01] call:[UT_readSignalData] noreturn:[UT_readSignalData]
+processingDataTx global:[stSas01,stSdc01] call:[UT_writeSignalData,memset] noreturn:[UT_writeSignalData]
+sendCanTx global:[stSdc01] call:[Rte_Call_BswCom_rDcmCmd_getDiagStatus,Rte_Call_BswCom_rEcuAbsCan_canSend]

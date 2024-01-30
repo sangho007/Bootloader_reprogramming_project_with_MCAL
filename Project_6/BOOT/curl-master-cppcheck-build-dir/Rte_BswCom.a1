@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="17296753187742275116">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswCom\Rte_BswCom.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Definition.h&quot; not found." verbose="Include file: &quot;Definition.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswCom\Rte_BswCom.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\2_App\BswCom\Rte_BswCom.c" line="3" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="REcbBswCom_initialize" lineNumber="32"/>
+    <functiondecl functionName="REtBswCom_bswComMain" lineNumber="52"/>
+    <functiondecl functionName="REcbBswCom_canRxIndication" lineNumber="63"/>
+    <functiondecl functionName="processingDataRx" lineNumber="94"/>
+    <functiondecl functionName="processingDataTx" lineNumber="101"/>
+    <functiondecl functionName="sendCanTx" lineNumber="111"/>
+    <functioncall functionName="DataType_uint16"/>
+    <functioncall functionName="DataType_uint8"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="MAX_CAN_MSG_DLC"/>
+    <functioncall functionName="RX_MSG_IDX_CCP_REQ"/>
+    <functioncall functionName="RX_MSG_IDX_FUN_REQ"/>
+    <functioncall functionName="RX_MSG_IDX_PHY_REQ"/>
+    <functioncall functionName="RX_MSG_IDX_SAS_01"/>
+    <functioncall functionName="RX_MSG_ID_CCP_REQ"/>
+    <functioncall functionName="RX_MSG_ID_FUN_REQ"/>
+    <functioncall functionName="RX_MSG_ID_PHY_REQ"/>
+    <functioncall functionName="RX_MSG_ID_SAS_01"/>
+    <functioncall functionName="RX_MSG_LEN_CCP_REQ"/>
+    <functioncall functionName="RX_MSG_LEN_FUN_REQ"/>
+    <functioncall functionName="RX_MSG_LEN_PHY_REQ"/>
+    <functioncall functionName="RX_MSG_LEN_SAS_01"/>
+    <functioncall functionName="Rte_Call_BswCom_rCcpCustomCmd_processCcpRequest"/>
+    <functioncall functionName="Rte_Call_BswCom_rDcmCmd_getDiagStatus"/>
+    <functioncall functionName="Rte_Call_BswCom_rDcmCmd_processDiagRequest"/>
+    <functioncall functionName="Rte_Call_BswCom_rEcuAbsCan_canSend"/>
+    <functioncall functionName="Rte_Call_BswCom_rEcuAbsCan_setPduInfo"/>
+    <functioncall functionName="TOTAL_CAN_MSG_COUNT"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON0"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON1"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON2"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON3"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON4"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON5"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON6"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_MON7"/>
+    <functioncall functionName="TX_MSG_IDX_CCP_RES"/>
+    <functioncall functionName="TX_MSG_IDX_PHY_RES"/>
+    <functioncall functionName="TX_MSG_IDX_SDC_01"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON0"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON1"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON2"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON3"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON4"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON5"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON6"/>
+    <functioncall functionName="TX_MSG_ID_CCP_MON7"/>
+    <functioncall functionName="TX_MSG_ID_CCP_RES"/>
+    <functioncall functionName="TX_MSG_ID_PHY_RES"/>
+    <functioncall functionName="TX_MSG_ID_SDC_01"/>
+    <functioncall functionName="TX_MSG_LEN_CCP_MON_DEFAULT"/>
+    <functioncall functionName="TX_MSG_LEN_CCP_RES"/>
+    <functioncall functionName="TX_MSG_LEN_PHY_RES"/>
+    <functioncall functionName="TX_MSG_LEN_SDC_01"/>
+    <functioncall functionName="UT_getCanRxIndicationData"/>
+    <functioncall functionName="UT_readSignalData"/>
+    <functioncall functionName="UT_writeSignalData"/>
+    <functioncall functionName="memcpy"/>
+    <functioncall functionName="memset"/>
+    <functioncall functionName="processingDataRx"/>
+    <functioncall functionName="processingDataTx"/>
+    <functioncall functionName="sendCanTx"/>
+  </FileInfo>
+</analyzerinfo>

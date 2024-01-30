@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="14912963591683947676">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;SchM_17_McalCfg.h&quot; not found." verbose="Include file: &quot;SchM_17_McalCfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu_Local.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu_Local.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c" line="47" column="0"/>
+        </error>
+        <error id="preprocessorErrorDirective" severity="error" msg="#error &quot;FLS_17_PMU_AR_RELEASE_MAJOR_VERSION does not match. &quot;" verbose="#error &quot;FLS_17_PMU_AR_RELEASE_MAJOR_VERSION does not match. &quot;" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c" line="70" column="4"/>
+        </error>
+        <error id="noValidConfiguration" severity="information" msg="This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details." verbose="This file is not analyzed. Cppcheck failed to extract a valid configuration. The tested configurations have these preprocessor errors:\012&apos;&apos; : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c:58] #error &quot;FLS_17_PMU_AR_RELEASE_MAJOR_VERSION is not defined. &quot;\012FLS_17_PMU_AR_RELEASE_MAJOR_VERSION;FLS_17_PMU_AR_RELEASE_MINOR_VERSION;FLS_17_PMU_AR_RELEASE_REVISION_VERSION;FLS_17_PMU_SW_MAJOR_VERSION;FLS_17_PMU_SW_MINOR_VERSION;FLS_17_PMU_SW_PATCH_VERSION;DET_AR_RELEASE_MAJOR_VERSION;DET_AR_RELEASE_MINOR_VERSION;DEM_AR_RELEASE_MAJOR_VERSION;DEM_AR_RELEASE_MINOR_VERSION : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_Ver.c:70] #error &quot;FLS_17_PMU_AR_RELEASE_MAJOR_VERSION does not match. &quot;" file0="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_Ver.c" line="0" column="0"/>
+        </error>
+</analyzerinfo>

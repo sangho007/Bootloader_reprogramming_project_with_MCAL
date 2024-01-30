@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="348844127834598158">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\1_Common\Definition.h" line="4" column="0"/>
+        </error>
+</analyzerinfo>

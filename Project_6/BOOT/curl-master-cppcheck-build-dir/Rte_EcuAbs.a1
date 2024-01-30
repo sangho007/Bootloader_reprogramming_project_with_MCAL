@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="12636470216109474175">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsGpt.h&quot; not found." verbose="Include file: &quot;EcuAbsGpt.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsAdc.h&quot; not found." verbose="Include file: &quot;EcuAbsAdc.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsCan.h&quot; not found." verbose="Include file: &quot;EcuAbsCan.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsDio.h&quot; not found." verbose="Include file: &quot;EcuAbsDio.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="5" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsSpi.h&quot; not found." verbose="Include file: &quot;EcuAbsSpi.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="6" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsWdg.h&quot; not found." verbose="Include file: &quot;EcuAbsWdg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="7" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsNvm.h&quot; not found." verbose="Include file: &quot;EcuAbsNvm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="8" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsMcu.h&quot; not found." verbose="Include file: &quot;EcuAbsMcu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="9" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;EcuAbsFls.h&quot; not found." verbose="Include file: &quot;EcuAbsFls.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Rte_EcuAbs.c" line="10" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="REcbEcuAbs_initialize" lineNumber="13"/>
+    <functiondecl functionName="REtEcuAbs_ecuAbsMain" lineNumber="25"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsCan_setPduInfo" lineNumber="43"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsCan_canSend" lineNumber="48"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsNvm_readNvmData" lineNumber="53"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsNvm_writeNvmData" lineNumber="58"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsFls_erasePflashBlock" lineNumber="63"/>
+    <functiondecl functionName="REoiEcuAbs_pEcuAbsFls_writePflash" lineNumber="68"/>
+    <functioncall functionName="EA_canSend"/>
+    <functioncall functionName="EA_erasePflashBlock"/>
+    <functioncall functionName="EA_initAdc"/>
+    <functioncall functionName="EA_initCan"/>
+    <functioncall functionName="EA_initDio"/>
+    <functioncall functionName="EA_initGpt"/>
+    <functioncall functionName="EA_initMcu"/>
+    <functioncall functionName="EA_initNvm"/>
+    <functioncall functionName="EA_initSpi"/>
+    <functioncall functionName="EA_initWdg"/>
+    <functioncall functionName="EA_mainAdc"/>
+    <functioncall functionName="EA_mainCan"/>
+    <functioncall functionName="EA_mainDio"/>
+    <functioncall functionName="EA_mainGpt"/>
+    <functioncall functionName="EA_mainMcu"/>
+    <functioncall functionName="EA_mainNvm"/>
+    <functioncall functionName="EA_mainSpi"/>
+    <functioncall functionName="EA_mainWdg"/>
+    <functioncall functionName="EA_readNvmData"/>
+    <functioncall functionName="EA_setPduInfo"/>
+    <functioncall functionName="EA_writeNvmData"/>
+    <functioncall functionName="EA_writePflash"/>
+  </FileInfo>
+</analyzerinfo>

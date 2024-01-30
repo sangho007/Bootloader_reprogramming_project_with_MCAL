@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="16777676362173372569">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Port.h&quot; not found." verbose="Include file: &quot;Port.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Port_PBCfg.c" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Port_PBCfg.c" line="112" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Port_PBCfg.c" line="1303" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="PORT_PIN_MODE_ALT1"/>
+    <functioncall functionName="PORT_PIN_MODE_ALT3"/>
+    <functioncall functionName="PORT_PIN_MODE_ALT5"/>
+    <functioncall functionName="PORT_PIN_MODE_GPIO"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint32"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

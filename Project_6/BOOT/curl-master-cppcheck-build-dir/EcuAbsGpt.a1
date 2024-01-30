@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="5824623710359915101">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Gpt\EcuAbsGpt.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gpt_Cfg.h&quot; not found." verbose="Include file: &quot;Gpt_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Gpt\EcuAbsGpt.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Gpt.h&quot; not found." verbose="Include file: &quot;Gpt.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Gpt\EcuAbsGpt.c" line="3" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initGpt" lineNumber="7"/>
+    <functiondecl functionName="EA_mainGpt" lineNumber="13"/>
+    <functioncall functionName="Gpt_ChannelType"/>
+    <functioncall functionName="Gpt_EnableNotification"/>
+    <functioncall functionName="Gpt_StartTimer"/>
+  </FileInfo>
+</analyzerinfo>

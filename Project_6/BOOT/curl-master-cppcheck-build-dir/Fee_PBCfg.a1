@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="5726668617543831596">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fee.h&quot; not found." verbose="Include file: &quot;Fee.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="67" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="75" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="82" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="150" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="155" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Fee_PBCfg.c" line="160" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="FEE_ERASE_SUSPEND_DISABLED"/>
+    <functioncall functionName="FEE_GC_RESTART_WRITE"/>
+    <functioncall functionName="FEE_IMMEDIATE_DATA"/>
+    <functioncall functionName="FEE_NORMAL_DATA"/>
+    <functioncall functionName="FEE_UNCONFIG_BLOCK_KEEP"/>
+    <functioncall functionName="Fee_NotifFunctionPtrType"/>
+    <functioncall functionName="NULL_PTR"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="boolean"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

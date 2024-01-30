@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="9290619021162516617">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Nvm\EcuAbsNvm.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fee.h&quot; not found." verbose="Include file: &quot;Fee.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Nvm\EcuAbsNvm.c" line="2" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Nvm\EcuAbsNvm.c" line="3" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Utility.h&quot; not found." verbose="Include file: &quot;Utility.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\3_EcuAbs\Nvm\EcuAbsNvm.c" line="4" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="EA_initNvm" lineNumber="10"/>
+    <functiondecl functionName="EA_mainNvm" lineNumber="18"/>
+    <functiondecl functionName="EA_readNvmData" lineNumber="33"/>
+    <functiondecl functionName="EA_writeNvmData" lineNumber="68"/>
+    <functioncall functionName="DATA_ID_IgnCycle"/>
+    <functioncall functionName="DATA_LEN_AttemptCounter"/>
+    <functioncall functionName="DATA_LEN_IgnCycle"/>
+    <functioncall functionName="DATA_LEN_SuccessCounter"/>
+    <functioncall functionName="DATA_LEN_VariantCode"/>
+    <functioncall functionName="EA_readNvmData"/>
+    <functioncall functionName="EA_writeNvmData"/>
+    <functioncall functionName="Fee_GetStatus"/>
+    <functioncall functionName="Fee_Init"/>
+    <functioncall functionName="Fee_MainFunction"/>
+    <functioncall functionName="Fee_Read"/>
+    <functioncall functionName="Fee_Write"/>
+    <functioncall functionName="Fls_17_Pmu_MainFunction"/>
+    <functioncall functionName="P_uint8"/>
+  </FileInfo>
+</analyzerinfo>

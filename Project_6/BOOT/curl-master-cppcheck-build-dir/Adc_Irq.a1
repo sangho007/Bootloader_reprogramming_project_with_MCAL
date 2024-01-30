@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="15663823355503920255">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Adc_Irq.c" line="33" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="37" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Irq_Cfg.h&quot; not found." verbose="Include file: &quot;Irq_Cfg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="172" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Irq.h" line="543" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Mcal.h&quot; not found." verbose="Include file: &quot;Mcal.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Adc_Irq.c" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Adc.h&quot; not found." verbose="Include file: &quot;Adc.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Adc_Irq.c" line="36" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Adc_Irq.c" line="75" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\irq\Adc_Irq.c" line="1563" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="ISR" lineNumber="101"/>
+    <functiondecl functionName="ISR" lineNumber="142"/>
+    <functiondecl functionName="ISR" lineNumber="185"/>
+    <functiondecl functionName="ISR" lineNumber="226"/>
+    <functiondecl functionName="ISR" lineNumber="269"/>
+    <functiondecl functionName="ISR" lineNumber="310"/>
+    <functiondecl functionName="ISR" lineNumber="353"/>
+    <functiondecl functionName="ISR" lineNumber="394"/>
+    <functiondecl functionName="ISR" lineNumber="437"/>
+    <functiondecl functionName="ISR" lineNumber="478"/>
+    <functiondecl functionName="ISR" lineNumber="521"/>
+    <functiondecl functionName="ISR" lineNumber="562"/>
+    <functiondecl functionName="ISR" lineNumber="605"/>
+    <functiondecl functionName="ISR" lineNumber="646"/>
+    <functiondecl functionName="ISR" lineNumber="689"/>
+    <functiondecl functionName="ISR" lineNumber="730"/>
+    <functiondecl functionName="ISR" lineNumber="773"/>
+    <functiondecl functionName="ISR" lineNumber="814"/>
+    <functiondecl functionName="ISR" lineNumber="857"/>
+    <functiondecl functionName="ISR" lineNumber="898"/>
+    <functiondecl functionName="ISR" lineNumber="941"/>
+    <functiondecl functionName="ISR" lineNumber="982"/>
+    <functiondecl functionName="ISR" lineNumber="1025"/>
+    <functiondecl functionName="ISR" lineNumber="1070"/>
+    <functiondecl functionName="ISR" lineNumber="1113"/>
+    <functiondecl functionName="ISR" lineNumber="1156"/>
+    <functiondecl functionName="ISR" lineNumber="1199"/>
+    <functiondecl functionName="ISR" lineNumber="1242"/>
+    <functiondecl functionName="ISR" lineNumber="1285"/>
+    <functiondecl functionName="ISR" lineNumber="1328"/>
+    <functiondecl functionName="ISR" lineNumber="1371"/>
+    <functiondecl functionName="ISR" lineNumber="1414"/>
+    <functiondecl functionName="ISR" lineNumber="1457"/>
+    <functiondecl functionName="ISR" lineNumber="1500"/>
+    <functiondecl functionName="ISR" lineNumber="1543"/>
+    <functioncall functionName="ADC0SR0_ISR"/>
+    <functioncall functionName="ADC0SR1_ISR"/>
+    <functioncall functionName="ADC0SR2_ISR"/>
+    <functioncall functionName="ADC10SR0_ISR"/>
+    <functioncall functionName="ADC10SR1_ISR"/>
+    <functioncall functionName="ADC10SR2_ISR"/>
+    <functioncall functionName="ADC1SR0_ISR"/>
+    <functioncall functionName="ADC1SR1_ISR"/>
+    <functioncall functionName="ADC1SR2_ISR"/>
+    <functioncall functionName="ADC2SR0_ISR"/>
+    <functioncall functionName="ADC2SR1_ISR"/>
+    <functioncall functionName="ADC2SR2_ISR"/>
+    <functioncall functionName="ADC3SR0_ISR"/>
+    <functioncall functionName="ADC3SR1_ISR"/>
+    <functioncall functionName="ADC3SR2_ISR"/>
+    <functioncall functionName="ADC4SR0_ISR"/>
+    <functioncall functionName="ADC4SR1_ISR"/>
+    <functioncall functionName="ADC4SR2_ISR"/>
+    <functioncall functionName="ADC5SR0_ISR"/>
+    <functioncall functionName="ADC5SR1_ISR"/>
+    <functioncall functionName="ADC5SR2_ISR"/>
+    <functioncall functionName="ADC6SR0_ISR"/>
+    <functioncall functionName="ADC6SR1_ISR"/>
+    <functioncall functionName="ADC6SR2_ISR"/>
+    <functioncall functionName="ADC7SR0_ISR"/>
+    <functioncall functionName="ADC7SR1_ISR"/>
+    <functioncall functionName="ADC7SR2_ISR"/>
+    <functioncall functionName="ADC8SR0_ISR"/>
+    <functioncall functionName="ADC8SR1_ISR"/>
+    <functioncall functionName="ADC8SR2_ISR"/>
+    <functioncall functionName="ADC9SR0_ISR"/>
+    <functioncall functionName="ADC9SR1_ISR"/>
+    <functioncall functionName="ADC9SR2_ISR"/>
+    <functioncall functionName="ADCCG0SR0_ISR"/>
+    <functioncall functionName="ADCCG0SR1_ISR"/>
+    <functioncall functionName="ADC_HWUNIT_ADC0"/>
+    <functioncall functionName="ADC_HWUNIT_ADC1"/>
+    <functioncall functionName="ADC_HWUNIT_ADC10"/>
+    <functioncall functionName="ADC_HWUNIT_ADC2"/>
+    <functioncall functionName="ADC_HWUNIT_ADC3"/>
+    <functioncall functionName="ADC_HWUNIT_ADC4"/>
+    <functioncall functionName="ADC_HWUNIT_ADC5"/>
+    <functioncall functionName="ADC_HWUNIT_ADC6"/>
+    <functioncall functionName="ADC_HWUNIT_ADC7"/>
+    <functioncall functionName="ADC_HWUNIT_ADC8"/>
+    <functioncall functionName="ADC_HWUNIT_ADC9"/>
+    <functioncall functionName="Adc_IsrSrn0AdcRS0"/>
+    <functioncall functionName="Adc_IsrSrn0CG0AdcRS2"/>
+    <functioncall functionName="Adc_IsrSrn1AdcRS1"/>
+    <functioncall functionName="Adc_IsrSrn1CG0AdcRS3"/>
+    <functioncall functionName="Adc_IsrSrn2AdcChEvnt"/>
+    <functioncall functionName="ISR"/>
+    <functioncall functionName="Mcal_EnableAllInterrupts"/>
+  </FileInfo>
+</analyzerinfo>

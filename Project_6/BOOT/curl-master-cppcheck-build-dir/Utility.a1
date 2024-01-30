@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="3933160557877806657">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Platform_Types.h&quot; not found." verbose="Include file: &quot;Platform_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\1_Common\Utility.h" line="4" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Rte_Type.h&quot; not found." verbose="Include file: &quot;Rte_Type.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\1_Common\Definition.h" line="4" column="0"/>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;i&apos; can be reduced." verbose="The scope of the variable &apos;i&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398" file0="D:/OTA_Traning/Project_6/BOOT/Source/1_Common/Utility.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\1_Common\Utility.c" line="122" column="10"/>
+            <symbol>i</symbol>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="NULL"/>
+    <functioncall functionName="REcbBswCom_canRxIndication"/>
+    <functioncall functionName="memcpy"/>
+  </FileInfo>
+</analyzerinfo>

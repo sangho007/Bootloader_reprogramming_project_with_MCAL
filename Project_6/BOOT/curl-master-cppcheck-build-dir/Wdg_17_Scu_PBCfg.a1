@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="4529569677473374759">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Wdg_17_Scu.h&quot; not found." verbose="Include file: &quot;Wdg_17_Scu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Wdg_17_Scu_PBCfg.c" line="45" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Wdg_17_Scu_PBCfg.c" line="84" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\McalTraining\cfg\src\Wdg_17_Scu_PBCfg.c" line="184" column="0"/>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functioncall functionName="WDGIF_FAST_MODE"/>
+    <functioncall functionName="WDG_GTM_TOM_CHANNEL"/>
+    <functioncall functionName="uint16"/>
+    <functioncall functionName="uint8"/>
+  </FileInfo>
+</analyzerinfo>

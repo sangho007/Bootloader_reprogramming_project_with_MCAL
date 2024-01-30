@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="6834701767869944598">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxFlash_reg.h&quot; not found." verbose="Include file: &quot;IfxFlash_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="38" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Fls_17_Pmu_ac.h&quot; not found." verbose="Include file: &quot;Fls_17_Pmu_ac.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="44" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="85" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="94" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="139" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="196" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="219" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="250" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="256" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;MemMap.h&quot; not found." verbose="Include file: &quot;MemMap.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\fls_17_pmu_infineon_tricore\src\Fls_17_Pmu_ac.c" line="537" column="0"/>
+        </error>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c:317:6" my-argnr="2" my-argname="s_ptr" file="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/fls_17_pmu_infineon_tricore/src/Fls_17_Pmu_ac.c" line="348" col="17" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functiondecl functionName="Fls_WriteCmdCycles" lineNumber="140"/>
+    <functiondecl functionName="Fls_EraseCmdCycles" lineNumber="220"/>
+    <functiondecl functionName="Fls_CallEraseCommand" lineNumber="274"/>
+    <functiondecl functionName="Fls_CallWriteCommand" lineNumber="317"/>
+    <functiondecl functionName="Fls_ResetReadCmdCycle" lineNumber="383"/>
+    <functiondecl functionName="Fls_ClearStatusCmdCycle" lineNumber="405"/>
+    <functiondecl functionName="Fls_ResumeEraseCmdCycle" lineNumber="433"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout05" lineNumber="475"/>
+    <functiondecl functionName="Fls_lCmdCycleTimeout06" lineNumber="511"/>
+    <functioncall functionName="Cycle5554"/>
+    <functioncall functionName="CycleAA50"/>
+    <functioncall functionName="CycleAA58"/>
+    <functioncall functionName="CycleAAA8"/>
+    <functioncall functionName="DFLASH_BANK0_PHYSICAL"/>
+    <functioncall functionName="DFLASH_BANK1_PHYSICAL"/>
+    <functioncall functionName="EnterPageMode"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="FLS_BASE_ADDRESS"/>
+    <functioncall functionName="FLS_CMDCYCLE_TIMEOUT"/>
+    <functioncall functionName="FLS_ERASE"/>
+    <functioncall functionName="FLS_ERASE_SECTORS"/>
+    <functioncall functionName="FLS_FSR_DFPAGE_MASK"/>
+    <functioncall functionName="FLS_FSR_ERASE_MASK"/>
+    <functioncall functionName="FLS_FSR_PROG_MASK"/>
+    <functioncall functionName="FLS_SFR_RUNTIME_USER_MODE_READ32"/>
+    <functioncall functionName="FLS_WRITE"/>
+    <functioncall functionName="FlsAccessCodeErasePtr"/>
+    <functioncall functionName="FlsAccessCodeWritePtr"/>
+    <functioncall functionName="FlsEmulation_ClearStatusCmdCycle"/>
+    <functioncall functionName="FlsStateVarPtr"/>
+    <functioncall functionName="Fls_lCmdCycleTimeout05"/>
+    <functioncall functionName="Fls_lCmdCycleTimeout06"/>
+    <functioncall functionName="LoadPage"/>
+    <functioncall functionName="TRUE"/>
+    <functioncall functionName="U"/>
+    <functioncall functionName="VALUE_00"/>
+    <functioncall functionName="VALUE_50"/>
+    <functioncall functionName="VALUE_5D"/>
+    <functioncall functionName="VALUE_70"/>
+    <functioncall functionName="VALUE_7A"/>
+    <functioncall functionName="VALUE_80"/>
+    <functioncall functionName="VALUE_A0"/>
+    <functioncall functionName="VALUE_AA"/>
+    <functioncall functionName="VALUE_CC"/>
+    <functioncall functionName="VALUE_F0"/>
+    <functioncall functionName="VALUE_FA"/>
+    <functioncall functionName="boolean"/>
+    <functioncall functionName="uint32"/>
+  </FileInfo>
+</analyzerinfo>

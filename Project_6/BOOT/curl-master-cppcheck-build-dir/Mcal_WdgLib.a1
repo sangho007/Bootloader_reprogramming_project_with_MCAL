@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<analyzerinfo hash="2446581488489356131">
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxScu_reg.h&quot; not found." verbose="Include file: &quot;IfxScu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c" line="40" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxCpu_reg.h&quot; not found." verbose="Include file: &quot;IfxCpu_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c" line="41" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;IfxSrc_reg.h&quot; not found." verbose="Include file: &quot;IfxSrc_reg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c" line="42" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_TcLib.h" line="39" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;Std_Types.h&quot; not found." verbose="Include file: &quot;Std_Types.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_Options.h" line="35" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;intrinsics.h&quot; not found." verbose="Include file: &quot;intrinsics.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_Compiler.h" line="51" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;asm.h&quot; not found." verbose="Include file: &quot;asm.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_Compiler.h" line="56" column="0"/>
+        </error>
+        <error id="missingInclude" severity="information" msg="Include file: &quot;stdarg.h&quot; not found." verbose="Include file: &quot;stdarg.h&quot; not found.">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_Compiler.h" line="57" column="0"/>
+        </error>
+        <error id="preprocessorErrorDirective" severity="error" msg="#error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \" verbose="    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;" file0="D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_WdgLib.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_Options.h" line="59" column="2"/>
+        </error>
+        <error id="noValidConfiguration" severity="information" msg="This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details." verbose="This file is not analyzed. Cppcheck failed to extract a valid configuration. The tested configurations have these preprocessor errors:\012&apos;&apos; : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;\012MCAL_SW_MAJOR_VERSION;MCAL_SW_MINOR_VERSION;MCAL_SW_PATCH_VERSION : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;\012OS_KERNEL_TYPE : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;\012_GNU_C_TRICORE_ : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;\012_TASKING_C_TRICORE_ : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;\012__DCC__ : [D:/OTA_Traning/Project_6/BOOT/Source/5_Bsw/Mcal/AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201/tricore_general/Mcal_Options.h:59] #error &quot;STM_RUNNING_IN_USER_0_MODE_ENABLE is (STD_ON) then                     \\012    STM_USER_MODE_RUNTIME_API_ENABLE also should be (STD_ON)&quot;" file0="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c">
+            <location file="D:\OTA_Traning\Project_6\BOOT\Source\5_Bsw\Mcal\AURIX_MC-ISAR_AS4XX_AURIX_TC23X_AC_V201\tricore_general\Mcal_WdgLib.c" line="0" column="0"/>
+        </error>
+</analyzerinfo>

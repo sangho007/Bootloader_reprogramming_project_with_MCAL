@@ -1,0 +1,8 @@
+REcbEcuAbs_initialize call:[EA_initAdc,EA_initCan,EA_initDio,EA_initGpt,EA_initMcu,EA_initNvm,EA_initSpi,EA_initWdg] noreturn:[EA_initNvm]
+REtEcuAbs_ecuAbsMain call:[EA_mainAdc,EA_mainCan,EA_mainDio,EA_mainGpt,EA_mainMcu,EA_mainNvm,EA_mainSpi,EA_mainWdg] noreturn:[EA_mainCan]
+REoiEcuAbs_pEcuAbsCan_setPduInfo call:[EA_setPduInfo] noreturn:[EA_setPduInfo]
+REoiEcuAbs_pEcuAbsCan_canSend call:[EA_canSend] noreturn:[EA_canSend]
+REoiEcuAbs_pEcuAbsNvm_readNvmData call:[EA_readNvmData] noreturn:[EA_readNvmData]
+REoiEcuAbs_pEcuAbsNvm_writeNvmData call:[EA_writeNvmData] noreturn:[EA_writeNvmData]
+REoiEcuAbs_pEcuAbsFls_erasePflashBlock call:[EA_erasePflashBlock] noreturn:[EA_erasePflashBlock]
+REoiEcuAbs_pEcuAbsFls_writePflash call:[EA_writePflash] noreturn:[EA_writePflash]
